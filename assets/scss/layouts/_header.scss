@@ -12,6 +12,7 @@
 
 .navbar-brand {
   font-weight: $headings-font-weight;
+  font-family: $font-family-fantasy;
 }
 
 .navbar-light .navbar-brand,
@@ -74,7 +75,7 @@
 
 .header-bar {
   border-top: 4px solid;
-  border-image-source: linear-gradient(90deg, $primary, #8ed6fb 50%, #d32e9d);
+  border-image-source: linear-gradient(90deg, $primary, #8ed6fb 50%, $mint);
   border-image-slice: 1;
 }
 

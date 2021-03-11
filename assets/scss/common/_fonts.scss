@@ -69,3 +69,31 @@
     url("fonts/vendor/jost/jost-v4-latin-700italic.woff2") format("woff2"),
     url("fonts/vendor/jost/jost-v4-latin-700italic.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
+
+/* grenze-regular - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/vendor/grenze/grenze-v2-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('fonts/vendor/grenze/grenze-v2-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/vendor/grenze/grenze-v2-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/vendor/grenze/grenze-v2-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('fonts/vendor/grenze/grenze-v2-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/vendor/grenze/grenze-v2-latin-regular.svg#Grenze') format('svg'); /* Legacy iOS */
+}
+
+/* grenze-700 - latin */
+@font-face {
+  font-family: 'Grenze';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/vendor/grenze/grenze-v2-latin-700.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('fonts/vendor/grenze/grenze-v2-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/vendor/grenze/grenze-v2-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/vendor/grenze/grenze-v2-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('fonts/vendor/grenze/grenze-v2-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/vendor/grenze/grenze-v2-latin-700.svg#Grenze') format('svg'); /* Legacy iOS */
+}
