@@ -4,9 +4,37 @@ disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "en-US"
+languageCode = "de-AT"
 paginate = 7
 rssLimit = 10
+defaultContentLanguage = "de"
+
+[languages]
+  [languages.de]
+    contentDir = "content/deutsch"
+    languageName = "Deutsch"
+    title = "Zeit.shift"
+    titleSeparator = "-"
+    titleAddition = "digital in gesterns Zukunft"
+    description = "Bewahrung, Erschließung und Vermittlung des kulturellen Texterbes Gesamttirols"
+    weight = 1
+  [languages.en]
+    contentDir = "content/english"
+    languageName = "English"
+    title = "Zeit.shift"
+    titleSeparator = "-"
+    titleAddition = "English"
+    description = ""
+    weight = 2
+  [languages.it]
+    contentDir = "content/italiano"
+    languageName = "Italian"
+    title = "Zeit.shift"
+    titleSeparator = "-"
+    titleAddition = "Italiano"
+    description = ""
+    weight = 3
+
 
 # add redirects/headers
 [outputs]
