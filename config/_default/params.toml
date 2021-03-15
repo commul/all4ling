@@ -58,3 +58,4 @@ editPage = false
   bootStrapJs = false
   breadCrumb = true
   languageSwitch = true
+  highLight = false
