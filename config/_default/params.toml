@@ -59,3 +59,4 @@ editPage = false
   breadCrumb = true
   languageSwitch = true
   highLight = false
+  kaTex = false

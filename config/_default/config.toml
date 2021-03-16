@@ -118,6 +118,9 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "node_modules/flexsearch"
     target = "assets/js/vendor/flexsearch"
+  [[module.mounts]]
+    source = "node_modules/katex"
+    target = "assets/js/vendor/katex"
 
 [privacy]
   [privacy.disqus]
