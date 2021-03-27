@@ -1,5 +1,7 @@
-# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
-image: registry.gitlab.com/pages/hugo:latest
+---
+image:
+  name: klakegg/hugo:ext-ubuntu
+  entrypoint: ['']
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
@@ -7,8 +9,8 @@ variables:
 test:
   script:
   - hugo
-  except:
-  - master
+  # except:
+  # - master
 
 pages:
   script:
@@ -18,4 +20,3 @@ pages:
     - public
   only:
   - master
-
