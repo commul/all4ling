@@ -7,13 +7,19 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 test:
+  before_script:
+    - apt update && apt install -y npm
   script:
+  - npm install
   - hugo
   # except:
   # - master
 
 pages:
+  before_script:
+    - apt update && apt install -y npm
   script:
+  - npm install
   - hugo
   artifacts:
     paths:
