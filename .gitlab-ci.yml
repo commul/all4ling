@@ -8,7 +8,7 @@ variables:
 
 test:
   before_script:
-    - apt update && apt install -y npm
+    - apt-get update && apt-get install -y nodejs npm
   script:
   - npm install
   - hugo
@@ -17,7 +17,7 @@ test:
 
 pages:
   before_script:
-    - apt update && apt install -y npm
+    - apt-get update && apt-get install -y nodejs npm
   script:
   - npm install
   - hugo
