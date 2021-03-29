@@ -20,7 +20,7 @@ pages:
     - apt-get update && apt-get install -y nodejs
   script:
   - npm install
-  - hugo --baseURL "https://commul.pages.scientificnet.org/all4ling/www/"
+  - hugo --baseURL ${CI_PAGES_URL}
   artifacts:
     paths:
     - public
