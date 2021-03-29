@@ -1,4 +1,4 @@
-baseurl = "/all4ling/www/"
+baseurl = "/"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
