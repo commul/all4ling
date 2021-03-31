@@ -11,6 +11,7 @@ menu:
     parent: "Projects"
 weight: 10
 toc: false
+title_font: "grenze"
 ---
 
 {{< alert icon="💡" text="The contents of this page are in `./content/[LANGUAGE]/about/projects/zeitshift.md`." >}}

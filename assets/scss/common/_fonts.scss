@@ -97,3 +97,31 @@
        url('fonts/vendor/grenze/grenze-v2-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
        url('fonts/vendor/grenze/grenze-v2-latin-700.svg#Grenze') format('svg'); /* Legacy iOS */
 }
+
+/* atma-regular - latin */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/vendor/atma/atma-v8-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('fonts/vendor/atma/atma-v8-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/vendor/atma/atma-v8-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/vendor/atma/atma-v8-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('fonts/vendor/atma/atma-v8-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/vendor/atma/atma-v8-latin-regular.svg#Atma') format('svg'); /* Legacy iOS */
+}
+
+/* atma-700 - latin */
+@font-face {
+  font-family: 'Atma';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/vendor/atma/atma-v8-latin-700.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('fonts/vendor/atma/atma-v8-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('fonts/vendor/atma/atma-v8-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('fonts/vendor/atma/atma-v8-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('fonts/vendor/atma/atma-v8-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('fonts/vendor/atma/atma-v8-latin-700.svg#Atma') format('svg'); /* Legacy iOS */
+}

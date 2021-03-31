@@ -12,7 +12,7 @@ menu:
   docs:
     parent: "Impressum"
 weight: 1
-
+title_font: "atma"
 ---
 
 
