@@ -1,6 +1,6 @@
 {{ define "main" }}
 	<div class="row flex-xl-nowrap">
-		<div class="col-lg-5 col-xl-4 docs-sidebar">
+		<div class="col-lg-4 col-xl-3 docs-sidebar">
 			<nav class="docs-links" aria-label="Main navigation">
 				{{ partial "sidebar/docs-menu.html" . }}
 			</nav>
@@ -24,7 +24,7 @@
 					</ol>
 				</nav>
 			{{ end }}
-			<h1>{{ .Title }}</h1>
+			<h1 class="{{.Params.title_font}}">{{ .Title }}</h1>
 			<p class="lead">{{ .Params.lead | safeHTML }}</p>
 			{{ partial "main/headline-hash.html" .Content }}
 			{{ if .Site.Params.editPage -}}
