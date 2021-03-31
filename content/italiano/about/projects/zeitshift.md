@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "Impressum"
+    parent: "Progetti"
 weight: 10
 toc: false
 ---

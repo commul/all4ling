@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "Chi siamo"
+    parent: "Projects"
 weight: 10
 toc: false
 ---

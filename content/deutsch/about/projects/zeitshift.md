@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "introduction"
+    parent: "Projekte"
 weight: 10
 toc: false
 ---

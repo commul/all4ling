@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Zeit.shift"
+title = "All4Ling"
 titleSeparator = "-"
-titleAddition = "digital in gesterns Zukunft"
-description = "Bewahrung, Erschließung und Vermittlung des kulturellen Texterbes Gesamttirols"
+titleAddition = "a subtitle for the title"
+description = "a long description of the project goes here"
 
 ## Open Graph + Twitter Cards
 # images = ["doks.png"]

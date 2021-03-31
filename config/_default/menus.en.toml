@@ -1,12 +1,17 @@
 [[main]]
   name = "About"
-  url = "/about/introduction/zeitshift"
+  url = "/about"
   weight = 10
+
+[[main]]
+  name = "Projects"
+  url = "/about/projects/zeitshift"
+  weight = 20
 
 [[main]]
   name = "Blog"
   url = "/blog/"
-  weight = 20
+  weight = 30
 
 [[social]]
   name = "de"
