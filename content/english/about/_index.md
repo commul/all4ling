@@ -16,4 +16,4 @@ weight: 1
 ---
 
 
-Test??
+{{< alert icon="💡" text="The contents of this page are in `./content/[LANGUAGE]/about/_index.md`." >}}
