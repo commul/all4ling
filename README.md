@@ -1,51 +1,25 @@
-<p align="center">
-  <a href="https://getdoks.org/">
-    <img alt="Doks" src="https://doks.netlify.app/doks.svg" width="60">
-  </a>
-</p>
+# All4Ling Website
 
-<h1 align="center">
-  Doks
-</h1>
+This is a static site using a [Hugo](https://gohugo.io/) template called [Doks](https://getdoks.org/), forked from https://github.com/h-enk/doks.
 
-<h3 align="center">
-  Modern documentation theme
-</h3>
+### Setup
 
-<p align="center">
-  Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default.
-</p>
+1. Install [nodejs](https://nodejs.org/en/download/)
+2. Make sure the installation was successful and npm is available: `node -v && npm -v`
+3. cd to the root of this repository and run `npm install`. This will install Hugo and all the other necessary dependencies.
 
-<p align="center">
-  <a href="https://github.com/h-enk/doks/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/h-enk/doks?style=flat-square" alt="GitHub">
-  </a>
-  <a href="https://github.com/h-enk/doks/releases">
-    <img src="https://img.shields.io/github/v/release/h-enk/doks?include_prereleases&style=flat-square"alt="GitHub release (latest SemVer including pre-releases)">
-  </a>
-  <a href="https://github.com/h-enk/doks/actions?query=workflow%3A%22Hyas+CI%22">
-    <img src="https://img.shields.io/github/workflow/status/h-enk/doks/Hyas%20CI/master?style=flat-square" alt="GitHub Workflow Status (branch)">
-  </a>
-  <a href="https://app.netlify.com/sites/doks/deploys">
-    <img src="https://img.shields.io/netlify/895a161c-86be-48a2-8c57-a8c5d68cd1a4?style=flat-square" alt="Netlify">
-  </a>
-</p>
+### Starting the server
 
-![Doks — Modern Documentation Theme](https://raw.githubusercontent.com/h-enk/doks/master/images/tn.png)
+`npm run start`
 
-## Demo
 
-- [doks.netlify.app](https://doks.netlify.app/)
+### Deploy
 
-## Quick start
+1. To deploy, push your commits to master.
 
-Get your Doks site in 1 min.
+This will trigger `.gitlab-ci.yml`, which will deploy the website to a [GitLab page](https://docs.gitlab.com/ee/user/project/pages/) located at [https://commul.pages.scientificnet.org/all4ling/www/](https://commul.pages.scientificnet.org/all4ling/www/)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/h-enk/doks)
-
-## Why Doks?
-
-Nine reasons why you should use Doks:
+### Why Doks?
 
 1. __Security aware__. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/doks.netlify.app) out of the box. Easily change the default Security Headers to suit your needs.
 
@@ -65,31 +39,6 @@ Nine reasons why you should use Doks:
 
 9. __Dark mode__. Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.
 
-## Requirements
-
-Doks uses npm to install dependencies and run commands. Installing npm is pretty simple. Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform.
-
-## Get started
-
-Start a new Doks project in three steps:
-
-### 1. Create a new site
-
-```bash
-git clone https://github.com/h-enk/doks.git my-doks-site && cd my-doks-site
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Start development server
-
-```bash
-npm run start
-```
 
 ## Other commands
 
@@ -106,8 +55,3 @@ Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for comm
 - [Netlify Community](https://community.netlify.com/)
 - [Hugo Forums](https://discourse.gohugo.io/)
 - [Doks Discussions](https://github.com/h-enk/doks/discussions)
-
-## Blog
-<!--START_SECTION:feed-->
-* [Say hello to Doks 👋](https:&#x2F;&#x2F;getdoks.org&#x2F;blog&#x2F;say-hello-to-doks&#x2F;)
-<!--END_SECTION:feed-->
