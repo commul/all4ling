@@ -47,9 +47,9 @@ docsRepo = "https://gitlab.inf.unibz.it/commul/zeit.shift"
 editPage = false
 
 [options]
-  lazySizes = true
-  clipBoard = true
-  instantPage = true
+  lazySizes = false
+  clipBoard = false
+  instantPage = false
   flexSearch = false
   darkMode = false
   bootStrapJs = false
