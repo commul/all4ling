@@ -1,6 +1,6 @@
 var cvs = document.getElementById("canvas");
 var ctx = cvs.getContext("2d");
-var path = "/js/games/who-killed-oetzi/";
+var path = "js/games/who-killed-oetzi/";
 var canvasWidth = 512;
 
 function Otzi (url, x, y, width, height) {
