@@ -1,26 +1,28 @@
 var cvs = document.getElementById("canvas");
 var ctx = cvs.getContext("2d");
-var path = "js/games/who-killed-oetzi/";
+var path = "/games/who-killed-oetzi/";
 var canvasWidth = 512;
 
-function Otzi (url, x, y, width, height) {
+function Otzi (x, y, width, height) {
   var img = new Image();
-  img.src = path+url
+  img.src = path+"oetzi.svg";
   this.draw = function () {
     ctx.drawImage(img, x, y, width, height);
   }
 }
 
-function Arrow(y, scale, speed){
-  var stemLen = 366;
-  var offset = stemLen * scale - stemLen;
+function Arrow(word, speed, y){
+  var scale = 1 + (word.length-2)*(word.length-2)/100;
+  speed = speed/scale;
+  var offset = 43.872186  * scale - 43.872186;
   var stem = 43.872186 + offset;
   var arrowHead1 = 417.10211 + offset;
   var arrowHead2 = 429.86946 + offset;
   var arrowHead3 = 422.69917 + offset;
   var width = 512 * scale;
-  this.x = -2-offset/2;
+  this.x = -100-offset/2;
   this.y = y + -29*scale;
+
   var arrowSVG = `<?xml version="1.0" encoding="UTF-8" standalone="no"?>
   <svg
      xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -146,31 +148,65 @@ function Arrow(y, scale, speed){
        style="stroke-width:0.563388" />
   </svg>`;
 
-    var img = new Image();
-    img.src = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(arrowSVG);
+    var arrowImage = new Image();
+    arrowImage.src = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(arrowSVG);
 
+    var wordImage = new Image();
+    wordImage.src = `${path}prototype-words/${word}.jpg`;
 
     this.draw = function (){
-      this.x += 1*speed;
-      if(this.x >= 390)
+      //move right
+      if(this.x + 100 * scale + offset - scale*15 < 460)
+        this.x += 1*speed;
+      else
         this.x = -100*scale;
 
-      ctx.drawImage(img, this.x, this.y, 100*scale+offset, 100*scale);
+      //draw arrow
+      ctx.drawImage(arrowImage, this.x, this.y, 100*scale+offset, 100*scale);
+
+      //wooden box
+      ctx.beginPath();
+      ctx.lineWidth = "3";
+      ctx.strokeStyle = "#82490b";
+      ctx.rect(this.x+(20+offset/2)*scale, this.y+50*scale, 61*scale, 61*scale*wordImage.height/wordImage.width);
+      ctx.stroke();
+
+      //word
+      ctx.drawImage(wordImage, this.x+(20+offset/2)*scale, this.y+50*scale, 60*scale, 60*scale*wordImage.height/wordImage.width);
+
+      //strings holding the box
+      ctx.lineWidth = "1";
+      ctx.rect(this.x+(30+offset/2)*scale, this.y+34*scale, 1, 17*scale);
+      ctx.rect(this.x+(30+offset/2)*scale + 40*scale, this.y+34*scale, 1, 17*scale);
+      ctx.stroke();
     }
 
 }
 
-function main(){
-  var otzi = new Otzi("oetzi.svg", 420, 100, 100, 100);
-  var arrow = new Arrow(130, 1, 5);
+function main(_path){
+  if(_path)
+    path = _path;
+
+  var otzi = new Otzi(420, 100, 100, 100);
+  var arrows = [
+    new Arrow("viktor", 2, 30),
+    new Arrow("reithoffer", 2, 130),
+    new Arrow("karl", 2, 210),
+  ];
+
   var draw = function() {
     //Black Rectangle for the background
     ctx.fillStyle = "#000";
     ctx.fillRect(0,0,canvas.width,canvas.height);
+
+    ctx.fillStyle = "#82490b";
+    ctx.fillRect(468,0,1,canvas.height);
+
     otzi.draw();
-    arrow.draw();
+    arrows.forEach(function(arrow){
+      arrow.draw();
+    });
     requestAnimationFrame(draw);
   }
   draw();
 }
-main();
