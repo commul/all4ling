@@ -34,11 +34,11 @@ Zeit.shift is developing a number of games and activities to crowdsource data fr
 
 #### Who killed Ötzi?
 
-This game adapts [Typespeed](http://typespeed.sourceforge.net/). Arrows carrying words in gothic script fly from the left of the screen over to the right in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are randomly selected people (AND PLACE??) names mentioned in the Tyrolean newspapers. The goal of the game is simple: players must type the words as fast as possible before they reach and kill Ötzi! The more words are typed the longer Ötzi lives. When Ötzi dies, players are shown the original newspaper page from which the killing word was taken, allowing them to explore its context.
+This game adapts [Typespeed](http://typespeed.sourceforge.net/). Arrows carrying words in gothic script fly from the left of the screen over to the right in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are randomly selected people names mentioned in the Tyrolean newspapers. The goal of the game is simple: players must type the words as fast as possible before they reach and kill Ötzi! The more words are typed the longer Ötzi lives. When Ötzi dies, players are shown the original newspaper page from which the killing word was taken, allowing them to explore its context.
 
-IMAGE HERE
+{{<figure src="/images/whokilledotzi.png" alt="Game preview" caption="<em>.</em>" width="100%" class="border-0">}}
 
-#### Add the ad!
+#### Add the ad
 
 In this activity, citizens are shown images of historical advertisements published in the newspapers. The purpose of the activity is to correct mistakes in the transcription of these ads produced by the computer, classify the ads by topic and geotag them on a map in order to reconstruct the commercial landscape of Tyrol. Many shops from the 19th and 20th centuries still exist today! Help us reconstruct the ad map of your hometown or area!
 
@@ -54,9 +54,28 @@ New activities and games will be announced through the All4Ling blog. Ideas and 
 
 The active participation of citizens is crucial to the success of the project. Given the large number of newspapers (approx. 500,000 pages), the more people help curate the data and spread the word about Zeit.shift, the more searchable the corpus becomes and the longer the historical memory of Tyrol will be preserved.
 
+### Prototype
+
+The first prototype of the Zeit.shift citizen science platform is developed on a selection of the entire project dataset. The reason for this is to ....
+
+The data selected for the development of the prototype is:
+
+.....
+
+{{< alert icon="💡" text="Click here to contribute to Zeit.shift!" >}}
+
+### Progress
+
+- 500,000 pages digitised
+- X tokens digitised
+- X corrected tokens
+- X annotations
+- X unique participants
+
+
 ---
 
-### Project details
+### Details
 
 **Team**
 - Landesbibliothek Dr. Friedrich Teßmann (Lead partner): Johannes Andresen
@@ -98,5 +117,6 @@ Newspaper scans and ALTO XML files are published under open licences to support 
 **Keywords**
 
 citizen science, games with a purpose, digitisation, historical newspapers, tyrol, natural language processing
+
 
 <!--{{< tweet 877500564405444608 >}}-->
