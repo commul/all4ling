@@ -1,6 +1,6 @@
 var cvs = document.getElementById("canvas");
 var ctx = cvs.getContext("2d");
-var path = "js/games/who-killed-oetzi/";
+var path = "/games/who-killed-oetzi/";
 var canvasWidth = 512;
 
 function Otzi (url, x, y, width, height) {
@@ -160,7 +160,10 @@ function Arrow(y, scale, speed){
 
 }
 
-function main(){
+function main(_path){
+  if(_path)
+    path = _path;
+
   var otzi = new Otzi("oetzi.svg", 420, 100, 100, 100);
   var arrow = new Arrow(130, 1, 5);
   var draw = function() {
@@ -173,4 +176,3 @@ function main(){
   }
   draw();
 }
-main();
