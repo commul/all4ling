@@ -27,14 +27,12 @@ The project focuses on **historical newspapers**, which are currently scattered 
 **The mutual collaboration between researchers, librarians and citizens** will help improve the functionality of the web platform for users worldwide and serve as an **opportunity for local and foreign communities to learn more about** the historical and cultural heritage of **Tyrol**.
 
 
-### How can citizens contribute?
+### How can I contribute?
 
 Zeit.shift develops games and activities to crowdsource data from citizens while guiding them through the materials to explore the history and culture of Tyrol.
 
 
-### The importance of citizen collaboration
-
-The active participation of citizens is crucial to the success of the project. Given the large number of newspapers (approx. 500,000 pages), the more people help curate the data and spread the word about Zeit.shift, the more searchable the corpus becomes and the longer the historical memory of Tyrol will be preserved.
+The active participation of citizens is crucial to the success of the project. Given the large number of newspapers (approx. 500,000 pages), **the more people help curate the data and spread the word** about Zeit.shift, **the more searchable the corpus becomes and the longer the historical memory of Tyrol will be preserved**.
 
 ### Prototype
 
@@ -92,7 +90,7 @@ Sign-up for free to learn about how you can contribute to Zeit.shift.
 - X unique participants
 
 
----
+
 ### Details
 
 **Team**
