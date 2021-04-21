@@ -8,6 +8,7 @@ languageCode = "de-AT"
 paginate = 7
 rssLimit = 10
 defaultContentLanguage = "de"
+canonifyURLs = true
 
 [languages]
   [languages.de]
