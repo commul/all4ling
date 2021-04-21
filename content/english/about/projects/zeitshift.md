@@ -22,7 +22,7 @@ title_font: "grenze"
 
 **Zeit.shift** is a cross-border cooperation between the [Dr. Friedrich Teßmann Library](https://www.tessmann.it/en/home.html) (Bolzano, Italy), the [Universitäts- und Landesbibliothek Tirol](https://www.uibk.ac.at/ulb/) (Innsbruck, Austria) and [Eurac Research](https://www.eurac.edu/) (Bolzano, Italy), which **seeks to preserve, develop and communicate the cultural and textual heritage of the historical region of Tyrol**.
 
-The project focuses on **historical newspapers**, which are currently scattered across Tyrol and are only partially digitised. It will digitise some 500,000 pages of Tyrolean papers published between 1850 and 1950 and gather these in a single, freely accessible web platform, **inviting citizens to curate, explore and engage with the data through activities, games and learning materials**.
+The project focuses on **historical newspapers written in German**, which are currently scattered across Tyrol and are only partially digitised. It will digitise some 500,000 pages of Tyrolean papers published between 1850 and 1950 and gather these in a single, freely accessible web platform, **inviting citizens to curate, explore and engage with the data through activities, games and learning materials**.
 
 **The mutual collaboration between researchers, librarians and citizens** will help improve the functionality of the web platform for users worldwide and serve as an **opportunity for local and foreign communities to learn more about** the historical and cultural heritage of **Tyrol**.
 
@@ -44,9 +44,7 @@ We need your help to do two things:
 1. Correct OCR mistakes
 2. Tag and classify words (names of people and places, parts-of-speech, etc.)
 
-You don't need to meet any prerequisites. Anyone can contribute!
-
-To make these tasks more engaging, we're developing games and activities designed to help you explore this wonderful collection of newspapers and the heritage of Tyrol as you contribute data! So far, we've developed one game and one activity.
+The only pre-requisite is that you have sufficient knowledge of German. To make these tasks more engaging, we're developing games and activities designed to help you explore this wonderful body of textual heritage as you contribute data! So far, we've developed one game and one activity.
 
 
 ##### Game preview: OCR correction
@@ -57,7 +55,7 @@ This game adapts [Typespeed](http://typespeed.sourceforge.net/). The game comes 
 
 ##### Activity preview: Mapping advertisements
 
-In this activity, citizens geotag and, optionally, transcribe historical advertisements published in the newspapers in order to reconstruct the commercial landscape of 19th and 20th century Tyrol. Many shops from the time still exist today!
+In this activity, citizens geotag and, optionally, transcribe historical advertisements published in the newspapers in order to reconstruct the commercial landscape of 19th and 20th century Tyrol. Many shops from those times still exist today!
 
 {{<figure src="/images/historypin.png" alt="Historypin" caption="<em>Zeit.shift advertisements in Historypin.</em>" width="100%" class="border-0">}}
 
@@ -92,7 +90,12 @@ As the project progresses, our games and activities will be loaded with more con
 - X unique participants
 
 
-<!--### Output
+<!-- ### Links
+
+https://www.citizen-science.at/en/projects/how-to-list-a-project
+https://www.buergerschaffenwissen.de/
+
+### Output
 
 #### Publications
 
