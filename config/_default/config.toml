@@ -4,10 +4,10 @@ disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "de-AT"
+languageCode = "en-UK"
 paginate = 7
 rssLimit = 10
-defaultContentLanguage = "de"
+defaultContentLanguage = "en"
 
 [languages]
   [languages.de]
