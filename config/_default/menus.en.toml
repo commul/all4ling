@@ -22,7 +22,7 @@
 [[social]]
   name = "en"
   pre = "en"
-  url = "/"
+  url = "/en"
   weight = 2
 
 [[social]]
