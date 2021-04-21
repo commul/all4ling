@@ -20,6 +20,7 @@ function Arrow(word, speed, y){
   var arrowHead2 = 429.86946 + offset;
   var arrowHead3 = 422.69917 + offset;
   var width = 512 * scale;
+  this.id = word;
   this.x = -100-offset/2;
   this.y = y + -29*scale;
 
@@ -183,17 +184,27 @@ function Arrow(word, speed, y){
 
 }
 
-function main(_path){
-  if(_path)
-    path = _path;
+function createArrowKillEvent(arrows){
+  var input = document.querySelector('#word-box');
+  input.addEventListener('input', function()
+  {
+    killArrow(arrows, input);
+  });
+}
 
-  var otzi = new Otzi(420, 100, 100, 100);
-  var arrows = [
-    new Arrow("viktor", 2, 30),
-    new Arrow("reithoffer", 2, 130),
-    new Arrow("karl", 2, 210),
-  ];
+function killArrow(arrows, input){
+  arrows.forEach(function(arrow){
+    if(arrow.id.toLowerCase() == input.value.toLowerCase()){
+      var index = arrows.indexOf(arrow);
+      if (index > -1) {
+        arrows.splice(index, 1);
+      }
+      input.value = "";
+    }
+  });
+}
 
+function createDrawLoop(otzi, arrows){
   var draw = function() {
     //Black Rectangle for the background
     ctx.fillStyle = "#000";
@@ -209,4 +220,19 @@ function main(_path){
     requestAnimationFrame(draw);
   }
   draw();
+}
+
+function main(_path){
+  if(_path)
+    path = _path;
+
+  var otzi = new Otzi(420, 100, 100, 100);
+  var arrows = [
+    new Arrow("viktor", 1, 30),
+    new Arrow("reithoffer", 1, 130),
+    new Arrow("karl", 1, 210),
+  ];
+
+  createArrowKillEvent(arrows);
+  createDrawLoop(otzi,arrows);
 }
