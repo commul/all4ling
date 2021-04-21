@@ -1,18 +1,18 @@
 {{ define "main" }}
 <div class="row justify-content-center">
   <div class="col-md-12 col-lg-10 col-xl-8">
-    <article>
-      <div class="blog-header">
-        <h1>{{ .Title }}</h1>
-      </div>
-      <center>{{ .Params.lead | safeHTML }}</center>
-      <canvas id="canvas" width="512" height="288"></canvas>
-      <script crossorigin="anonymous" language="javascript" type="application/javascript"  src="{{ "games/who-killed-oetzi/main.js" | urlize | absURL }}"></script>
-      <script type="text/javascript">
-        main({{ "games/who-killed-oetzi/" | urlize | absURL }});
-      </script>
-      {{ .Content }}
-    </article>
+    <div class="blog-header">
+      <h1>{{ .Title }}</h1>
+    </div>
+    <center>{{ .Params.lead | safeHTML }}</center>
+    <canvas id="canvas" width="512" height="288"></canvas>
+    <input id="word-box" name="word" type="text" placeholder="Type..."/>
+    <script crossorigin="anonymous" language="javascript" type="application/javascript"  src="{{ "games/who-killed-oetzi/main.js" | urlize | absURL }}"></script>
+    <script type="text/javascript">
+      main({{ "games/who-killed-oetzi/" | urlize | absURL }});
+    </script>
+    {{ .Content }}
+    <br/><br/>
   </div>
 </div>
 {{ end }}
