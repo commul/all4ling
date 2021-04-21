@@ -1,12 +1,10 @@
 var cvs = document.getElementById("canvas");
 var ctx = cvs.getContext("2d");
-var path = "/games/who-killed-oetzi/";
-var canvasWidth = 512;
-var canvasHeight = 288;
+var game = new Game();
 
 function Otzi (x, y, width, height) {
   var img = new Image();
-  img.src = path+"oetzi.svg";
+  img.src = game.path+"oetzi.svg";
   this.draw = function () {
     ctx.drawImage(img, x, y, width, height);
   }
@@ -154,20 +152,21 @@ function Arrow(word, speed, y){
     arrowImage.src = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(arrowSVG);
 
     var wordImage = new Image();
-    wordImage.src = `${path}prototype-words/${word}.jpg`;
-    if(wordImage.height == 0){
+    wordImage.src = `${game.path}prototype-words/${word}.jpg`;
+  //  if(wordImage.height == 0){
       //Most likely could not find file and got 404
-      throw "Could not load image";
-    }
+  //    throw `Could not load image: ${wordImage.src}`;
+  //  }
 
     var scale = this.scale;
     this.draw = function (){
 
       //move right
-      if(this.x + 100 * scale + offset - scale*15 < 460)
-        this.x += this.speed;
-      else
-        this.x = -100*scale;
+      this.x += this.speed;
+      if(this.x + 100 * scale + offset - scale*15 >= 460){
+        game.over();
+        return;
+      }
 
       //draw arrow
       ctx.drawImage(arrowImage, this.x, this.y, 100*scale+offset, 100*scale);
@@ -203,16 +202,16 @@ function Score(){
   }
 }
 
-function createArrowKillEvent(arrows, score){
+function createArrowKillEvent(){
   var input = document.querySelector('#word-box');
   input.value = "";
   input.addEventListener('input', function(){
-    killArrow(arrows, input, score);
+    killArrow(input);
   });
 }
 
-var prototypeWords = ["viktor","andreas","einselen","franz","gottfried","hcselwandter","josef","mader","reinisch","rudolf","stibal","tollinger"];
-function createArrow(arrows, speed){
+var prototypeWords = ["viktor","andreas","einselen","franz","gottfried","josef","mader","reinisch","rudolf","stibal","tollinger"];
+function createArrow(speed){
   if(prototypeWords.length == 0){
     return;
   }
@@ -221,68 +220,117 @@ function createArrow(arrows, speed){
   prototypeWords.splice(randomIndex,1);
 
   //to-do avoid placing arrow too close to other arrows
-  var randomYAxisPlacement = Math.floor(Math.random() * (canvasHeight - 70));
+  var randomYAxisPlacement = Math.floor(Math.random() * (game.canvasHeight - 70));
 
   try {
     var arrow = new Arrow(randomWord, speed, randomYAxisPlacement);
-    arrows.push(arrow);
+    game.arrows.push(arrow);
   } catch (e){
     //try again?
     //To-do: avoid infinite loop when error isn't on a particular word
-    createArrow(arrows);
+    createArrow();
   }
 
 }
 
-function killArrow(arrows, input, score){
-  arrows.forEach(function(arrow){
+function killArrow(input){
+  game.arrows.forEach(function(arrow){
     //HIT
     //To-do: handle wrong OCR case
     if(arrow.id.toLowerCase() == input.value.toLowerCase()){
-      var index = arrows.indexOf(arrow);
+      var index = game.arrows.indexOf(arrow);
       if (index > -1) {
-        arrows.splice(index, 1);
+        game.arrows.splice(index, 1);
       }
-      score.up();
+      game.score.up();
       input.value = "";
       //speed a bit at every new arrow
-      createArrow(arrows, arrow.speed * arrow.scale + 0.1);
+      createArrow(arrow.speed * arrow.scale + 0.4);
     }
   });
 }
 
-function createCanvasAnimationLoop(otzi, arrows, score){
+function drawGamePhase(){
+  //Black Rectangle for the background
+  ctx.fillStyle = game.bg;
+  ctx.fillRect(0,0,canvas.width,canvas.height);
+
+  //Death line
+  ctx.fillStyle = "#82490b";
+  ctx.fillRect(468,0,1,canvas.height);
+
+  game.otzi.draw();
+  game.arrows.forEach(function(arrow){
+    arrow.draw();
+  });
+  game.score.draw();
+}
+
+function drawGameOver(arrow){
+  //Black Rectangle for the background
+  ctx.fillStyle = game.bg;
+  ctx.fillRect(0,0,canvas.width,canvas.height);
+  arrow.draw();
+}
+
+function createCanvasAnimationLoop(){
   var draw = function() {
-    //Black Rectangle for the background
-    ctx.fillStyle = "#000";
-    ctx.fillRect(0,0,canvas.width,canvas.height);
-
-    //Death line
-    ctx.fillStyle = "#82490b";
-    ctx.fillRect(468,0,1,canvas.height);
-
-    otzi.draw();
-    arrows.forEach(function(arrow){
-      arrow.draw();
-    });
-    score.draw();
+    game.draw();
     requestAnimationFrame(draw);
   }
   draw();
 }
 
+function Game(){
+  this.canvasWidth = 512;
+  this.canvasHeight = 288;
+  this.draw = drawGamePhase;
+  this.bg = "#000";
+
+  this.start = function(_path){
+    this.path = _path;
+    this.arrowAudio = new Audio(`${this.path}arrow_hit.mp3`);
+    this.score = new Score();
+    this.otzi = new Otzi(420, 100, 100, 100);
+    this.arrows = [
+        //new Arrow("viktor", 1, 30),
+        new Arrow("reithoffer", 0.5, 30),
+        new Arrow("karl", 0.5, 130),
+      ];
+
+    createArrowKillEvent();
+    createCanvasAnimationLoop();
+  }
+
+  this.over = function(){
+    game.arrowAudio.play();
+    this.arrows = [];
+    var img = new Image();
+    img.src = game.path+"arrow.svg";
+    var x = 0;
+    var deadOtzi = new Image();
+    deadOtzi.src = game.path+"dead_oetzi.svg";
+
+    img.draw = function () {
+      x += 6;
+      var redLevel = x/7;
+      game.bg = `#${redLevel}0000`;
+      if(x > game.canvasWidth){
+        game.bg = "#980002";
+        ctx.font = "80px Grenze";
+        ctx.fillStyle = "#fbfcdd";
+        ctx.textAlign = "center";
+        ctx.fillText("Game Over", 256, 100);
+        ctx.drawImage(deadOtzi, 280, 150, 200, 200);
+        return;
+      }
+      ctx.drawImage(img, x, 100, 100, 100);
+    }
+
+    this.draw = function () { drawGameOver(img) };
+  }
+}
+
 function main(_path){
-  if(_path)
-    path = _path;
-
-  var score = new Score();
-  var otzi = new Otzi(420, 100, 100, 100);
-  var arrows = [
-    //new Arrow("viktor", 1, 30),
-    new Arrow("reithoffer", 0.5, 30),
-    new Arrow("karl", 0.5, 130),
-  ];
-
-  createArrowKillEvent(arrows, score);
-  createCanvasAnimationLoop(otzi,arrows,score);
+  game.start(_path);
 }
