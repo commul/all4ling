@@ -13,19 +13,19 @@
   url = "/blog/"
   weight = 30
 
-[[social]]
+[[languages]]
   name = "de"
   pre = "de"
-  url = "/"
+  url = "/de"
   weight = 1
 
-[[social]]
+[[languages]]
   name = "en"
   pre = "en"
   url = "/en"
   weight = 2
 
-[[social]]
+[[languages]]
   name = "it"
   pre = "it"
   url = "/it"
