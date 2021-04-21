@@ -2,6 +2,7 @@ var cvs = document.getElementById("canvas");
 var ctx = cvs.getContext("2d");
 var path = "/games/who-killed-oetzi/";
 var canvasWidth = 512;
+var canvasHeight = 288;
 
 function Otzi (x, y, width, height) {
   var img = new Image();
@@ -154,6 +155,10 @@ function Arrow(word, speed, y){
 
     var wordImage = new Image();
     wordImage.src = `${path}prototype-words/${word}.jpg`;
+    if(wordImage.height == 0){
+      //Most likely could not find file and got 404
+      throw "Could not load image";
+    }
 
     this.draw = function (){
       //move right
@@ -186,30 +191,57 @@ function Arrow(word, speed, y){
 
 function createArrowKillEvent(arrows){
   var input = document.querySelector('#word-box');
-  input.addEventListener('input', function()
-  {
+  input.value = "";
+  input.addEventListener('input', function(){
     killArrow(arrows, input);
   });
 }
 
+var prototypeWords = ["viktor","andreas","einselen","franz","gottfried","hcselwandter","josef","mader","reinisch","rudolf","stibal","tollinger"];
+function createArrow(arrows){
+  if(prototypeWords.length == 0){
+    return;
+  }
+  var randomIndex = Math.floor(Math.random() * (prototypeWords.length -1));
+  var randomWord = prototypeWords[randomIndex];
+  prototypeWords.splice(randomIndex,1);
+
+  //to-do avoid placing arrow too close to other arrows
+  var randomYAxisPlacement = Math.floor(Math.random() * (canvasHeight - 80));
+
+  try {
+    var arrow = new Arrow(randomWord, 1, randomYAxisPlacement);
+    arrows.push(arrow);
+  } catch (e){
+    //try again?
+    //To-do: avoid infinite loop when error isn't on a particular word
+    createArrow(arrows);
+  }
+
+}
+
 function killArrow(arrows, input){
   arrows.forEach(function(arrow){
+    //HIT
+    //To-do: handle wrong OCR case
     if(arrow.id.toLowerCase() == input.value.toLowerCase()){
       var index = arrows.indexOf(arrow);
       if (index > -1) {
         arrows.splice(index, 1);
       }
       input.value = "";
+      createArrow(arrows);
     }
   });
 }
 
-function createDrawLoop(otzi, arrows){
+function createCanvasAnimationLoop(otzi, arrows){
   var draw = function() {
     //Black Rectangle for the background
     ctx.fillStyle = "#000";
     ctx.fillRect(0,0,canvas.width,canvas.height);
 
+    //Death line
     ctx.fillStyle = "#82490b";
     ctx.fillRect(468,0,1,canvas.height);
 
@@ -228,11 +260,11 @@ function main(_path){
 
   var otzi = new Otzi(420, 100, 100, 100);
   var arrows = [
-    new Arrow("viktor", 1, 30),
-    new Arrow("reithoffer", 1, 130),
-    new Arrow("karl", 1, 210),
+    //new Arrow("viktor", 1, 30),
+    new Arrow("reithoffer", 1, 30),
+    new Arrow("karl", 1, 130),
   ];
 
   createArrowKillEvent(arrows);
-  createDrawLoop(otzi,arrows);
+  createCanvasAnimationLoop(otzi,arrows);
 }
