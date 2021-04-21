@@ -12,18 +12,18 @@ defaultContentLanguage = "en"
 [languages]
   [languages.de]
     contentDir = "content/deutsch"
-    languageName = "Deutsch"
+    languageName = "German"
     titleSeparator = "-"
     titleAddition = "Deutsch"
     description = ""
-    weight = 1
+    weight = 2
   [languages.en]
     contentDir = "content/english"
     languageName = "English"
     titleSeparator = "-"
     titleAddition = "English"
     description = ""
-    weight = 2
+    weight = 1
   [languages.it]
     contentDir = "content/italiano"
     languageName = "Italian"
