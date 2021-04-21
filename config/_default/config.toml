@@ -4,26 +4,26 @@ disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
 enableRobotsTXT = true
-languageCode = "en-UK"
+languageCode = "de-AT"
 paginate = 7
 rssLimit = 10
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 
 [languages]
   [languages.de]
     contentDir = "content/deutsch"
-    languageName = "German"
+    languageName = "Deutsch"
     titleSeparator = "-"
     titleAddition = "Deutsch"
     description = ""
-    weight = 2
+    weight = 1
   [languages.en]
     contentDir = "content/english"
     languageName = "English"
     titleSeparator = "-"
     titleAddition = "English"
     description = ""
-    weight = 1
+    weight = 2
   [languages.it]
     contentDir = "content/italiano"
     languageName = "Italian"
