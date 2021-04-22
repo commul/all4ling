@@ -316,7 +316,6 @@ function Game(){
 
     createArrowKillEvent();
     createCanvasAnimationLoop();
-    this.over("karl");
   }
 
   this.over = function(word){
