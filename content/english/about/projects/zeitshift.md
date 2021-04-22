@@ -22,42 +22,58 @@ title_font: "grenze"
 
 **Zeit.shift** is a cross-border cooperation between the [Dr. Friedrich Teßmann Library](https://www.tessmann.it/en/home.html) (Bolzano, Italy), the [Universitäts- und Landesbibliothek Tirol](https://www.uibk.ac.at/ulb/) (Innsbruck, Austria) and [Eurac Research](https://www.eurac.edu/) (Bolzano, Italy), which **seeks to preserve, develop and communicate the cultural and textual heritage of the historical region of Tyrol**.
 
-The project focuses on **historical newspapers written in German**, which are currently scattered across Tyrol and are only partially digitised. It will digitise some 500,000 pages of Tyrolean papers published between 1850 and 1950 and gather these in a single, freely accessible web platform, **inviting citizens to curate, explore and engage with the data through activities, games and learning materials**.
+The project focuses on **historical newspapers written in German and mostly [Fraktur script](https://web.library.yale.edu/cataloging/music/fraktur)**, which are currently scattered across Tyrol and are only partially digitised. It will digitise some 500,000 pages of Tyrolean papers published between 1850 and 1950 and gather these in a single, freely accessible web platform, **inviting citizens to curate, explore and engage with the data through activities, games and learning materials**.
 
 **The mutual collaboration between researchers, librarians and citizens** will help improve the functionality of the web platform for users worldwide and serve as an **opportunity for local and foreign communities to learn more about** the historical and cultural heritage of **Tyrol**.
 
 The active participation of citizens is crucial to the success of the project. Given the large number of newspapers (approx. 500,000 pages), **the more people help curate the data and spread the word** about Zeit.shift, **the more searchable the newspaper corpus becomes and the longer the historical memory of Tyrol will be preserved**.
 
+### Newspapers
+
+NEWSPAPER LIST
+
 ### Digitisation
 
-Zeit.shift is scanning decaying newspapers and running the scans through Optical Character Recognition (OCR). OCR is the automatic conversion of printed text (e.g. an image of a newspaper page!) into digital format (e.g. a Word document). This process often introduces errors in the digital text, especially when dealing with historical sources: issues such as faded ink, complex fonts or poor quality scans affect the recognition capabilities of the OCR machine. A digital text containing OCR mistakes is known as "noisy" text. The noisier the text, the harder it is to use and search.
+Zeit.shift is digitally scanning the newspapers and running the scans through Optical Character Recognition (OCR). OCR is the automatic conversion of printed text (e.g. an image of a newspaper page!) into digital format (e.g. a Word document). This process often introduces errors in the digital text, especially when dealing with historical sources: issues such as faded ink, complex fonts or poor quality scans affect the recognition capabilities of the OCR machine. A digital text containing OCR mistakes is known as "noisy" text. The noisier the text, the harder it is to use and search.
 
 Here is an example of a "noisy" conversion of a digitised newspaper in Zeit.shift:
 
 EXAMPLE
 
 
-### How can I contribute?
+### Citizen Science
 
-We need your help to do two things:
-
-1. Correct OCR mistakes
-2. Tag and classify words (names of people and places, parts-of-speech, etc.)
-
-The only pre-requisite is that you have sufficient knowledge of German. To make these tasks more engaging, we're developing games and activities designed to help you explore this wonderful body of textual heritage as you contribute data! So far, we've developed one game and one activity.
+Zeit.shift invites citizens to actively participate in data curation. The citizen science component of the project focuses on newspaper issues published approximately 100 years ago (1918-1924).
+Anyone can contribute to Zeit.shift, provided they have some knowledge of German and Fraktur script.
 
 
-##### Game preview: OCR correction
+#### How can I contribute?
 
-This game adapts [Typespeed](http://typespeed.sourceforge.net/). The game comes with different scenarios. In the "Who Killed Ötzi?" scenario shown below, arrows carrying words in Fraktur script fly from the left to the right of the screen in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are people names extracted from the Tyrolean newspapers. The goal of the game is simple: players must type the names as fast as possible before they reach and kill Ötzi! The more words are typed the longer Ötzi lives and the more points the player collects. When Ötzi dies, players are shown the original newspaper page from which the killing name (the killer!) was taken, allowing them to explore its context.
+We need your help with two tasks:
+
+1. Correct OCR mistakes (sufficient knowledge of German and Fraktur required)
+2. Geotag newspaper content (basic knowledge of German and Fraktur required)
+<!--3. Tag and classify words (names of people and places, parts-of-speech, etc.)-->
+
+To make these tasks more engaging, we're developing **games and activities** designed to help you explore this wonderful body of textual heritage as you contribute data! So far, we've developed one game and one activity.
+
+No sign-up or registration is required!
+
+
+##### Game: OCR correction
+
+This custom game adapts [Typespeed](http://typespeed.sourceforge.net/). The game comes with different scenarios. In the "Who Killed Ötzi?" scenario shown below, arrows carrying words in Fraktur script fly from the left to the right of the screen in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are people names extracted from the Tyrolean newspapers. The goal of the game is simple: players must type the names as fast as possible before they reach and kill Ötzi! The more words are typed the longer Ötzi lives and the more points the player collects. When Ötzi dies, players are shown the original newspaper article from which the killing name (the killer!) was taken, allowing them to explore its context.
 
 {{<figure src="/images/wko.png" alt="Game preview" caption="<em>'Who killed Ötzi?' game preview.</em>" width="100%" class="border-0">}}
 
-##### Activity preview: Mapping advertisements
+##### Activity: Mapping advertisements
 
 In this activity, citizens geotag and, optionally, transcribe historical advertisements published in the newspapers in order to reconstruct the commercial landscape of 19th and 20th century Tyrol. Many shops from those times still exist today!
 
+This activity makes use of an existing third-party platform, [Historypin](https://www.historypin.org/en/). To work on this task, you will have to create an account with Historypin.
+
 {{<figure src="/images/historypin.png" alt="Historypin" caption="<em>Zeit.shift advertisements in Historypin.</em>" width="100%" class="border-0">}}
+
 
 
 <!--#### More to come...

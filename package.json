@@ -52,5 +52,8 @@
     "standard-version": "^9.1",
     "stylelint": "^13.12",
     "stylelint-config-standard": "^21.0"
+  },
+  "dependencies": {
+    "feather-icons": "^4.28.0"
   }
 }
