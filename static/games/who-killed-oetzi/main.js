@@ -4,7 +4,7 @@ var game = new Game();
 
 function Otzi (x, y, width, height) {
   var img = new Image();
-  img.src = game.path+"oetzi.svg";
+  img.src = game.path+"assets/oetzi.svg";
   this.draw = function () {
     ctx.drawImage(img, x, y, width, height);
   }
@@ -153,8 +153,10 @@ function Arrow(word, speed, y){
 
     var wordImage = new Image();
     wordImage.src = `${game.path}prototype-words/${word}.jpg`;
+
+    //Causes issue after deployment. Todo: figure out why.
   //  if(wordImage.height == 0){
-      //Most likely could not find file and got 404
+  //  //Most likely could not find file and got 404
   //    throw `Could not load image: ${wordImage.src}`;
   //  }
 
@@ -163,8 +165,9 @@ function Arrow(word, speed, y){
 
       //move right
       this.x += this.speed;
+      //ötzi line reached
       if(this.x + 100 * scale + offset - scale*15 >= 460){
-        game.over();
+        game.over(word);
         return;
       }
 
@@ -281,6 +284,19 @@ function createCanvasAnimationLoop(){
   draw();
 }
 
+function constrainImage(image, maxWidth, maxHeight, fromX, fromY){
+  var heightRatio = image.height/image.width;
+  var widthRatio = image.width/image.height;
+  var overWidth = maxHeight*widthRatio > maxWidth;
+  var overHeight = maxWidth*heightRatio > maxHeight;
+  var width = overWidth ? maxWidth : maxHeight*widthRatio;
+  var height = overHeight ? maxHeight : maxWidth*heightRatio;
+  var horizontalPadding = (maxWidth - width)/2;
+  var verticalPadding = (maxHeight - height)/2;
+
+  ctx.drawImage(image, fromX+horizontalPadding, fromY+verticalPadding, width, height);
+}
+
 function Game(){
   this.canvasWidth = 512;
   this.canvasHeight = 288;
@@ -289,27 +305,31 @@ function Game(){
 
   this.start = function(_path){
     this.path = _path;
-    this.arrowAudio = new Audio(`${this.path}arrow_hit.mp3`);
+    this.arrowAudio = new Audio(`${this.path}assets/arrow_hit.mp3`);
     this.score = new Score();
     this.otzi = new Otzi(420, 100, 100, 100);
     this.arrows = [
-        //new Arrow("viktor", 1, 30),
+        new Arrow("viktor", 0.5, 200),
         new Arrow("reithoffer", 0.5, 30),
         new Arrow("karl", 0.5, 130),
       ];
 
     createArrowKillEvent();
     createCanvasAnimationLoop();
+    this.over("karl");
   }
 
-  this.over = function(){
+  this.over = function(word){
     game.arrowAudio.play();
     this.arrows = [];
     var img = new Image();
-    img.src = game.path+"arrow.svg";
+    img.src = game.path+"assets/arrow.svg";
     var x = 0;
     var deadOtzi = new Image();
-    deadOtzi.src = game.path+"dead_oetzi.svg";
+    deadOtzi.src = game.path+"assets/dead_oetzi.svg";
+
+    var article = new Image();
+    article.src = `${game.path}prototype-articles/${word}.jpg`;
 
     img.draw = function () {
       x += 6;
@@ -317,11 +337,17 @@ function Game(){
       game.bg = `#${redLevel}0000`;
       if(x > game.canvasWidth){
         game.bg = "#980002";
-        ctx.font = "80px Grenze";
+        ctx.font = "60px Grenze";
         ctx.fillStyle = "#fbfcdd";
         ctx.textAlign = "center";
-        ctx.fillText("Game Over", 256, 100);
-        ctx.drawImage(deadOtzi, 280, 150, 200, 200);
+        ctx.fillText("Game Over", 256, 60);
+        ctx.font = "24px Grenze";
+        ctx.fillText("Score", 400, 110);
+        ctx.fillText(game.score.value.toString(), 400, 130);
+        ctx.drawImage(deadOtzi, 310, 150, 200, 200);
+        var maxWidth = 290;
+        var maxHeight = 180;
+        constrainImage(article, 290, 180, 15, 75);
         return;
       }
       ctx.drawImage(img, x, 100, 100, 100);
