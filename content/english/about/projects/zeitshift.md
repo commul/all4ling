@@ -30,7 +30,7 @@ The active participation of citizens is crucial to the success of the project. G
 
 ### Newspapers
 
-NEWSPAPER LIST
+The Tyrolean newspapers we are digitising are following (titles shortened): Innsbrucker Zeitung, Alpenland, Alpenländer Bote, Der Arbeiter, Volksruf, Gardasee-Post, Neueste Zeitung, Neueste Morgenzeitung, Innsbrucker Neueste, Innsbrucker illustrierte neueste Nachrichten, Abendblatt, Innsbrucker Abendblatt, Der Oberländer, Der Südtiroler, Tiroler Bauernzeitung, Tiroler Landbote, Der Landbote, Tiroler Grenzbote, Tiroler Volksblatt, Tiroler Land-Zeitung, Tiroler Gemeindeblatt, Alpenrosen, Oberinntaler Wochenblatt, Neue Inn-Zeitung, Tiroler Post, Die Post, Tiroler Sonntagsbote, Der Tiroler Wastl, Der Widerhall, Tiroler-Vorarlberger Bienen-Zeitung, Tiroler Bienen-Zeitung, Alpenländische Bienenzeitung, Unterinntaler Bote, Haller Wochenblatt, Sterne und Blumen, Volkszeitung Innsbruck, Deutsche Volkszeitung.
 
 ### Digitisation
 
@@ -38,13 +38,15 @@ Zeit.shift is digitally scanning the newspapers and running the scans through Op
 
 Here is an example of a "noisy" conversion of a digitised newspaper in Zeit.shift:
 
-EXAMPLE
+{{<figure src="/images/exampleOCR_img.png" alt="Example scan" caption="<em>Tiroler Land-Zeitung, 21st December 1918, page 8: <strong>Digital scan</strong>.</em>" width="100%" class="border-0">}}
+
+{{<figure src="/images/exampleOCR_transcr.png" alt="Example dirty OCR" caption="<em>Tiroler Land-Zeitung, 21st December 1918, page 8: <strong>Noisy OCR</strong> (mistakes in red)</em>." width="100%" class="border-0">}}
 
 
 ### Citizen Science
 
 Zeit.shift invites citizens to actively participate in data curation. The citizen science component of the project focuses on newspaper issues published approximately 100 years ago (1918-1924).
-Anyone can contribute to Zeit.shift, provided they have some knowledge of German and Fraktur script.
+**Anyone can contribute to Zeit.shift, provided they have some knowledge of German and Fraktur script.**
 
 
 #### How can I contribute?
@@ -57,20 +59,20 @@ We need your help with two tasks:
 
 To make these tasks more engaging, we're developing **games and activities** designed to help you explore this wonderful body of textual heritage as you contribute data! So far, we've developed one game and one activity.
 
-No sign-up or registration is required!
+No sign-up or registration required!
 
 
-##### Game: OCR correction
+#### Game: OCR correction
 
 This custom game adapts [Typespeed](http://typespeed.sourceforge.net/). The game comes with different scenarios. In the "Who Killed Ötzi?" scenario shown below, arrows carrying words in Fraktur script fly from the left to the right of the screen in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are people names extracted from the Tyrolean newspapers. The goal of the game is simple: players must type the names as fast as possible before they reach and kill Ötzi! The more words are typed the longer Ötzi lives and the more points the player collects. When Ötzi dies, players are shown the original newspaper article from which the killing name (the killer!) was taken, allowing them to explore its context.
 
 {{<figure src="/images/wko.png" alt="Game preview" caption="<em>'Who killed Ötzi?' game preview.</em>" width="100%" class="border-0">}}
 
-##### Activity: Mapping advertisements
+#### Activity: Mapping advertisements
 
-In this activity, citizens geotag and, optionally, transcribe historical advertisements published in the newspapers in order to reconstruct the commercial landscape of 19th and 20th century Tyrol. Many shops from those times still exist today!
+In this activity, citizens geotag and, optionally, transcribe historical advertisements published in the newspapers in order to reconstruct the commercial landscape of early 20th century Tyrol. Many shops from those times still exist today!
 
-This activity makes use of an existing third-party platform, [Historypin](https://www.historypin.org/en/). To work on this task, you will have to create an account with Historypin.
+This activity makes use of an existing third-party platform, [Historypin](https://www.historypin.org/en/). To work on this task, you will have to create a free account with Historypin.
 
 {{<figure src="/images/historypin.png" alt="Historypin" caption="<em>Zeit.shift advertisements in Historypin.</em>" width="100%" class="border-0">}}
 
@@ -96,6 +98,11 @@ For testing purposes, these games and activities are developed on a small select
 
 
 As the project progresses, our games and activities will be loaded with more content.-->
+
+
+### Natural Language Processing
+
+Data collected from citizens will help us annotate the entire newspaper corpus for linguistic traits, and train algorithms to better recognise Fraktur script and to classify types of words or expressions automatically (place names, person names, temporal expressions, etc.). In doing so, we contribute to the improvement of 
 
 ### Progress
 
