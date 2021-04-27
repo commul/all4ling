@@ -102,7 +102,7 @@ As the project progresses, our games and activities will be loaded with more con
 
 ### Natural Language Processing
 
-Data collected from citizens will help us annotate the entire newspaper corpus for linguistic traits, and train algorithms to better recognise Fraktur script and to classify types of words or expressions automatically (place names, person names, temporal expressions, etc.). In doing so, we contribute to the improvement of 
+Data collected from citizens will help us annotate the entire newspaper corpus for linguistic traits, and train algorithms to better recognise Fraktur script and to classify types of words or expressions automatically (place names, person names, temporal expressions, etc.). 
 
 ### Progress
 
