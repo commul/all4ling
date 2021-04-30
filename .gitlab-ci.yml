@@ -20,7 +20,7 @@ pages:
     - apt-get update && apt-get install -y nodejs
   script:
   - npm install
-  - hugo
+  - hugo --baseURL ${CI_PAGES_URL}
   artifacts:
     paths:
     - public
