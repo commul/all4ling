@@ -193,8 +193,7 @@ Newspaper scans and ALTO XML files are published under open licences. Data and a
 
 **Credits**
 
-Icons used in Zeit.shift games and activities are made by [author link] from www.flaticon.com.
-
+Zeit.shift sources icons from [Icongeek26](https://www.flaticon.com/authors/icongeek26) and [Freepik](https://www.flaticon.com/authors/freepik) at [Flaticon](www.flaticon.com), and audio files from [Freesound](https://freesound.org/people/Yap_Audio_Production/sounds/218463/).
 
 
 <img src="/images/tessmann_logo.png" width="20%" alt="Teßmann logo">
