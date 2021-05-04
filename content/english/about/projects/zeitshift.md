@@ -5,6 +5,7 @@ lead: "Digital in yesterday's future: Preservation, development and communicatio
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
+layout: single
 images: []
 menu:
   docs:
@@ -16,7 +17,7 @@ title_font: "grenze"
 
 <!--{{< alert icon="💡" text="The contents of this page are in `./content/[LANGUAGE]/about/projects/zeitshift.md`." >}}-->
 
-{{<figure src="/images/zs_banner.png" alt="" caption="CC-BY-..." width="100%" class="border-0">}}
+{{<figure src="/images/zs_banner.png" alt="" caption="<em>Project newspaper collage</em>. Licence: CC-BY-SA." width="100%" class="border-0">}}
 
 ### Summary
 
@@ -38,9 +39,9 @@ Zeit.shift is digitally scanning the newspapers and running the scans through Op
 
 Here is an example of a "noisy" conversion of a digitised newspaper in Zeit.shift:
 
-{{<figure src="/images/exampleOCR_img.png" alt="Example scan" caption="<em>Tiroler Land-Zeitung, 21st December 1918, page 8: <strong>Digital scan</strong>.</em>" width="100%" class="border-0">}}
+{{<figure src="/images/exampleOCR_img.png" alt="Example scan" caption="<em>Tiroler Land-Zeitung, 21st December 1918, p. 8: <strong>Digital scan</strong>.</em>  Licence: CC-BY-SA." width="100%" class="border-0">}}
 
-{{<figure src="/images/exampleOCR_transcr.png" alt="Example dirty OCR" caption="<em>Tiroler Land-Zeitung, 21st December 1918, page 8: <strong>Noisy OCR</strong> (mistakes in red)</em>." width="100%" class="border-0">}}
+{{<figure src="/images/exampleOCR_transcr.png" alt="Example dirty OCR" caption="<em>Tiroler Land-Zeitung, 21st December 1918, p. 8: <strong>Noisy OCR</strong> (mistakes in red).</em>  Licence: CC-BY-SA." width="100%" class="border-0">}}
 
 
 ### Citizen Science
@@ -66,9 +67,9 @@ No sign-up or registration required!
 
 This custom game adapts [Typespeed](http://typespeed.sourceforge.net/). The game comes with different scenarios. In the "Who Killed Ötzi?" scenario shown below, arrows carrying words in Fraktur script fly from the left to the right of the screen in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are people names extracted from the Tyrolean newspapers. The goal of the game is simple: players must type the names as fast as possible before they reach and kill Ötzi! The more words are typed the longer Ötzi lives and the more points the player collects. When Ötzi dies, players are shown the original newspaper article from which the killing name (the killer!) was taken, allowing them to explore its context.
 
-{{<figure src="/images/wko.png" alt="Game preview" caption="<em>'Who killed Ötzi?' game preview.</em>" width="100%" class="border-0">}}
+{{<figure src="/images/wko.png" alt="Game preview" caption="<em>'Who killed Ötzi?' game preview</em>.  Licence: CC-BY-SA." width="100%" class="border-0">}}
 
-##### Instructions
+
 
 
 
@@ -78,7 +79,7 @@ In this activity, citizens geotag and, optionally, transcribe historical adverti
 
 This activity makes use of an existing third-party platform, [Historypin](https://www.historypin.org/en/). To work on this task, you will have to create a free account with Historypin.
 
-{{<figure src="/images/historypin.png" alt="Historypin" caption="<em>Zeit.shift advertisements in Historypin.</em>" width="100%" class="border-0">}}
+{{<figure src="/images/historypin.png" alt="Historypin" caption="<em>Zeit.shift advertisements in Historypin</em>.  Licence: CC-BY-SA." width="100%" class="border-0">}}
 
 
 
@@ -126,7 +127,7 @@ Data collected from citizens will help us annotate the entire newspaper corpus f
 - X tokens (words) digitised
 - X corrected tokens
 - X contributed annotations
-- X unique participants-->
+- X unique participants
 
 
 ### Links and resources
