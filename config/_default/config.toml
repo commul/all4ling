@@ -13,7 +13,7 @@ canonifyURLs = true
 [languages]
   [languages.de]
     contentDir = "content/deutsch"
-    languageName = "Deutsch"
+    languageName = "German"
     titleSeparator = "-"
     titleAddition = "Deutsch"
     description = ""

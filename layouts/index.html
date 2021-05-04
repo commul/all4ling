@@ -6,7 +6,8 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "about" | absLangURL }}" role="button">{{ i18n "more" }}</a>
+      <!--<a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "about" | absLangURL }}" role="button">{{ i18n "more" }}</a>-->
+      <!--<p class="meta">Open-source AGPL v3 Licensed. <a href="https://github.com/electricblocks/electricblocks">GitHub v{{ .Site.Data.electricblocks.version }}</a></p>-->
     </div>
   </div>
 </section>
@@ -16,11 +17,44 @@
 <section class="section section-sm">
   <div class="container">
     <div class="row justify-content-center text-center">
+        <p><strong>All for Linguistics</strong> (All4Ling) is an initiative of the <a href="https://www.eurac.edu/en/research/autonomies/commul/Pages/default.aspx" target="_blank" title="Opens in new tab">Institute of Applied Linguistics of Eurac Research</a> devoted to the development of Citizen Science projects and expertise. As the name suggests, All4Ling focuses on language and linguistics but is becoming increasingly involved in interdisciplinary Digital Humanities research.</p>
+    </div>
+    <br /><br />
+    <div class="row justify-content-center text-center">
       <div class="col-lg-5">
-        <!--
-        <h2 class="h4">Lorem ipsum...</h2>
-        <p>Lorem ipsum...</p>
-        -->
+        <!--<p class="fs-4 mt-4">💬</p>-->
+        <h2 class="h4 mt-0">Computational Linguistics</h2>
+        <p>We develop and use language technology to research multilingualism.</p>
+      </div>
+      <div class="col-lg-5">
+        <!--<p class="fs-4 mt-4">💻</p>-->
+        <h2 class="h4 mt-0">Digital Humanities</h2>
+        <p>We conduct interdisciplinary research in the humanities and social sciences.</p>
+      </div>
+      <div class="col-lg-5">
+        <!--<p class="fs-4 mt-4">🤝</p>-->
+        <h2 class="h4 mt-0">Citizen Science</h2>
+        <p>We actively involve citizens for knowledge acquisition and transfer.</p>
+      </div>
+    </div>
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <!--<p class="fs-4 mt-4">📜</p>-->
+        <!--<h2 class="h4 mt-0">Cultural Heritage</h2>-->
+        <h2 class="h4">Cultural Heritage</h2>
+        <p>We collaborate with memory institutions for the preservation of heritage.</p>
+      </div>
+      <div class="col-lg-5">
+        <!--<p class="fs-4 mt-4">🏔</p>-->
+        <!--<h2 class="h4 mt-0">Tyrol</h2>-->
+        <h2 class="h4">Tyrol</h2>
+        <p>We specialise in Tyrolean heritage and culture but our interests transcend national borders.</p>
+      </div>
+      <div class="col-lg-5">
+        <!--<p class="fs-4 mt-4">🌍</p>-->
+        <!--<h2 class="h4 mt-0">International</h2>-->
+        <h2 class="h4">Internationality</h2>
+        <p>We're an international team of researchers working in a trilingual setting.</p>
       </div>
     </div>
   </div>
@@ -28,11 +62,99 @@
 {{ end }}
 
 {{ define "sidebar-footer" }}
-<section class="section section-sm container-fluid">
-  <div class="row justify-content-center text-center">
-    <div class="col-lg-9">
-      {{- .Content -}}
+<section class="section section-md mt-1 bg-light">
+  <div class="container">
+    <div class="row justify-content-center align-items-center text-center mt-n3">
+      <div class="col-lg-7">
+        <p class="fs-4 mt-4">✍🏼</p>
+        <h2 class="h4 mt-0">Contribute</h2>
+        <p>Anyone can contribute to our research projects. Whether you're a student, a researcher, a teacher or an enthusiast, we're looking for volunteers to help us create new knowledge.</p>
+      </div>
+      <div class="col-lg-7">
+        <p class="fs-4 mt-4">🎓</p>
+        <h2 class="h4 mt-0">Learn</h2>
+        <p>We strive to turn your valuable contributions into fun and rewarding opportunities for you to learn more about the topic at hand and understand how you're helping advance research.</p>
+      </div>
     </div>
   </div>
 </section>
+
+
+<section class="section section-sm mt-4 pt-4">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-12 col-lg-10 col-xl-8">
+        <h2 class="h3 mt-3 text-center">Latest from our blog</h2>
+        <div class="card-list">
+          <div class="card">
+            <div class="card-body">
+              <h3><a class="stretched-link text-body" href="https://getdoks.org/blog/doks-v0.2/">Say hello to Zeit.shift 👋</a></h3>
+              <p>Version 0.2 is here! Introducing the Doks child theme, several DX + UX updates, and easily switching the main functionalities on/off (also optimizing your CSS + JS footprint).</p>
+              <p><small>Posted March 28, 2021 by Eurac Research&nbsp;‐&nbsp;<strong>2&nbsp;min read</strong></small></p>
+              <p></p>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <h3><a class="stretched-link text-body" href="https://getdoks.org/blog/say-hello-to-doks/">Introducing All4Ling!</a></h3>
+              <p>Introducing Doks, a Hyas theme build by the creator of Hyas. Doks helps you build modern documentation websites that are secure, fast, and SEO-ready — by default.</p>
+              <p><small>Posted November 4, 2020 by <a class="stretched-link position-relative" href="https://getdoks.org/contributors/henk-verlinde/">Henk Verlinde</a>&nbsp;‐&nbsp;<strong>1&nbsp;min read</strong></small></p>
+              <p></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section section-sm container-fluid bg-light">
+<div class="container">
+  <div class="row justify-content-center">
+
+  <div class="col-md-6 col-lg-10 col-xl-8">
+    <img src="images/eurac_logo.png" width="70%" style="margin-top: 40px"/>
+  </div>
+  <div class="col-md-6 col-lg-10 col-xl-8">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="h4 card-title">Stay in the loop</h3>
+        <p class="card-text">Subscribe to the All4Ling newsletter and get occasional updates.</p>
+          <form class="row gx-2 gy-3 email-form" name="newsletter" method="post">
+            <input type="hidden" name="form-name" value="newsletter">
+            <div class="col-md-12">
+              <input name="name" type="text" class="form-control visually-hidden" placeholder="your name" aria-label="Name">
+              <input name="email" type="email" class="form-control" placeholder="your@email.com" aria-label="Email address" required="">
+              <input name="page" type="hidden" value="https://getdoks.org/">
+            </div>
+            <div class="col-md-4">
+              <button type="submit" class="btn btn-primary w-100" aria-label="Subscribe">Subscribe</button>
+            </div>
+          </form>
+      </div>
+    </div>
+  </div>
+
+  </div>
+</div>
+</section>
+
+
+<!--<section class="section section-sm bg-light">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <h2>Our collaborators</h2>
+      <div class="col-lg-5">
+        <img src="images/innsbruck_logo.png" width="50%"/>
+      </div>
+      <div class="col-lg-5">
+        <img src="images/tessmann_logo.png" width="50%"/>
+      </div>
+      <div class="col-lg-5">
+        <img src="images/tessmann_logo.png" width="50%"/>
+      </div>
+  </div>
+</section>-->
+
 {{ end }}

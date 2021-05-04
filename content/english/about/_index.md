@@ -20,16 +20,39 @@ title_font: "atma"
 <!--{{< alert icon="💡" text="The contents of this page are in `./content/[LANGUAGE]/about/_index.md`." >}}-->
 
 
-**All4Ling** (All for Linguistics) is an initiative of the Institute of Applied Linguistics of Eurac Research devoted to the development of Citizen Science projects and expertise.
 
-As the name suggests, All4Ling focuses on language and linguistics but is becoming increasingly involved in interdisciplinary Digital Humanities research.
+## The All4Ling team
 
-Please visit our _Projects_ page for a list of current activities.
-
-### Team
-
-- Andrea Abel
-- Etiene Dalcol
-- Greta Franzini
-- Verena Lyding
-- Egon Stemle
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      Andrea Abel
+    </div>
+    <div class="col-sm">
+      Etiene Dalcol
+    </div>
+    <div class="col-sm">
+      Greta H. Franzini
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      Jennifer-Carmen Frey
+    </div>
+    <div class="col-sm">
+      Verena Lyding
+    </div>
+    <div class="col-sm">
+      Lionel Nicolas
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      Egon W. Stemle
+    </div>
+    <div class="col-sm">
+    </div>
+    <div class="col-sm">
+    </div>
+  </div>
+</div>

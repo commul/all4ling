@@ -16,7 +16,7 @@ title_font: "grenze"
 
 <!--{{< alert icon="💡" text="The contents of this page are in `./content/[LANGUAGE]/about/projects/zeitshift.md`." >}}-->
 
-
+{{<figure src="/images/zs_banner.png" alt="" caption="CC-BY-..." width="100%" class="border-0">}}
 
 ### Summary
 
@@ -68,6 +68,10 @@ This custom game adapts [Typespeed](http://typespeed.sourceforge.net/). The game
 
 {{<figure src="/images/wko.png" alt="Game preview" caption="<em>'Who killed Ötzi?' game preview.</em>" width="100%" class="border-0">}}
 
+##### Instructions
+
+
+
 #### Activity: Mapping advertisements
 
 In this activity, citizens geotag and, optionally, transcribe historical advertisements published in the newspapers in order to reconstruct the commercial landscape of early 20th century Tyrol. Many shops from those times still exist today!
@@ -100,25 +104,39 @@ For testing purposes, these games and activities are developed on a small select
 As the project progresses, our games and activities will be loaded with more content.-->
 
 
+##### Instructions
+
+To work on the Historypin activity, please follow these instructions:
+
+1. Open your browser and navigate to [Historypin](https://www.historypin.org/)
+2. In the top-right corner of the site, click on "Join" to create a free Historypin account
+3. Once you are logged in, navigate to the [Zeit.shift page on Historypin](https://www.historypin.org/en/zeit-shift/)
+4. Download and read our guidelines [DOWNLOADABLE DOC OR VIDEO] to learn how to contribute
+5. Start contributing!
+
+For questions, problems or feedback, please write to us at all4ling[AT]eurac.edu. If you wish to share your work via social media, please consider using the #zeitshift hashtag to help us spread the word about the project!
+
 ### Natural Language Processing
 
-Data collected from citizens will help us annotate the entire newspaper corpus for linguistic traits, and train algorithms to better recognise Fraktur script and to classify types of words or expressions automatically (place names, person names, temporal expressions, etc.). 
+Data collected from citizens will help us annotate the entire newspaper corpus for linguistic traits, and train algorithms to better recognise Fraktur script and to classify types of words or expressions automatically (place names, person names, temporal expressions, etc.).
 
-### Progress
+<!--### Progress
 
 - 500,000 pages digitised
 - X tokens (words) digitised
 - X corrected tokens
 - X contributed annotations
-- X unique participants
+- X unique participants-->
 
 
-<!-- ### Links
+### Links and resources
 
-https://www.citizen-science.at/en/projects/how-to-list-a-project
-https://www.buergerschaffenwissen.de/
+- Fraktur script
+- [Citizen science portal](https://www.citizen-science.at/en/projects/how-to-list-a-project)
+- [Citizen science portal](https://www.buergerschaffenwissen.de/)
 
-### Output
+
+<!--### Output
 
 #### Publications
 
@@ -167,7 +185,7 @@ October 2020 - October 2022
 
 **Keywords**
 
-citizen science, games with a purpose, digitisation, historical newspapers, tyrol, natural language processing
+citizen science, games with a purpose, digitisation, historical newspapers, tyrol, natural language processing, heritage science, digital cultural heritage
 
 **Licensing**
 
