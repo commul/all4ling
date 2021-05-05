@@ -2,10 +2,12 @@
 title: "Say hello to Zeit.shift 👋"
 description: "Introducing Zeit.shift"
 lead: "Introducing Zeit.shift"
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+date: 2020-10-04T09:19:42+01:00
+lastmod: 2020-10-04T09:19:42+01:00
 draft: false
 weight: 50
 images: []
-contributors: ["EURAC Research"]
+contributors: ["Eurac Research"]
 ---
+
+We're delighted to announce...
