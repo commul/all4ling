@@ -1,17 +1,43 @@
 [[main]]
   name = "About"
-  url = "/about"
-  weight = 10
+  url = "/about/"
+  weight = 1
 
 [[main]]
   name = "Projects"
-  url = "/about/projects/zeitshift"
-  weight = 20
+  url = "/docs/"
+  weight = 2
 
 [[main]]
   name = "Blog"
   url = "/blog/"
-  weight = 30
+  weight = 3
+
+[[main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+
+#[[docs]]
+#name = ""
+#weight = 20
+#identifier = "projects"
+#url = "/docs/projects/"
+
+[[docs]]
+name = "Zeit.shift"
+weight = 21
+identifier = "zeitshift"
+url = "/docs/zeitshift/"
+
+#[[docs]]
+#name = "enetCollect"
+#weight = 3
+#identifier = "enetcollect"
+#url = "/docs/enetcollect/"
+
+
 
 [[languages]]
   name = "de"
