@@ -11,12 +11,12 @@ toc: false
 
 ### Zeit.shift
 
-Digital in yesterday’s future: Preservation, development and communication of the cultural and textual heritage of the whole of Tyrol
+Digital in yesterday’s future: Preservation, development and communication of the cultural and textual heritage of the whole of Tyrol.
 
 
 ### enetCollect
 
-European Network for Combining Language Learning with Crowdsourcing Techniques
+European Network for Combining Language Learning with Crowdsourcing Techniques.
 
 
 

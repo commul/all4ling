@@ -1,7 +1,7 @@
 ---
 title: "Citizen Science"
 description: "One page summary of how to start a new Doks project."
-lead: "How you can contribute."
+lead: ""
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -46,7 +46,7 @@ This activity makes use of an existing third-party platform, [Historypin](https:
 {{<figure src="/images/historypin.png" alt="Historypin" caption="<em>Zeit.shift advertisements in Historypin</em>.  Licence: CC-BY-SA." width="100%" class="border-0">}}
 
 
-#### Instructions
+<!--#### Instructions
 
 To work on the Historypin activity, please follow these instructions:
 
@@ -56,7 +56,7 @@ To work on the Historypin activity, please follow these instructions:
 4. Download and read our guidelines [DOWNLOADABLE DOC OR VIDEO] to learn how to contribute
 5. Start contributing!
 
-For questions, problems or feedback, please write to us at all4ling[AT]eurac.edu. If you wish to share your work via social media, please consider using the #zeitshift hashtag to help us spread the word about the project!
+For questions, problems or feedback, please write to us at all4ling[AT]eurac.edu. If you wish to share your work via social media, please consider using the #zeitshift hashtag to help us spread the word about the project!-->
 
 
 ## Dataset
@@ -74,4 +74,4 @@ For testing purposes, these games and activities are developed on a small select
 |      |                      |**Total pages**: 4456|
 
 
-As the project progresses, our games and activities will be loaded with more content.
+<!--As the project progresses, our games and activities will be loaded with more content.-->

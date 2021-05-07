@@ -1,7 +1,7 @@
-[[main]]
-  name = "About"
-  url = "/about/"
-  weight = 1
+#[[main]]
+#  name = "About"
+#  url = "/about/"
+#  weight = 1
 
 [[main]]
   name = "Projects"
@@ -31,11 +31,11 @@ weight = 21
 identifier = "zeitshift"
 url = "/docs/zeitshift/"
 
-#[[docs]]
-#name = "enetCollect"
-#weight = 3
-#identifier = "enetcollect"
-#url = "/docs/enetcollect/"
+[[docs]]
+name = "enetCollect"
+weight = 22
+identifier = "enetcollect"
+url = "/docs/enetcollect/"
 
 
 

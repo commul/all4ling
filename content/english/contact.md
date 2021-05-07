@@ -12,4 +12,4 @@ images: []
 weight: 4
 ---
 
-📧 Drop us an email at: {{< email user="all4ling" domain="eurac.edu" >}}
+📧 Drop us an email at: <strong>{{< email user="all4ling" domain="eurac.edu" >}}</strong>

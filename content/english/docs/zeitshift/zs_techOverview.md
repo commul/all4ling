@@ -1,7 +1,7 @@
 ---
 title: "Technical overview"
 description: ""
-lead: "Technical overview of the project."
+lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -21,9 +21,9 @@ toc: true
 - Universitäts- und Landesbibliothek Tirol: Silvia Gstrein, Christian Kössler, Barbara Laner, Johanna Walcher
 - Eurac Research: Andrea Abel, Etiene Dalcol, Greta Franzini, Verena Lyding, Egon Stemle
 
-<img src="/images/tessmann_logo.png" width="20%" alt="Teßmann logo">
-<img src="/images/innsbruck_logo.png" width="20%" alt="Innsbruck logo">
-<img src="/images/eurac_logo.png" width="20%" alt="Eurac logo">
+<img src="/images/tessmann_logo.png" width="30%" alt="Teßmann logo">&nbsp;&nbsp;&nbsp;
+<img src="/images/innsbruck_logo.png" width="20%" alt="Innsbruck logo">&nbsp;&nbsp;&nbsp;
+<img src="/images/eurac_logo.png" width="15%" alt="Eurac logo">
 
 ## Associated partners
 - Euregio Tirol-Südtirol-Trentino
