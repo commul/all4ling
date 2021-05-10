@@ -57,7 +57,7 @@ October 2020 - October 2022
 
 ## Keywords
 
-citizen science, games with a purpose, digitisation, historical newspapers, tyrol, natural language processing, heritage science, digital cultural heritage
+citizen science, games with a purpose, digitisation, historical newspapers, tyrol, natural language processing, heritage science, digital cultural heritage, cultural heritage volunteering, cultural heritage crowdsourcing, public history, public digital humanities
 
 ## Licensing
 

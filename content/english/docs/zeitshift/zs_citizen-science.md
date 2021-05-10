@@ -13,7 +13,7 @@ weight: 110
 toc: true
 ---
 
-Zeit.shift invites citizens to actively participate in data curation. The citizen science component of the project focuses on newspaper issues published approximately 100 years ago (1918-1924).
+Zeit.shift promotes participatory culture research by inviting citizens to actively participate in data curation and knowledge creation. The citizen science component of the project focuses on newspaper issues published approximately 100 years ago (1918-1924).
 **Anyone can contribute to Zeit.shift, provided they have some knowledge of German and Fraktur script.**
 
 We need your help with two tasks:
@@ -31,10 +31,10 @@ No sign-up or registration required!
 
 This custom game adapts [Typespeed](http://typespeed.sourceforge.net/). The game comes with different scenarios. In the "Who Killed Ötzi?" scenario shown below, arrows carrying words in Fraktur script fly from the left to the right of the screen in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are people names extracted from the Tyrolean newspapers. The goal of the game is simple: players must type the names as fast as possible before they reach and kill Ötzi! The more words are typed the longer Ötzi lives and the more points the player collects. When Ötzi dies, players are shown the original newspaper article from which the killing name (the killer!) was taken, allowing them to explore its context.
 
+- <strong>Task type</strong>: microtask
+- <strong>Purpose of the game</strong>: correct the OCR of individual words
+
 {{<figure src="/images/wko.png" alt="Game preview" caption="<em>'Who killed Ötzi?' game preview</em>.  Licence: CC-BY-SA." width="100%" class="border-0">}}
-
-
-
 
 
 ## Mapping advertisements
@@ -42,6 +42,10 @@ This custom game adapts [Typespeed](http://typespeed.sourceforge.net/). The game
 In this activity, citizens geotag and, optionally, transcribe historical advertisements published in the newspapers in order to reconstruct the commercial landscape of early 20th century Tyrol. Many shops from those times still exist today!
 
 This activity makes use of an existing third-party platform, [Historypin](https://www.historypin.org/en/).
+
+
+- <strong>Task type</strong>: micro- and macrotask
+- <strong>Purpose of the activity</strong>: geotag ads, correct the OCR of short blocks of text, collect expert knowledge from the public
 
 {{<figure src="/images/historypin.png" alt="Historypin" caption="<em>Zeit.shift advertisements in Historypin</em>.  Licence: CC-BY-SA." width="100%" class="border-0">}}
 
@@ -75,3 +79,27 @@ For testing purposes, these games and activities are developed on a small select
 
 
 <!--As the project progresses, our games and activities will be loaded with more content.-->
+
+
+## Why should I contribute?
+
+Your contributions to Zeit.shift will help:
+
+- accelerate research progress
+- make text more searchable and usable
+- create new knowledge, for education and research alike
+- make the newspaper collection more discoverable
+- preserve the historical memory of Tyrol
+
+Personal benefits you can expect from your involvement are:
+
+- increased awareness of Tyrolean history and culture
+- increased understanding of research procedures (e.g. digitisation and data quality)
+- possibility of influencing changes in project methodology, objectives, development, results or dissemination
+- open access to project data, which you can reuse in your own project as you please
+- acknowledgement of your contribution in academic publications and on our website
+- self-contained, casual tasks you can whenever suits you best
+- discover new interests and communities
+
+
+Should you have any ideas or suggestions as to additional participatory activities or events we could run with these historical materials, please [contact us](https://all4ling.eurac.edu/contact/). We'd 🧡 to hear from you!
