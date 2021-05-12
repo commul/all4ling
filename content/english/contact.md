@@ -19,7 +19,12 @@ Viale Druso 1<br />
 Italy
 
 <br />
-Drop us an email at: <strong>{{< email user="all4ling" domain="eurac.edu" >}}</strong>
+For questions about the project and help with the tasks, or should you have any suggestions as to additional participatory activities we could run with these historical materials, please drop us an email at:<br /><br /><strong>{{< email user="all4ling" domain="eurac.edu" >}}</strong>
+
+
+<br />
+We'd 🧡 to hear from you!
+
 
 ## Team
 

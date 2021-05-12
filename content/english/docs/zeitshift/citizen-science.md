@@ -18,7 +18,7 @@ Zeit.shift promotes participatory culture research by inviting citizens to activ
 
 We need your help with two tasks:
 
-1. Correct OCR mistakes (sufficient knowledge of German and Fraktur required)
+1. Correct [OCR mistakes](https://all4ling.eurac.edu/docs/zeitshift/introduction/#digitisation) (sufficient knowledge of German and Fraktur required)
 2. Geotag newspaper content (basic knowledge of German and Fraktur required)
 <!--3. Tag and classify words (names of people and places, parts-of-speech, etc.)-->
 
@@ -87,7 +87,7 @@ Your contributions to Zeit.shift will help:
 
 - accelerate research progress
 - make text more searchable and usable
-- create new knowledge, for education and research alike
+- create new knowledge for education and research alike
 - make the newspaper collection more discoverable
 - preserve the historical memory of Tyrol
 
@@ -98,8 +98,5 @@ Personal benefits you can expect from your involvement are:
 - possibility of influencing changes in project methodology, objectives, development, results or dissemination
 - open access to project data, which you can reuse in your own project as you please
 - acknowledgement of your contribution in academic publications and on our website
-- self-contained, casual tasks you can do whenever it suits you best
+- self-contained, casual tasks you can do whenever suits you best
 - discover new interests and communities
-
-
-Should you have any ideas or suggestions as to additional participatory activities or events we could run with these historical materials, please [contact us](https://all4ling.eurac.edu/contact/). We'd 🧡 to hear from you!

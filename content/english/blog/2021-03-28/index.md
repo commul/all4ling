@@ -1,7 +1,7 @@
 ---
 title: "Say hello to Zeit.shift 👋"
 description: ""
-lead: "Introducing Zeit.shift"
+lead: "Introducing Zeit.shift: Historical newspapers and citizen science!"
 date: 2021-03-28T09:19:42+01:00
 lastmod: 2021-03-28T09:19:42+01:00
 draft: false
@@ -21,7 +21,8 @@ Currently, these newspapers are scattered across Tyrol and are only partially di
 
 To make this digitised data more searchable, usable and engaging by the general public, **we are turning to you, the citizens, for help, ideas and knowledge!** To this end, we are developing games and activities to collect data from you and to help you explore and learn from the collections in engaging and fun ways.
 
-Can you read **German**? Can you read **Fraktur** script? Wunderbar! Then help us make historical Tyrolean newspapers more searchable and usable!<br /><br />
+<br />
+<p style="text-align: center"><strong>Can you read German and Fraktur script? Wunderbar! 🤩 Then help us make historical Tyrolean newspapers more searchable and usable!</strong></p><br /><br />
 
 
 <p style="text-align: center"><a href="https://all4ling.eurac.edu/docs/zeitshift/citizen-science/"><button type="button" class="btn btn-success">Find out how!</button></a></p>
