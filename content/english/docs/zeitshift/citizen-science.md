@@ -34,8 +34,8 @@ This custom game adapts [Typespeed](http://typespeed.sourceforge.net/). The game
 - <strong>Task type</strong>: microtask
 - <strong>Purpose of the game</strong>: correct the OCR of individual words
 
-{{<figure src="/images/wko.png" alt="Game preview" caption="<em>'Who killed Ötzi?' game preview</em>.  Licence: CC-BY-SA." width="100%" class="border-0">}}
 
+<img src="/images/wko.png" alt="Game preview" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>'Who killed Ötzi?' game preview</em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 ## Mapping advertisements
 
@@ -47,8 +47,8 @@ This activity makes use of an existing third-party platform, [Historypin](https:
 - <strong>Task type</strong>: micro- and macrotask
 - <strong>Purpose of the activity</strong>: geotag ads, correct the OCR of short blocks of text, collect expert knowledge from the public
 
-{{<figure src="/images/historypin.png" alt="Historypin" caption="<em>Zeit.shift advertisements in Historypin</em>.  Licence: CC-BY-SA." width="100%" class="border-0">}}
 
+<img src="/images/historypin.png" alt="Historypin" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>Zeit.shift advertisement in Historypin</em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 <!--#### Instructions
 
@@ -98,7 +98,7 @@ Personal benefits you can expect from your involvement are:
 - possibility of influencing changes in project methodology, objectives, development, results or dissemination
 - open access to project data, which you can reuse in your own project as you please
 - acknowledgement of your contribution in academic publications and on our website
-- self-contained, casual tasks you can whenever suits you best
+- self-contained, casual tasks you can do whenever it suits you best
 - discover new interests and communities
 
 

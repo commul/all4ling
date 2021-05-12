@@ -14,7 +14,7 @@ toc: true
 title_font: "grenze"
 ---
 
-{{<figure src="/images/zs_banner.png" alt="" caption="<em>Project collage</em>. Licence: CC-BY-SA." width="100%" class="border-0">}}
+<img src="/images/zs_banner.png" alt="Project collage" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>Project collage</em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 ## Summary
 
@@ -25,7 +25,7 @@ The project focuses on **historical newspapers written in German and mostly [Fra
 
 **The mutual collaboration between researchers, librarians and citizens** will help improve the functionality of the web platform for users worldwide and serve as an **opportunity for local and foreign communities to learn more about** the historical and cultural heritage of **Tyrol**.
 
-The active participation of citizens is crucial to the success of the project . Given the large number of newspapers (approx. 500,000 pages), **the more people help curate the data and spread the word** about Zeit.shift, **the more searchable the newspaper corpus becomes and the longer the historical memory of Tyrol will be preserved**.
+The active participation of citizens is crucial to the success of the project. Given the large number of newspapers (approx. 500,000 pages), **the more people help curate the data and spread the word** about Zeit.shift, **the more searchable the newspaper corpus becomes and the longer the historical memory of Tyrol will be preserved**.
 
 
 
@@ -35,13 +35,17 @@ The Tyrolean newspapers we are digitising are the following (titles shortened): 
 
 ## Digitisation
 
-Zeit.shift is digitally scanning the newspapers and running the scans through Optical Character Recognition (OCR). OCR is the automatic conversion of printed text (e.g. an image of a newspaper page!) into digital format (e.g. a Word document). This process often introduces errors in the digital text, especially when dealing with historical sources: issues such as faded ink, complex fonts or poor quality scans affect the recognition capabilities of the OCR machine. A digital text containing OCR mistakes is known as "noisy" text. The noisier the text, the harder it is to use and search.
+Zeit.shift is digitally scanning the newspapers and running the scans through Optical Character Recognition (OCR). OCR is the automatic conversion of printed text (e.g. an image of a newspaper page) into digital format (e.g. a Word document). This process often introduces errors in the digital text, especially when dealing with historical sources: issues such as faded ink, complex fonts or poor quality scans affect the recognition capabilities of the OCR machine. A digital text containing OCR mistakes is known as "noisy" text. The noisier the text, the harder it is to use and search.
 
+{{< youtube pd1gJoz2lYU >}}
+A brief introduction to Optical Character Recognition. Source: [NewsEye](https://www.newseye.eu/).
+
+<br />
 Here is an example of a "noisy" conversion of a digitised newspaper in Zeit.shift:
 
-{{<figure src="/images/exampleOCR_img.png" alt="Example scan" caption="<em>Tiroler Land-Zeitung, 21st December 1918, p. 8: <strong>Digital scan</strong>.</em>  Licence: CC-BY-SA." width="100%" class="border-0">}}
+<img src="/images/exampleOCR_img.png" alt="Example scan" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>Tiroler Land-Zeitung, 21st December 1918, p. 8: <strong>Digital scan</strong></em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
-{{<figure src="/images/exampleOCR_transcr.png" alt="Example dirty OCR" caption="<em>Tiroler Land-Zeitung, 21st December 1918, p. 8: <strong>Noisy OCR</strong> (mistakes in red).</em>  Licence: CC-BY-SA." width="100%" class="border-0">}}
+<img src="/images/exampleOCR_transcr.png" alt="Example dirty OCR" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>Tiroler Land-Zeitung, 21st December 1918, p. 8: <strong>Noisy OCR</strong> (mistakes in red)</em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 ## Natural Language Processing
 

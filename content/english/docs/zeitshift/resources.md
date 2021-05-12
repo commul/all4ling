@@ -17,6 +17,8 @@ toc: true
 
 ### Links and resources
 
-- Fraktur script
-- [Citizen science portal](https://www.citizen-science.at/en/projects/how-to-list-a-project)
-- [Citizen science portal](https://www.buergerschaffenwissen.de/)
+- Teßmann newspapers on [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers)
+- Innsbruck Library newspapers on [Austrian Newspapers Online](https://anno.onb.ac.at/)
+Fraktur script
+- Zeit.shift on [Citizen science portal](https://www.citizen-science.at/en/projects/how-to-list-a-project)
+- Zeit.shift on [Citizen science portal](https://www.buergerschaffenwissen.de/)

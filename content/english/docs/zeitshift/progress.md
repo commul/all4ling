@@ -17,6 +17,7 @@ toc: true
 
 
 - 500,000 pages digitised
+- X minutes spent
 - X tokens (words) digitised
 - X corrected tokens
 - X contributed annotations
