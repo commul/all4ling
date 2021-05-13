@@ -1,7 +1,7 @@
 ---
 title: "Citizen Science"
-description: "One page summary of how to start a new Doks project."
-lead: ""
+description: ""
+lead: "Help us preserve the historical memory of Tyrol!"
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -12,9 +12,6 @@ menu:
 weight: 110
 toc: true
 ---
-
-Zeit.shift promotes participatory culture research by inviting citizens to actively participate in data curation and knowledge creation. The citizen science component of the project focuses on newspaper issues published approximately 100 years ago (1918-1924).
-**Anyone can contribute to Zeit.shift, provided they have some knowledge of German and Fraktur script.**
 
 We need your help with two tasks:
 
@@ -29,13 +26,13 @@ No sign-up or registration required!
 
 ## OCR correction
 
-This custom game adapts [Typespeed](http://typespeed.sourceforge.net/). The game comes with different scenarios. In the "Who Killed Ötzi?" scenario shown below, arrows carrying words in Fraktur script fly from the left to the right of the screen in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are people names extracted from the Tyrolean newspapers. The goal of the game is simple: players must type the names as fast as possible before they reach and kill Ötzi! The more words are typed the longer Ötzi lives and the more points the player collects. When Ötzi dies, players are shown the original newspaper article from which the killing name (the killer!) was taken, allowing them to explore its context.
+This custom game adapts [Typespeed](http://typespeed.sourceforge.net/). The game comes with different scenarios. In the "Who Killed Ötzi?" scenario shown below, arrows carrying words in Fraktur script fly from the left to the right of the screen in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are people names extracted from the Tyrolean newspapers. The goal of the game is simple: you must type the names as fast as possible before they reach and kill Ötzi! The more words you type the longer Ötzi lives and the more points you collect. When Ötzi dies, you are shown the original newspaper article from which the killing name (the killer!) was taken, allowing you to explore its context.
 
 - <strong>Task type</strong>: microtask
 - <strong>Purpose of the game</strong>: correct the OCR of individual words
 
 
-<img src="/images/wko.png" alt="Game preview" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>'Who killed Ötzi?' game preview</em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+<img src="/images/wko.png" alt="Game preview" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>'Who killed Ötzi?' game</em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 ## Mapping advertisements
 
@@ -64,7 +61,8 @@ For questions, problems or feedback, please write to us at all4ling[AT]eurac.edu
 
 
 ## Dataset
-For testing purposes, these games and activities are developed on a small selection of the entire project dataset, illustrated below.
+
+The citizen science component of the project focuses on newspaper issues published approximately 100 years ago (1918-1924).
 
 |Year  | Newspaper | N. pages |
 |------|-----------|---------:|

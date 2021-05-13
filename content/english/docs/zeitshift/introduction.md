@@ -19,19 +19,22 @@ title_font: "grenze"
 ## Summary
 
 
-**Zeit.shift** is a cross-border cooperation between the [Dr. Friedrich Teßmann Library](https://www.tessmann.it/en/home.html) (Bolzano, Italy), the [Universitäts- und Landesbibliothek Tirol](https://www.uibk.ac.at/ulb/) (Innsbruck, Austria) and [Eurac Research](https://www.eurac.edu/) (Bolzano, Italy), which **seeks to preserve, develop and communicate the cultural and textual heritage of the historical region of Tyrol**.
+**Zeit.shift** is a cooperation between the [Dr. Friedrich Teßmann Library](https://www.tessmann.it/en/home.html) (Bolzano, Italy), the [Universitäts- und Landesbibliothek Tirol](https://www.uibk.ac.at/ulb/) (Innsbruck, Austria) and [Eurac Research](https://www.eurac.edu/) (Bolzano, Italy), which **seeks to preserve, develop and communicate the cultural and textual heritage of the historical region of Tyrol**.
 
-The project focuses on **historical newspapers written in German and mostly [Fraktur script](https://web.library.yale.edu/cataloging/music/fraktur)**, which are currently scattered across Tyrol and are only partially digitised. It is digitising some 500,000 pages of Tyrolean papers published between 1850 and 1950 and gather these in a single, freely accessible web platform, **inviting citizens to curate, explore and engage with the data through activities, games and learning materials**. The involvement of citizens responds to the principles of the [European Citizen Science Association](https://ecsa.citizen-science.net/), which identify high-quality citizen science projects ([Robinson et al. 2018, p. 29](https://discovery.dundee.ac.uk/ws/files/29458369/Citizen_Science_min.pdf)).
+The project focuses on **historical newspapers written in German** and mostly **[Fraktur script](https://web.library.yale.edu/cataloging/music/fraktur)**, which are currently scattered across Tyrol and are only partially digitised. **The goal of the project is twofold**:
+1. digitise some 500,000 pages of Tyrolean papers published between 1850 and 1950 and gather them in a single, freely accessible web platform;
+2. promote participatory culture research by inviting citizens to actively curate, explore and engage with the data to accelerate research and create new knowledge.
 
-**The mutual collaboration between researchers, librarians and citizens** will help improve the functionality of the web platform for users worldwide and serve as an **opportunity for local and foreign communities to learn more about** the historical and cultural heritage of **Tyrol**.
+<!--The involvement of citizens responds to the principles of the [European Citizen Science Association](https://ecsa.citizen-science.net/), which identify high-quality citizen science projects ([Robinson et al. 2018, p. 29](https://discovery.dundee.ac.uk/ws/files/29458369/Citizen_Science_min.pdf)).-->
 
-The active participation of citizens is crucial to the success of the project. Given the large number of newspapers (approx. 500,000 pages), **the more people help curate the data and spread the word** about Zeit.shift, **the more searchable the newspaper corpus becomes and the longer the historical memory of Tyrol will be preserved**.
+The mutual collaboration between researchers, librarians and citizens will help improve the functionality of the web platform for users worldwide and serve as an **opportunity for local and foreign communities to learn more about the** historical and cultural **heritage of Tyrol**.
 
+**The active participation of citizens is crucial** to the success of the project. Given the large number of newspapers (approx. 500,000 pages), **the more people help curate the data** and spread the word about Zeit.shift, **the more searchable the newspaper corpus becomes and the longer the historical memory of Tyrol will be preserved**.
 
 
 ## The newspapers
 
-The Tyrolean newspapers we are digitising are the following (titles shortened): Innsbrucker Zeitung, Alpenland, Alpenländer Bote, Der Arbeiter, Volksruf, Gardasee-Post, Neueste Zeitung, Neueste Morgenzeitung, Innsbrucker Neueste, Innsbrucker illustrierte neueste Nachrichten, Abendblatt, Innsbrucker Abendblatt, Der Oberländer, Der Südtiroler, Tiroler Bauernzeitung, Tiroler Landbote, Der Landbote, Tiroler Grenzbote, Tiroler Volksblatt, Tiroler Land-Zeitung, Tiroler Gemeindeblatt, Alpenrosen, Oberinntaler Wochenblatt, Neue Inn-Zeitung, Tiroler Post, Die Post, Tiroler Sonntagsbote, Der Tiroler Wastl, Der Widerhall, Tiroler-Vorarlberger Bienen-Zeitung, Tiroler Bienen-Zeitung, Alpenländische Bienenzeitung, Unterinntaler Bote, Haller Wochenblatt, Sterne und Blumen, Volkszeitung Innsbruck, Deutsche Volkszeitung.
+The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and Innsbruck University libraries. Here is the complete list (titles shortened): Innsbrucker Zeitung, Alpenland, Alpenländer Bote, Der Arbeiter, Volksruf, Gardasee-Post, Neueste Zeitung, Neueste Morgenzeitung, Innsbrucker Neueste, Innsbrucker illustrierte neueste Nachrichten, Abendblatt, Innsbrucker Abendblatt, Der Oberländer, Der Südtiroler, Tiroler Bauernzeitung, Tiroler Landbote, Der Landbote, Tiroler Grenzbote, Tiroler Volksblatt, Tiroler Land-Zeitung, Tiroler Gemeindeblatt, Alpenrosen, Oberinntaler Wochenblatt, Neue Inn-Zeitung, Tiroler Post, Die Post, Tiroler Sonntagsbote, Der Tiroler Wastl, Der Widerhall, Tiroler-Vorarlberger Bienen-Zeitung, Tiroler Bienen-Zeitung, Alpenländische Bienenzeitung, Unterinntaler Bote, Haller Wochenblatt, Sterne und Blumen, Volkszeitung Innsbruck, Deutsche Volkszeitung.
 
 ## Digitisation
 
@@ -41,12 +44,18 @@ Zeit.shift is digitally scanning the newspapers and running the scans through Op
 <p style="font-size: 10pt">A brief introduction to Optical Character Recognition. Source: <a href="https://www.natura.museum/de/" target="_blank" title="Opens in new tab">NewsEye</a>.</p>
 
 <br />
-Here is an example of a "noisy" conversion of a digitised newspaper in Zeit.shift:
+Here is an example of a "noisy" digital text in Zeit.shift:
 
 <img src="/images/exampleOCR_img.png" alt="Example scan" width="100%"/><p style="font-size: 10pt; margin-top: -15px;" xmlns:cc="http://creativecommons.org/ns#" ><em>Tiroler Land-Zeitung, 21st December 1918, p. 8: <strong>Digital scan</strong></em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 <img src="/images/exampleOCR_transcr.png" alt="Example dirty OCR" width="100%"/><p style="font-size: 10pt; margin-top: -15px;" xmlns:cc="http://creativecommons.org/ns#" ><em>Tiroler Land-Zeitung, 21st December 1918, p. 8: <strong>Noisy OCR</strong> (mistakes in red)</em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
-## Natural Language Processing
 
-Data collected from citizens will help us annotate the entire newspaper corpus for linguistic traits, and train algorithms to better recognise Fraktur script and to classify types of words or expressions automatically (place names, person names, temporal expressions, etc.).
+## Help us!
+
+We need your help to clean up the digital text so as to make it more usable for both humans and machines!
+- Benefit for humans: the clean text will be made available on the websites of the Friedrich Teßmann and Innsbruck University libraries for users to search, browse and enjoy.
+- Benefit for machines: the clean text will be used by Eurac Research to train algorithms to better recognise Fraktur script and classify words (place names, person names, temporal expressions, etc.).
+
+
+Move to the next section to find out how you can help!
