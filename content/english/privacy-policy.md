@@ -31,6 +31,6 @@ We run [Plausible](https://plausible.io/) / MATOMO (?) analytics. The following 
 
 ## Contact us
 
-[Contact us](https://all4ling.eurac.edu/contact/) if you have any questions.
+[Contact us]({{< ref "contact" >}}) if you have any questions.
 
 Effective Date: _1 January 2021_
