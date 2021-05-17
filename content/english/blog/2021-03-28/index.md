@@ -25,4 +25,4 @@ To make this digitised data more searchable, usable and engaging by the general 
 <p style="text-align: center"><strong>Can you read German and Fraktur script? Wunderbar! 🤩 Then help us make historical Tyrolean newspapers more searchable and usable!</strong></p><br /><br />
 
 
-<p style="text-align: center"><a href="https://all4ling.eurac.edu/docs/zeitshift/citizen-science/"><button type="button" class="btn btn-success">Find out how!</button></a></p>
+<p style="text-align: center"><a href="{{< ref "projects/zeitshift/citizen-science" >}}"><button type="button" class="btn btn-success">Find out how!</button></a></p>
