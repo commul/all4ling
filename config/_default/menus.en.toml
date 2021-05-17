@@ -36,12 +36,6 @@ weight = 21
 identifier = "zeitshift"
 url = "/docs/zeitshift/"
 
-[[docs]]
-name = "enetCollect"
-weight = 22
-identifier = "enetcollect"
-url = "/docs/enetcollect/"
-
 
 
 [[languages]]
@@ -83,13 +77,13 @@ url = "/docs/enetcollect/"
 #   url = "https://gitlab.inf.unibz.it/commul/zeit.shift"
 #   post = "v0.1.0"
 #   weight = 50
-
-[[footer]]
-   name = "Privacy"
-   url = "/privacy-policy/"
-   weight = 10
-
-[[footer]]
-   name = "Impressum"
-   url = "/impressum/"
-   weight = 10
+#
+# [[footer]]
+#    name = "Privacy"
+#    url = "/privacy-policy/"
+#    weight = 10
+#
+# [[footer]]
+#    name = "Impressum"
+#    url = "/impressum/"
+#    weight = 10
