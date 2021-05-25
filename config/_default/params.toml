@@ -1,9 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "All4Ling"
 titleSeparator = "-"
-titleAddition = "a subtitle for the title"
 description = "a long description of the project goes here"
 
 ## Open Graph + Twitter Cards
