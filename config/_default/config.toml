@@ -6,12 +6,13 @@ enableGitInfo = false
 enableRobotsTXT = true
 languageCode = "en-EN"
 paginate = 7
-rssLimit = 10
+rssLimit = 5
 defaultContentLanguage = "en"
 canonifyURLs = true
 
 [languages]
   [languages.de]
+    title = "All4Ling"
     contentDir = "content/deutsch"
     languageName = "German"
     titleSeparator = "-"
@@ -19,13 +20,15 @@ canonifyURLs = true
     description = ""
     weight = 1
   [languages.en]
+    title = "All4Ling"
     contentDir = "content/english"
     languageName = "English"
     titleSeparator = "-"
-    titleAddition = "English"
+    titleAddition = "Citizen Science at Eurac Research"
     description = ""
     weight = 2
   [languages.it]
+    title = "All4Ling"
     contentDir = "content/italiano"
     languageName = "Italian"
     titleSeparator = "-"
