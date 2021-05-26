@@ -17,7 +17,8 @@ This is a static site using a [Hugo](https://gohugo.io/) template called [Doks](
 
 1. To deploy, push your commits to master.
 
-This will trigger `.gitlab-ci.yml`, which will deploy the website to a [GitLab page](https://docs.gitlab.com/ee/user/project/pages/) located at [https://commul.pages.scientificnet.org/all4ling/www/](https://commul.pages.scientificnet.org/all4ling/www/)
+This will trigger `.gitlab-ci.yml`, which will deploy the website to a [GitLab page](https://docs.gitlab.com/ee/user/project/pages/) located at [https://commul.pages.scientificnet.org/all4ling/www/](https://commul.pages.scientificnet.org/all4ling/www/), mirrored at [https://all4ling.eurac.edu](https://all4ling.eurac.edu)
+
 
 ### Why Doks?
 
