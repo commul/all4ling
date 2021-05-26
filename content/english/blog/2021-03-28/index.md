@@ -2,7 +2,7 @@
 title: "Say hello to Zeit.shift 👋"
 description: ""
 lead: "Introducing Zeit.shift: Historical newspapers and citizen science!"
-date: 2021-04-02T09:19:42+01:00
+date: 2021-04-03T09:19:42+01:00
 lastmod: 2021-05-26T09:19:42+01:00
 draft: false
 weight: 50
