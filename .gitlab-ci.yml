@@ -11,7 +11,7 @@ test:
     - apt-get update && apt-get install -y nodejs
   script:
   - npm install
-  - hugo
+  - hugo version
   # except:
   # - master
 
@@ -20,7 +20,6 @@ pages:
     - apt-get update && apt-get install -y nodejs
   script:
   - npm install
-  - hugo version
   - hugo --baseURL https://all4ling.eurac.edu
   artifacts:
     paths:
