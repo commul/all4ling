@@ -56,7 +56,9 @@
         </media:content>
       {{ end }}
       <description>
-        {{ .Description | html }}
+        {{ printf "<![CDATA[" | safeHTML }}
+        {{- printf "%s" .Content | safeHTML }}
+        {{- printf "]]>" | safeHTML }}
       </description>
       <content:encoded>
         {{ printf "<![CDATA[" | safeHTML }}
