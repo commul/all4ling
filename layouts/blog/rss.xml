@@ -33,7 +33,7 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       {{ if .Params.article_img }}
-        <enclosure url="{{ .Site.BaseURL}}{{ .Params.article_img | html }}" length="" type="image/jpeg" />
+        <enclosure url="{{ .Site.BaseURL}}{{ .Params.article_img | html }}" length="1" type="image/jpeg" />
         <media:content   url="{{ .Site.BaseURL}}{{ .Params.article_img | html }}" width="1200" height="500" medium="image" type="image/jpeg" >
           <media:thumbnail url="{{ .Site.BaseURL}}{{ .Params.article_img | html }}" width="600" height="250"  />
         </media:content>
@@ -42,9 +42,9 @@
         {{ .Description | html }}
       </description>
       <content:encoded>
-        {{"<![CDATA["}}
-          {{ .Content | html }}
-        {{"]]>"}}
+        {{ printf "<![CDATA[" | safeHTML }}
+        {{- printf "%s" .Content | safeHTML }}
+        {{- printf "]]>" | safeHTML }}
       </content:encoded>
     </item>
     {{ end }}
