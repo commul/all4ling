@@ -11,7 +11,7 @@
 {{- $pages = $pages | first $limit -}}
 {{- end -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:content="http://purl.org/rss/1.0/modules/content" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ .Site.Title }}</title>
     <link>{{ .Permalink }}</link>
@@ -21,7 +21,7 @@
     <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
     <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
     <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
-    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    <lastBuildDate>{{ .Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
     {{- with .OutputFormats.Get "RSS" -}}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end -}}
@@ -32,9 +32,20 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
+      {{ if .Params.article_img }}
+        <enclosure url="{{ .Site.BaseURL}}{{ .Params.article_img | html }}" length="" type="image/jpeg" />
+        <media:content   url="{{ .Site.BaseURL}}{{ .Params.article_img | html }}" width="1200" height="500" medium="image" type="image/jpeg" >
+          <media:thumbnail url="{{ .Site.BaseURL}}{{ .Params.article_img | html }}" width="600" height="250"  />
+        </media:content>
+      {{ end }}
       <description>
-        {{ .Content | html }}
+        {{ .Description | html }}
       </description>
+      <content:encoded>
+        {{"<![CDATA["}}
+          {{ .Content | html }}
+        {{"]]>"}}
+      </content:encoded>
     </item>
     {{ end }}
   </channel>
