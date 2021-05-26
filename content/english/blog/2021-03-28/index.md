@@ -12,8 +12,15 @@ contributors: ["Eurac Research"]
 
 Zeit.shift is our new **citizen science** project devoted to the **preservation, development and communication of the culture and textual heritage of Tyrol**!
 
-<img src="/images/zs_profile_pic.png" width="20%" alt="Newspaper image" /><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" >Extract from an advertisement published in <em>Tiroler Grenzbote</em> on <a href="https://digital.tessmann.it/tessmannDigital/digitisedJournalsArchive/page/journal/62987/1/11.08.1923/350654/7" target="_blank" title="Opens in new tab">11th August 1923</a>. This image is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
+<figure>
+  <center>
+    <img src="/images/zs_profile_pic.png" width="20%" alt="Newspaper image" /><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" >
+  </center>
+  <figcaption>
+    Extract from an advertisement published in <em>Tiroler Grenzbote</em> on <a href="https://digital.tessmann.it/tessmannDigital/digitisedJournalsArchive/page/journal/62987/1/11.08.1923/350654/7" target="_blank" title="Opens in new tab">11th August 1923</a>. This image is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
+  </figcation>
+</figure>
 
 Zeit.shift is a cross-border cooperation between the Dr. Friedrich Teßmann Library (Bolzano, Italy), the Universitäts- und Landesbibliothek Tirol (Innsbruck, Austria) and Eurac Research (Bolzano, Italy) focussing on historical Tyrolean newspapers written in German and mostly Fraktur script published between 1850 and 1950.
 
