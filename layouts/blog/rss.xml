@@ -33,9 +33,26 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       {{ if .Params.article_img }}
-        <enclosure url="{{ .Site.BaseURL}}{{ .Params.article_img | html }}" length="1" type="image/jpeg" />
-        <media:content   url="{{ .Site.BaseURL}}{{ .Params.article_img | html }}" width="1200" height="500" medium="image" type="image/jpeg" >
-          <media:thumbnail url="{{ .Site.BaseURL}}{{ .Params.article_img | html }}" width="600" height="250"  />
+        {{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Params.article_img)) -}}
+        {{ $lqip := $image.Resize $.Site.Params.lqipWidth -}}
+
+        {{ $imgSrc := "" -}}
+        {{ $imgSrcSet := slice -}}
+
+        {{ $widths := $.Site.Params.landscapePhotoWidths -}}
+        {{ if gt $image.Height $image.Width -}}
+          {{ $widths = $.Site.Params.portraitPhotoWidths -}}
+        {{ end -}}
+
+        {{ range $widths -}}
+          {{ $srcUrl := (printf "%dx" . | $image.Resize).Permalink -}}
+          {{ if eq $imgSrc "" -}}{{ $imgSrc = $srcUrl -}}{{ end -}}
+          {{ $imgSrcSet = $imgSrcSet | append (printf "%s %dw" $srcUrl .) -}}
+        {{ end -}}
+        {{ $imgSrcSet = (delimit $imgSrcSet ",") -}}
+        <enclosure url="{{ $image.Permalink }}" length="1" type="image/jpeg" />
+        <media:content url="{{ $image.Permalink }}" width="1200" height="500" medium="image" type="image/jpeg" >
+          <media:thumbnail url="{{ $image.Permalink }}" width="600" height="250"  />
         </media:content>
       {{ end }}
       <description>

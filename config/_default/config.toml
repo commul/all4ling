@@ -36,7 +36,6 @@ canonifyURLs = true
     description = ""
     weight = 3
 
-
 # add redirects/headers
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
