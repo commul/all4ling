@@ -20,7 +20,7 @@ pages:
     - apt-get update && apt-get install -y nodejs
   script:
   - npm install
-  - hugo --baseURL ${CI_PAGES_URL}
+  - hugo --baseURL https://all4ling.eurac.edu
   artifacts:
     paths:
     - public
