@@ -1,3 +1,4 @@
+{{ .Scratch.Set "isRSS" "true" }}
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
