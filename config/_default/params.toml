@@ -60,4 +60,4 @@ editPage = false
   languageSwitch = true
   highLight = false
   kaTex = false
-  collapsibleSidebar = true
+  collapsibleSidebar = false
