@@ -27,6 +27,10 @@ $azure: #0080FF;
 
 $primary: $azure;
 
+$color-btn-bg: $pink-500;
+$color-btn-border: darken($pink-500, 5%);
+$color-btn-text: $white;
+
 // Options
 //
 // Quickly modify global styling by enabling or disabling optional features.
