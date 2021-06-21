@@ -1,0 +1,243 @@
+{{ define "main" }}
+
+<style>
+.bg {
+  /* The image used */
+  background-image: url("/images/zs_banner.png");
+
+  /* Full height */
+  height: 200px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 200px;
+}
+
+
+
+
+</style>
+<div class="bg w-100"></div>
+
+<section class="section container-fluid mt-n3 pb-3">
+  <div class="row justify-content-center">
+    <div class="home col-lg-12 text-center">
+      <h1 class="grenze">{{ .Title }}</h1>
+    </div>
+    <div class="col-lg-9 col-xl-8 text-center">
+      <p class="lead">{{ .Params.lead | safeHTML }}</p>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-prefooter" }}
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+        <p><strong>All for Linguistics</strong> (All4Ling) is an initiative of the <a href="https://www.eurac.edu/en/research/autonomies/commul/Pages/default.aspx" target="_blank" title="Opens in new tab">Institute of Applied Linguistics of Eurac Research</a> devoted to the development of Citizen Science projects and expertise. As the name suggests, All4Ling focuses on linguistics but is becoming increasingly involved in interdisciplinary Digital Humanities research.</p>
+    </div>
+    <br /><br />
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <!--<p class="fs-4 mt-4">💬</p>-->
+        <h2 class="h4">Computational Linguistics</h2>
+        <p>We develop and use language technology to research multilingualism.</p>
+      </div>
+      <div class="col-lg-5">
+        <!--<p class="fs-4 mt-4">💻</p>-->
+        <h2 class="h4">Digital Humanities</h2>
+        <p>We conduct interdisciplinary research in the humanities and social sciences.</p>
+      </div>
+      <div class="col-lg-5">
+        <!--<p class="fs-4 mt-4">🤝</p>-->
+        <h2 class="h4">Citizen Science</h2>
+        <p>We actively involve citizens for knowledge acquisition and transfer.</p>
+      </div>
+    </div>
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-5">
+        <!--<p class="fs-4 mt-4">📜</p>-->
+        <!--<h2 class="h4 mt-0">Cultural Heritage</h2>-->
+        <h2 class="h4">Cultural Heritage</h2>
+        <p>We collaborate with memory institutions for the preservation of cultural heritage.</p>
+      </div>
+      <div class="col-lg-5">
+        <!--<p class="fs-4 mt-4">🏔</p>-->
+        <!--<h2 class="h4 mt-0">Tyrol</h2>-->
+        <h2 class="h4">Tyrol</h2>
+        <p>We specialise in Tyrolean heritage and culture but our interests transcend national borders.</p>
+      </div>
+      <div class="col-lg-5">
+        <!--<p class="fs-4 mt-4">🌍</p>-->
+        <!--<h2 class="h4 mt-0">International</h2>-->
+        <h2 class="h4">Internationality</h2>
+        <p>We're an international team of researchers working in a trilingual setting.</p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-footer" }}
+<section class="section section-md mt-1 bg-light">
+  <div class="container">
+    <div class="row justify-content-center align-items-center text-center mt-n3">
+      <div class="col-lg-7">
+        <p class="fs-4 mt-4">✍🏼</p>
+        <h2 class="h4 mt-0">Contribute</h2>
+        <p>Anyone can contribute to our research projects. Whether you're a student, a researcher, a teacher or an enthusiast, we're looking for volunteers to help us curate data and create new knowledge.</p>
+      </div>
+      <div class="col-lg-7">
+        <p class="fs-4 mt-4">🎓</p>
+        <h2 class="h4 mt-0">Learn</h2>
+        <p>We strive to turn your valuable contributions into fun and rewarding opportunities for you to learn more about the topic at hand and understand how you're helping advance research.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section section-sm mt-1">
+  <div class="row justify-content-center text-center">
+    <h2 class="h3 mt-3 text-center">Latest news</h2>
+    <div class="col-lg-5">
+      <!--<p class="fs-4 mt-4">💬</p>-->
+      <!--<h2 class="h4">... our Blog</h2>-->
+      <div class="card-list">
+
+        <div class="card">
+          <div class="card-body">
+            <h3><a class="stretched-link text-body" href="{{ "blog/say-hello-to-zeit.shift" | absLangURL }}">Say hello to Zeit.shift 👋</a></h3>
+            <p>Zeit.shift is our new citizen science project devoted to the <strong>preservation, development and communication of the culture and textual heritage of Tyrol</strong>!<br /><br />
+            Can you read <strong>German</strong>? Can you read <strong>Fraktur</strong> script? Wunderbar! Then help us make historical Tyrolean newspapers more searchable and usable!<br /><br />
+            <a href="{{ "blog/say-hello-to-zeit.shift" | absLangURL }}">Read more...</a><br /><br />
+            <img src="/blog/say-hello-to-zeit.shift/zs_profile_pic.png" width="20%" />
+            <p><small>Posted March 28, 2021 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
+          </div>
+        </div>
+
+        <!--<div class="card">
+          <div class="card-body">
+            <h3><a class="stretched-link text-body" href="https://commul.pages.scientificnet.org/all4ling/www/blog/">Introducing All4Ling!</a></h3>
+            <p>Introducing Doks, a Hyas theme build by the creator of Hyas. Doks helps you build modern documentation websites that are secure, fast, and SEO-ready — by default.</p>
+            <p><small>Posted November 4, 2020 by <a class="stretched-link position-relative" href="https://commul.pages.scientificnet.org/all4ling/www/contributors/eurac-research/">Eurac Research</a>&nbsp;‐&nbsp;<strong>1&nbsp;min read</strong></small></p>
+          </div>
+        </div>-->
+
+      </div>
+    </div>
+    <div class="col-lg-5">
+      <!--<p class="fs-4 mt-4">🤝</p>-->
+      <!--<h2 class="h4">... and Twitter!</h2>-->
+      <p><a class="twitter-timeline" href="https://twitter.com/all4ling?ref_src=twsrc%5Etfw">Tweets by all4ling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+    </div>
+  </div>
+
+
+<!--
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-12 col-lg-10 col-xl-8">
+        <h2 class="h3 mt-3 text-center">Latest from our blog</h2>
+
+        <div class="col-lg-7">
+          <p class="fs-4 mt-4">✍🏼</p>
+          <h2 class="h4 mt-0">Blog</h2>
+
+          <div class="card-list">
+            <div class="card">
+              <div class="card-body">
+                <h3><a class="stretched-link text-body" href="https://commul.pages.scientificnet.org/all4ling/www/blog/">Say hello to Zeit.shift 👋</a></h3>
+                <p>Version 0.2 is here! Introducing the Doks child theme, several DX + UX updates, and easily switching the main functionalities on/off (also optimizing your CSS + JS footprint).</p>
+                <p><small>Posted March 28, 2021 by <a class="stretched-link position-relative" href="https://commul.pages.scientificnet.org/all4ling/www/contributors/eurac-research/">Eurac Research</a>&nbsp;‐&nbsp;<strong>2&nbsp;min read</strong></small></p>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-body">
+                <h3><a class="stretched-link text-body" href="https://commul.pages.scientificnet.org/all4ling/www/blog/">Introducing All4Ling!</a></h3>
+                <p>Introducing Doks, a Hyas theme build by the creator of Hyas. Doks helps you build modern documentation websites that are secure, fast, and SEO-ready — by default.</p>
+                <p><small>Posted November 4, 2020 by <a class="stretched-link position-relative" href="https://commul.pages.scientificnet.org/all4ling/www/contributors/eurac-research/">Eurac Research</a>&nbsp;‐&nbsp;<strong>1&nbsp;min read</strong></small></p>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>-->
+</section>
+
+<!--<section class="section section-sm mt-1">
+  <div class="row justify-content-center text-center">
+    <h2 class="h3 mt-3 text-center">Featured game</h2>
+      <h5><a href="https://all4ling.eurac.edu/docs/zeitshift/citizen-science/#ocr-correction">Who killed Ötzi?</a></h5>
+          <canvas id="canvas" width="512" height="288"></canvas><br />
+          <input id="word-box" name="word" type="text" placeholder="Type..."/>
+          <script crossorigin="anonymous" language="javascript" type="application/javascript"  src="{{ "games/who-killed-oetzi/main.js" | urlize | absURL }}"></script>
+          <script type="text/javascript">
+            main({{ "games/who-killed-oetzi/" | urlize | absURL}});
+          </script>
+          {{ .Content }}
+          <br/><br/>
+        </div>
+
+    </div>
+</section>-->
+
+
+<section class="section section-sm container-fluid bg-light">
+<div class="container flex-column">
+  <div class="row d-flex justify-content-between align-items-center">
+    <div class="col-md-4 col-lg-4 col-xl-4 justify-content-start ">
+      <a href="https://www.eurac.edu/en/pages/default.aspx" target="_blank" title="Opens in new tab"><img src="images/eurac_logo.png" width="100%"/></a>
+    </div>
+    <div class="col-md-8 col-lg-8 col-xl-8">
+      <div class="card">
+        <div class="container card-body">
+          <!--https://follow.it/all4ling?action=followPub1-->
+          <form data-v-4c58e686="" action="https://api.follow.it/subscription-form/a2NKOEJGNnB6bWtodG9WWEI3MlpDZHl5eFBWWTJQTXB2bXdDQnJ5ZHZYK2tLcWtMQXBrbWNRVlhBYmpGMmd2Q0Jwak9pTk1ER0laaDhZR1JQdW9kaG9PZlhLWHh6TTl0YmpxZTJ0RWJjL01iVWRTeEpGYnBZRUExLzVGZDF6cSt8SE9HcUZ4Tm03aFk3bHVNU0s2dDNVSjV3Nld3TGNiYUhHcGlvRWpuZDc4ND0=/8" method="post">
+            <h3 class="h4 card-title">Stay in the loop</h3>
+            <p class="card-text">Subscribe to the All4Ling newsletter and get occasional updates.</p>
+            <input type="hidden" name="form-name" value="newsletter">
+
+            <div class="row d-flex justify-content-center">
+              <div class="col-md-10">
+                <input name="name" type="text" class="form-control visually-hidden" placeholder="your name" aria-label="Name">
+                <input name="email" type="email" class="form-control" placeholder="your@email.com" spellcheck="false" aria-label="Email address" required="">
+                <input name="page" type="hidden" value="https://getdoks.org/">
+              </div>
+
+              <div class="col-md-6">
+                <button type="submit" class="btn btn-primary w-100" aria-label="Subscribe">Subscribe</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+
+<!--<section class="section section-sm bg-light">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <h2>Our collaborators</h2>
+      <div class="col-lg-5">
+        <img src="images/innsbruck_logo.png" width="50%"/>
+      </div>
+      <div class="col-lg-5">
+        <img src="images/tessmann_logo.png" width="50%"/>
+      </div>
+      <div class="col-lg-5">
+        <img src="images/tessmann_logo.png" width="50%"/>
+      </div>
+  </div>
+</section>-->
+
+{{ end }}

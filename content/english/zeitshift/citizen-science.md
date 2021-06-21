@@ -15,7 +15,7 @@ toc: true
 
 We need your help with two tasks:
 
-1. Correct [OCR mistakes]({{< ref "projects/zeitshift/introduction#digitisation" >}}) (sufficient knowledge of German and Fraktur required)
+1. Correct [OCR mistakes]({{< ref "zeitshift/introduction#digitisation" >}}) (sufficient knowledge of German and Fraktur required)
 2. Geotag newspaper content (basic knowledge of German and Fraktur required)
 <!--3. Tag and classify words (names of people and places, parts-of-speech, etc.)-->
 
