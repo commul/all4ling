@@ -41,3 +41,24 @@
     </div>
   </div>
 </header>
+
+{{ with .Params.banner}}
+<style>
+.bg {
+  background-image: url({{.}});
+  height: 220px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg:before {
+  content: "";
+  position: absolute;
+  left: 0; right: 0;
+  top: 0; bottom: 0;
+  height: 284px;
+  background: rgba(0,0,0,.4);
+}
+</style>
+<div class="bg w-100"></div>
+{{ end}}

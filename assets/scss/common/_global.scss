@@ -51,6 +51,16 @@ h6,
   font-size: calc(1.875rem + 1.5vw);
 }
 
+.title {
+  color: white;
+  position: absolute;
+  top: 100px;
+  text-align: center;
+}
+.title h1 {
+  font-size: calc(2.875rem + 1.5vw) !important;
+}
+
 a:hover,
 a:focus {
   text-decoration: underline;
