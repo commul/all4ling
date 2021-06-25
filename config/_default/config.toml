@@ -106,7 +106,7 @@ rel  = "sitemap"
 [taxonomies]
   contributor = "contributors"
 
-[RelPermalinks]
+[permalinks]
   blog = "/blog/:title/"
 
 [module]
