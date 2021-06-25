@@ -8,20 +8,34 @@
 #titleSeparator = "-"
 #description = "All for Linguistics is an initiative of the Institute of Applied Linguistics of Eurac Research devoted to the development of Citizen Science projects and expertise at the intersection of Computational Linguistics and Digital Humanities."
 
-## Open Graph + Twitter Cards
+## Open Graph
 # images = ["doks.png"]
-# twitterSite = "henkverlinde"
-# twitterCreator = "henkverlinde"
-# facebookAuthor = "verlinde.henk"
-# facebookPublisher = "verlinde.henk"
 # ogLocale = "en_US"
+# domainTLD = "doks.netlify.app"
+# titleHome = "Doks Theme"
+
+## Twitter Cards
+# twitterSite = "@getdoks"
+# twitterCreator = "@henkverlinde"
 
 ## JSON-LD
+# schemaType = "Person"
 # schemaType = "Organization"
+# schemaName = "Doks"
+# schemaAuthor = "Henk Verlinde"
+# schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+# schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+# schemaAuthorGitHub = "https://github.com/h-enk"
+# schemaLocale = "en-US"
 # schemaLogo = "logo-doks.png"
-# schemaTwitter = "https://twitter.com/henkverlinde"
-# schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-# schemaGitHub = "https://github.com/h-enk"
+# schemaLogoWidth = 512
+# schemaLogoHeight = 512
+# schemaImage = "doks.png"
+# schemaImageWidth = 1280
+# schemaImageHeight = 640
+# schemaTwitter = "https://twitter.com/getdoks"
+# schemaLinkedIn = ""
+# schemaGitHub = "https://github.com/h-enk/doks"
 # schemaSection = "blog"
 
 ## Sitelinks Search Box
