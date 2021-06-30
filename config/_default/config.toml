@@ -13,7 +13,6 @@ canonifyURLs = true
 [languages]
   [languages.de]
     title = "All4Ling"
-    contentDir = "content/deutsch"
     languageName = "German"
     titleSeparator = "-"
     titleAddition = "Deutsch"
@@ -21,7 +20,6 @@ canonifyURLs = true
     weight = 1
   [languages.en]
     title = "All4Ling"
-    contentDir = "content/english"
     languageName = "English"
     titleSeparator = "-"
     titleAddition = "Citizen Science at Eurac Research"
@@ -29,7 +27,6 @@ canonifyURLs = true
     weight = 2
   [languages.it]
     title = "All4Ling"
-    contentDir = "content/italiano"
     languageName = "Italian"
     titleSeparator = "-"
     titleAddition = "Italiano"

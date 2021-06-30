@@ -13,11 +13,9 @@ toc: false
 
 Digital in yesterday’s future: Preservation, development and communication of the cultural and textual heritage of the whole of Tyrol.
 
+<p style="text-align: center"><a href="{{< ref "zeitshift" >}}"><button type="button" class="btn btn-primary">See more</button></a></p>
+
 
 <!--### enetCollect
 
 European Network for Combining Language Learning with Crowdsourcing Techniques.-->
-
-
-
-{{< alert icon="👈" text="Explore our projects here on the left." >}}
