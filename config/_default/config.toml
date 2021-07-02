@@ -17,14 +17,14 @@ canonifyURLs = true
     titleSeparator = "-"
     titleAddition = "Deutsch"
     description = ""
-    weight = 1
+    weight = 2
   [languages.en]
     title = "All4Ling"
     languageName = "English"
     titleSeparator = "-"
     titleAddition = "Citizen Science at Eurac Research"
     description = ""
-    weight = 2
+    weight = 1
   [languages.it]
     title = "All4Ling"
     languageName = "Italian"
