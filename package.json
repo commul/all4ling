@@ -63,6 +63,6 @@
     "feather-icons": "^4.28.0"
   },
   "otherDependencies": {
-    "hugo": "0.84.0"
+    "hugo": "0.84.4"
   }
 }
