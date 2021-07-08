@@ -27,12 +27,12 @@ To make this digitised data more searchable, usable and engaging by the general 
 <p style="text-align: center"><strong>Can you read German and Fraktur script? Wunderbar! 🤩 Then help us make historical Tyrolean newspapers more searchable and usable!</strong></p><br /><br />
 
 
-<p style="text-align: center"><a href="{{< ref "zeitshift/citizen-science" >}}"><button type="button" class="btn btn-success">Find out how!</button></a></p>
+<p style="text-align: center"><a href="{{< ref "zeitshift/introduction" >}}"><button type="button" class="btn btn-success">Find out how!</button></a></p>
 
 <br />
 <br />
 <small>
   <p xmlns:cc="http://creativecommons.org/ns#" >
-    Images in this post licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
+    Images in this post licensed under <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
   </p>
 </small>
