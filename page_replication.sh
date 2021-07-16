@@ -10,33 +10,51 @@
 # (https://gohugo.io/functions/lang.merge/), but not with content pages. For example,
 # if about.md exists and about.de.md doesn't, accessing /de/about will leard to
 # a 404 error instead of showing the same content as /about. The solution this
-# script provides is to duplicate each markdown page for each missing translation
-# in the available languages. Our specific use case includes things like blog
-# posts or any other page we don't necessarily want to make available in all
-# three languages supported in the All4Ling website and projects.
+# script provides is to create symlinks of the markdown file in the default language
+# for each missing translation in the available languages before publishing.
+# Our specific use case includes things like blog posts or any other page we
+# don't necessarily want to make available in all three languages supported in
+# the All4Ling website and projects, or for gruadual translation work in progress.
 
-if [ -f remove.sh ]; then
-  echo "remove.sh exists, exiting."
-  exit
-else
-  echo -e "#!/bin/sh\n" >remove.sh
-  chmod +x remove.sh
-fi
+REMOVE="$PWD/remove_replication.sh"
+# reset remove file
+resetRemoveFile(){
+  if [ -f remove_replication.sh ]; then
+    rm remove_replication.sh
+  fi
+  echo "#!/bin/sh\n" >remove_replication.sh
+  chmod +x remove_replication.sh
+}
 
-REMOVE="$PWD/remove.sh"
-for dirpath in content; do
-echo In $dirpath:
-pushd $dirpath >/dev/null
-for file in *.*; do
+replicateInDir(){
+  local dir="$1"
 
-  # skip if not an actual file
-  if [ ! -f $file -a ! -L $file ]; then continue; fi
+  for file in $dir/*; do
+    # recurse if "file" is subdirectory and not an actual file
+    if [ ! -f $file -a ! -L $file ]; then
+      replicateInDir "$file"
+      continue
+    fi
 
-  # skip existing .nl translations
-  echo -n $file | grep -ve '.nl.md$' -ve '.nl.html$' >/dev/null
-  if [ $? != 0 ]; then continue; fi
+    # skip existing translations
+    echo -n $file | grep -ve '.it.md$' -ve '.it.html$' -ve '.de.md$' -ve '.de.html$' >/dev/null
+    if [ $? != 0 ]; then continue; fi
+    # skip other files
+    echo -n $file | grep -e '.md$' -e '.html$' >/dev/null
+    if [ $? != 0 ]; then continue; fi
 
-  file=`basename $file`
+    file=`basename $file`
+
+    createLinks $dir $file "de"
+    createLinks $dir $file "it"
+  done
+}
+
+
+createLinks(){
+  local dir="$1"
+  local file="$2"
+  local lang="$3"
 
   # get file path without (last) suffix (.md, .html, etcetera)
   # sed replaces period followed by non-periods with nothing
@@ -45,29 +63,27 @@ for file in *.*; do
   suffix=`echo $file | sed 's/.*\.\([^.]*$\)/\1/'`
 
   # assemble translated file path
-  #languages=['de', 'in']
-  translation=${base}.de.${suffix}
-  # check if translated file already exists
+  translation=${dir}/${base}.${lang}.${suffix}
+
+  # check if there isnt a translation already
   if [ ! -f $translation ]; then
-    echo "created $dirname/$translation soft-link"
+    # translated file doesnt exist, replicate from default language with soft-link
+    echo "created $translation soft-link"
     ln -s $file $translation
-    echo "if [ -L \"$dirpath/$translation\" ]; then" >>$REMOVE
-    echo "  rm -v -- \"$dirpath/$translation\"" >>${REMOVE}
+    echo "if [ -L \"$translation\" ]; then" >>$REMOVE
+    echo "  rm -v -- \"$translation\"" >>${REMOVE}
     echo "fi" >>${REMOVE}
-  else
-    if [ -L $translation ]; then
-      dest=`readlink -f $translation`
-      target=`basename $dest`
-      if [ x$target == x$file ]; then
-        echo "$translation already is a soft-link to default, skipping"
-        echo "if [ -L \"$dirpath/$translation\" ]; then" >>$REMOVE
-        echo "  rm -v -- \"$dirpath/$translation\"" >>${REMOVE}
-        echo "fi" >>${REMOVE}
-      else
-        echo "$translation already is a soft-link to $dest, skipping"
-      fi
-    fi
+  elif [ -L $translation ]; then
+    # translated file already exists and is a soft link
+    # add to remove file
+    dest=`readlink -f $translation`
+    target=`basename $dest`
+      echo "$translation already is a soft-link, skipping"
+      echo "if [ -L \"$translation\" ]; then" >>$REMOVE
+      echo "  rm -v -- \"$translation\"" >>${REMOVE}
+      echo "fi" >>${REMOVE}
   fi
-done
-popd >/dev/null
-done
+}
+
+resetRemoveFile
+replicateInDir "content"
