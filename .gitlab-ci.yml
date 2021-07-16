@@ -21,8 +21,9 @@ pages:
   script:
   - npm install
   - hugo version
+  - ./page_replication.sh
   - hugo --baseURL ${CI_PAGES_URL}
-  
+
   artifacts:
     paths:
     - public
