@@ -19,23 +19,17 @@
     weight = 6
 
 
-
-
-
-
-
-#[[docs]]
-#name = ""
-#weight = 20
-#identifier = "projects"
-#url = "/docs/projects/"
+[[docs]]
+name = "Projects"
+weight = 1
+identifier = "projects"
+url = "/projects/"
 
 [[docs]]
 name = "Zeit.shift"
-weight = 21
+weight = 10
 identifier = "zeitshift"
-url = "/projects/"
-
+url = "/zeitshift/"
 
 
 [[languages]]

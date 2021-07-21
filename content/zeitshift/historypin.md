@@ -1,5 +1,5 @@
 ---
-title: "Historypin tutorial"
+title: "Historypin Instructions"
 description: ""
 lead: "Help us preserve the historical memory of Tyrol!"
 date: 2020-11-16T13:59:39+01:00
@@ -20,7 +20,7 @@ Thank you for choosing to contribute to Zeit.shift! These guidelines will walk y
 
 For questions about the activity or comments about these guidelines, please contact the Zeit.shift team at: all4ling@eurac.edu.
 
-
+## Instructions
 
 ### 1. Accessing the collection
 
@@ -131,6 +131,6 @@ This is a known Historypin bug. Refreshing the page will restore the correct num
 **Why are my comments and tags disappearing?**<br />
 This is a known Historypin caching issue. Your comments and tags are being recorded but take 15-20 minutes to appear online.
 
-<br /><br />
+<br/><br/>
 
 <p style="text-align: center"><a href="https://www.historypin.org/en/zeit-shift/geo/46.494565,11.347343,17/bounds/46.490037,11.345184,46.499092,11.349502/paging/1" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success">🚀 TAKE ME TO THE ACTIVITY!</button></a></p>

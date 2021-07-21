@@ -1,5 +1,5 @@
 ---
-title: "Documentation"
+title: "About"
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -9,11 +9,21 @@ images: []
 menu:
   docs:
     parent: "zeitshift"
-weight: 150
+weight: 10
 toc: true
 ---
 
-<!--{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." >}}-->
+## Zeit.shift
+
+**Zeit.shift** is a cooperation between the [Dr. Friedrich Teßmann Library](https://www.tessmann.it/en/home.html) (Bolzano, Italy), the [Universitäts- und Landesbibliothek Tirol](https://www.uibk.ac.at/ulb/) (Innsbruck, Austria) and [Eurac Research](https://www.eurac.edu/) (Bolzano, Italy) funded by the [European Regional Development Fund and Interreg V-A Italia - Austria 2014-2020](https://www.interreg.net/en/default.asp), which seeks to preserve, develop and communicate the cultural and textual heritage of the historical region of Tyrol.
+
+The project focuses on **historical newspapers written in German** and mostly [Fraktur script](https://web.library.yale.edu/cataloging/music/fraktur), which are currently scattered across Tyrol and are only partially digitised. **The goal of the project is twofold**:
+1. digitise some 500,000 pages of Tyrolean papers published between 1850 and 1950 and gather them in a single, freely accessible web platform;
+2. promote participatory culture research by inviting citizens to actively curate, explore and engage with the data to accelerate research and create new knowledge.
+
+<!--The involvement of citizens responds to the principles of the [European Citizen Science Association](https://ecsa.citizen-science.net/), which identify high-quality citizen science projects ([Robinson et al. 2018, p. 29](https://discovery.dundee.ac.uk/ws/files/29458369/Citizen_Science_min.pdf)).-->
+
+Given the large number of newspapers (approx. 500,000 pages), **the more people help curate the data** and spread the word about Zeit.shift, **the more searchable the newspaper corpus becomes and the longer the historical memory of Tyrol will be preserved**.
 
 
 ## Digitisation
@@ -30,9 +40,14 @@ Here is an example of a "noisy" digital text in Zeit.shift:
 
 <img src="/images/exampleOCR_transcr.png" alt="Example dirty OCR" width="100%"/><p style="font-size: 10pt; margin-top: -15px;" xmlns:cc="http://creativecommons.org/ns#" ><em>Tiroler Land-Zeitung, 21st December 1918, p. 8: <strong>Noisy OCR</strong> (mistakes in red)</em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
-<!--## The newspapers
+### The newspapers
 
-The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and Innsbruck University libraries. Here is the complete list (titles shortened): Innsbrucker Zeitung, Alpenland, Alpenländer Bote, Der Arbeiter, Volksruf, Gardasee-Post, Neueste Zeitung, Neueste Morgenzeitung, Innsbrucker Neueste, Innsbrucker illustrierte neueste Nachrichten, Abendblatt, Innsbrucker Abendblatt, Der Oberländer, Der Südtiroler, Tiroler Bauernzeitung, Tiroler Landbote, Der Landbote, Tiroler Grenzbote, Tiroler Volksblatt, Tiroler Land-Zeitung, Tiroler Gemeindeblatt, Alpenrosen, Oberinntaler Wochenblatt, Neue Inn-Zeitung, Tiroler Post, Die Post, Tiroler Sonntagsbote, Der Tiroler Wastl, Der Widerhall, Tiroler-Vorarlberger Bienen-Zeitung, Tiroler Bienen-Zeitung, Alpenländische Bienenzeitung, Unterinntaler Bote, Haller Wochenblatt, Sterne und Blumen, Volkszeitung Innsbruck, Deutsche Volkszeitung.-->
+The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and Innsbruck University libraries. Here is the complete list (titles shortened): Innsbrucker Zeitung, Alpenland, Alpenländer Bote, Der Arbeiter, Volksruf, Gardasee-Post, Neueste Zeitung, Neueste Morgenzeitung, Innsbrucker Neueste, Innsbrucker illustrierte neueste Nachrichten, Abendblatt, Innsbrucker Abendblatt, Der Oberländer, Der Südtiroler, Tiroler Bauernzeitung, Tiroler Landbote, Der Landbote, Tiroler Grenzbote, Tiroler Volksblatt, Tiroler Land-Zeitung, Tiroler Gemeindeblatt, Alpenrosen, Oberinntaler Wochenblatt, Neue Inn-Zeitung, Tiroler Post, Die Post, Tiroler Sonntagsbote, Der Tiroler Wastl, Der Widerhall, Tiroler-Vorarlberger Bienen-Zeitung, Tiroler Bienen-Zeitung, Alpenländische Bienenzeitung, Unterinntaler Bote, Haller Wochenblatt, Sterne und Blumen, Volkszeitung Innsbruck, Deutsche Volkszeitung.
+
+
+### Technical overview
+
+OCR was performed using Abbyy FineReader Engine v.11. The digitised material (TIFF image scans and ALTO XML files) amounts to some 15TB of data.
 
 ## Citizen science
 Zeit.shift falls under the crowdsourcing and distributed intelligence typology of citizen science projects ([Haklay, 2013](https://link.springer.com/chapter/10.1007%2F978-94-007-4587-2_7)). As such, it relies on the cognitive and observation abilities of the participants to crowdsource research data.
