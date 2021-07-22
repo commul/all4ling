@@ -1,22 +1,44 @@
 [[main]]
   name = "About"
   url = "/about/"
-  weight = 1
+  # "weight" defines the order of this menu item
+  weight = 10
+  # The "project" variable defines if this menu item is shown or hidden on the
+  # main project pages.
+  # Options:
+  #   not set (default): shown on all pages
+  #   "hide" hides it from the main project page but is shown elsewhere
+  #   "only" hides it from the other pages and shows on project page only with
+  #      a URL alteration to include the project path. For example:
+  #      /about/ becomes /zeitshift/about/ in the zeitshift project page
+  [main.params]
+    project = "only"
+
+
+[[main]]
+  name = "Participate"
+  url = "/participate/"
+  weight = 20
+  [main.params]
+    project = "only"
 
 [[main]]
   name = "Projects"
   url = "/projects/"
-  weight = 2
+  weight = 30
+  [main.params]
+    project = "hide"
 
 [[main]]
   name = "Blog"
   url = "/blog/"
-  weight = 3
+  weight = 40
+
 
 [[main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 6
+  name = "Contact"
+  url = "/contact/"
+  weight = 50
 
 [[docs]]
 name = "Projects"
