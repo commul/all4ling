@@ -39,17 +39,17 @@ fi
 if [ -L "content/games/who-killed-oetzi.it.md" ]; then
   rm -v -- "content/games/who-killed-oetzi.it.md"
 fi
-if [ -L "content/privacy-policy.de.md" ]; then
-  rm -v -- "content/privacy-policy.de.md"
-fi
-if [ -L "content/privacy-policy.it.md" ]; then
-  rm -v -- "content/privacy-policy.it.md"
-fi
 if [ -L "content/projects/_index.de.md" ]; then
   rm -v -- "content/projects/_index.de.md"
 fi
 if [ -L "content/projects/_index.it.md" ]; then
   rm -v -- "content/projects/_index.it.md"
+fi
+if [ -L "content/zeitshift/about.de.md" ]; then
+  rm -v -- "content/zeitshift/about.de.md"
+fi
+if [ -L "content/zeitshift/about.it.md" ]; then
+  rm -v -- "content/zeitshift/about.it.md"
 fi
 if [ -L "content/zeitshift/acknowledgements.de.md" ]; then
   rm -v -- "content/zeitshift/acknowledgements.de.md"
@@ -86,10 +86,4 @@ if [ -L "content/zeitshift/resources.de.md" ]; then
 fi
 if [ -L "content/zeitshift/resources.it.md" ]; then
   rm -v -- "content/zeitshift/resources.it.md"
-fi
-if [ -L "content/zeitshift/techOverview.de.md" ]; then
-  rm -v -- "content/zeitshift/techOverview.de.md"
-fi
-if [ -L "content/zeitshift/techOverview.it.md" ]; then
-  rm -v -- "content/zeitshift/techOverview.it.md"
 fi
