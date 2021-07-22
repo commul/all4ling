@@ -8,5 +8,7 @@ draft: false
 images: []
 toc: false
 banner: "/images/zs_banner.png"
-
+menu:
+  docs:
+    parent: "projects"
 ---

@@ -1,7 +1,7 @@
-#[[main]]
-#  name = "About"
-#  url = "/about/"
-#  weight = 1
+[[main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
 
 [[main]]
   name = "Projects"
@@ -17,7 +17,6 @@
     name = "Contact"
     url = "/contact/"
     weight = 6
-
 
 [[docs]]
 name = "Projects"

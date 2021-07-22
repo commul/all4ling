@@ -10,6 +10,14 @@ rssLimit = 5
 defaultContentLanguage = "en"
 canonifyURLs = true
 
+# custom params
+[params]
+  # the config below allows custom top menus on project pages
+  # 'Projects' will be replaced with "About" and lead to the
+  # project's about page
+  projects = ["zeitshift"]
+
+
 [languages]
   [languages.de]
     title = "All4Ling"
