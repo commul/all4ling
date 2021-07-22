@@ -4,7 +4,8 @@
   # "weight" defines the order of this menu item
   weight = 10
   # The "project" variable defines if this menu item is shown or hidden on the
-  # main project pages.
+  # main project pages. Please note that this is valid for projects listed in
+  # the "projects" params at config.toml
   # Options:
   #   not set (default): shown on all pages
   #   "hide" hides it from the main project page but is shown elsewhere

@@ -12,9 +12,8 @@ canonifyURLs = true
 
 # custom params
 [params]
-  # the config below allows custom top menus on project pages
-  # 'Projects' will be replaced with "About" and lead to the
-  # project's about page
+  # the config below allows custom top menus on project pages, which are
+  # configured in the menu configuration for each language like 'menus.de.toml'
   projects = ["zeitshift"]
 
 
