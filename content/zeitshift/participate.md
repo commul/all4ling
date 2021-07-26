@@ -60,6 +60,7 @@ This activity makes use of an existing third-party platform, [Historypin](https:
 
 - Basic knowledge of German and Fraktur script
 - A free Historypin account
+- A desktop computer (activity not designed for mobile devices)
 
 <p style="text-align: center">
   <a href="{{< relref path="zeitshift/historypin">}}"><button type="button" class="btn btn-success">Instructions</button></a>
