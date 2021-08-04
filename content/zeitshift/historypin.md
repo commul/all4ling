@@ -48,6 +48,17 @@ The _About the Collection_ card provides a summary description of the project an
 
 The search bar below the project banner allows you to search contents by tags and keywords, or to filter them by the presence of comments.
 
+
+<img src="/images/search2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>If clicked, the "zu lokalisieren" and "zu taggen" tags allow you to display only those adverts that still need to be worked on. If clicked, these tags will automatically appear in the search bar</em>.</p>
+
+
+<img src="/images/search3.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>If clicked, the "zu lokalisieren" tag on the left will automatically appear in the search bar on the right of the screen</em>.</p>
+
+To deselect the "zu lokalisieren" and "zu taggen" tags, click on the corresponding 🗙 icon in the search bar.
+
+<img src="/images/search4.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>To deselect a tag, click on the corresponding 🗙 icon in the search bar.</em>.</p>
+
+
 <img src="/images/search.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>To search for adverts that have comments, type "has" in the search box and click on the option provided</em>.</p>
 
 Additionally, you can use the drop-down menu next to the search bar to sort contents chronologically or alphabetically.
@@ -60,7 +71,12 @@ To begin the activity, click on the subcollection or newspaper you wish to work 
 <img src="/images/tigbo.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Landing page of the</em> Tiroler Grenzbote <em>subcollection within Zeit.shift</em>.</p>
 
 
-Click on an advert of your choice to start working on it. The advert window contains different blocks of information:
+Next, click on the "zu lokalisieren" and "zu taggen" tags to display adverts that need to be worked on. 
+
+<img src="/images/search2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>If clicked, the "zu lokalisieren" and "zu taggen" tags allow you to display only those adverts that still need to be worked on. If clicked, these tags will automatically appear in the search bar</em>.</p>
+
+
+With the "zu lokalisieren" and/or "zu taggen" tags selected, click on an advert of your choice to start working on it. The advert window contains different blocks of information:
 
 - _Title_: the title of the advert.
 - _Description_: short instructions and a link to this full tutorial.
@@ -68,7 +84,7 @@ Click on an advert of your choice to start working on it. The advert window cont
 - _Date_: date of the advert with an option to provide a better one, if known.
 - _Location_: location of the advert with an option to provide a better one, if known.
 - _Tags_: a list of tags describing the advert with an option to add more tags that best describe it. Clicking on a tag will open a different Historypin window with a list of all collection items matching that tag.
-- _Metadata_: information about the advert, including a link to the digitised newspaper from which it is taken and a permanent link should you wish to cite it; all adverts are published under a Creative Commons By 3.0 Licence which means you are allowed to reuse this advert as you please provided that you credit the source (Eurac Research).
+- _Metadata_: information about the advert, including a link to the digitised newspaper from which it is taken and a permanent link should you wish to cite it; all adverts are published under a Creative Commons By 3.0 Licence which means you are allowed to reuse this advert as you please provided that you credit the source.
 - _Report a pin:_ should you see any inappropriate comment, click on this link to report the problem. NB: These reports are sent to Historypin, not to Eurac Research.
 
 Additionally, in the sidebar to the right of the screen, the _Share_ button provides you with options to share the advert via social media or to embed it in a website.
@@ -80,6 +96,10 @@ Below the _Share_ button, you will see the _Favourite_ ♡ button. This button a
 
 
 <img src="/images/favourite.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Click on the ♡ button in the right sidebar to save an advert to your list of favourites</em>.</p>
+
+
+
+<img src="/images/profile.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Click on the profile button in the top right corner of the screen to access your Historypin profile and list of favourited pins.</em>.</p>
 
 <img src="/images/favourite2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>You can view your list of favourites under your Historypin profile, in the </em>Favourites <em>section</em>.</p>
 
@@ -99,6 +119,8 @@ To suggest a better date for the advert, click on the _Suggest a better date_ li
 
 
 Your date suggestion will appear in the comments under the advert and will be forwarded to the Eurac Research team for approval.
+
+Ads for which citizens have provided both location and semantic tags will be removed from the "zu lokalisieren" and "zu taggen" lists by the Eurac Research team.
 
 
 ### 4.2. Suggest a better location
@@ -152,8 +174,8 @@ To contact Historypin staff, click on the chat icon in the bottom right corner o
 **Why does the number of pins on the map keep changing?**<br />
 This is a known Historypin bug. Refreshing the page will restore the correct number of pins.
 
-**My tags are not being saved. What's happening?**<br />
-This is a known Historypin caching issue. Your tags are being saved but take a while to appear on the screen.
+<!--**My tags are not being saved. What's happening?**<br />
+This is a known Historypin caching issue. Your tags are being saved but take a while to appear on the screen.-->
 
 <br/><br/>
 
