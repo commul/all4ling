@@ -27,7 +27,7 @@ For questions about the activity or comments about these guidelines, please cont
 
 Open an internet browser (we recommend you use [Chrome](https://www.google.com/chrome/) or [Safari](https://www.apple.com/safari/)) and navigate to: [https://www.historypin.org/en/zeit-shift](https://www.historypin.org/en/zeit-shift)
 
-<img src="/images/home.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Landing page of the</em> Zeit.shift <em>collection in Historypin</em>.</p>
+<img src="/images/home.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Landing page of the Zeit.shift collection in Historypin</em>.</p>
 
 Click on the white arrow or scroll down the landing page to view the contents of the collection. This gallery page lists all adverts and subcollections within Zeit.shift. Each subcollection corresponds to a different newspaper.
 
@@ -144,7 +144,7 @@ The _Tags_ section allows you to categorise an advert. Tags in Zeit.shift should
 
 To add a semantic tag, type the name in the _Tag name_ field. As you type the name, a drop-down list will appear with suggestions based on what other Historypin users have added. If your tag already exists in the list of suggestions, select it and click on the _Add a tag_ button. If your tag does not appear in the list of suggestions, click on the first entry in the list and click on the _Add a tag_ button again. New tags should appear alongside the advert's existing tags below the location map.
 
-NB: umlauts are not rendered in Historypin, so make sure to spell out the word (e.g. NOT *mühle* BUT *muehle*).
+NB: umlauts are not rendered in Historypin, so make sure to spell out the word (e.g. NOT "mühle" BUT "muehle").
 
 <img src="/images/tags.png" alt="Suggest location" width="100%"/><p style="font-size: 10pt"><em>Typing and selecting a tag from the suggestions provided.</em></p>
 
