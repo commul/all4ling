@@ -1,0 +1,145 @@
+{{ define "main" }}
+<section class="container-fluid mt-n3 pb-3">
+  <div class="row justify-content-center">
+    <div class="title w-100 text-center">
+      <h1 class="grenze">{{ .Title }}</h1>
+      <p class="lead">{{ .Params.lead | safeHTML }}</p>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-prefooter" }}
+<section class="section section-sm">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-12">
+        <p>
+          Zeit.shift ein Citizen Science Projekt, das die Bewahrung, Erschließung und Vermittlung des kulturellen Texterbes Tirols und Südtirols zum Ziel hat.
+        </p>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row mt-5 justify-content-around align-content-around text-center">
+        <h5>Ein Projekt von:</h5>
+        <div class="col-sm-3 p-3">
+          <img class="w-100" src="/images/interreg_logo.jpg"/>
+        </div>
+        <div class="col-sm-3 p-3">
+          <img class="w-100" src="/images/innsbruck_logo.png"/>
+        </div>
+        <div class="col-sm-3 p-3">
+          <img class="w-100" src="/images/eurac_logo.png"/>
+        </div>
+        <div class="col-sm-3 p-0">
+          <img class="w-100" src="/images/tessmann_logo.jpg" style="margin-top: 15px"/>
+        </div>
+      </div>
+    </div>
+</section>
+
+
+<section class="section section-md mt-1 bg-light">
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <h3>Mach mit!</h3>
+      <div class="col-lg-6">
+        <h5>📍 Lokalisiere Werbenanzeigen</h5>
+        <a href="{{ "zeitshift/participate" | absLangURL }}#-historypin">
+          <div class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img style="filter: brightness(40%) grayscale(20%);" class="d-block w-100" src="/images/historypin.png" alt="Explore newspapers and help make them more searchable">
+                <div class="carousel-caption d-none d-md-block">
+                  Stöbere in Zeitungsanzeigen und hilf mit sie besser durchsuchbar zu machen
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col-lg-6">
+        <h5>👾 Spiele ein Schnellschreibspiel</h5>
+        <a href="{{ "zeitshift/participate" | absLangURL }}#-who-killed-ötzi">
+          <div class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img style="filter: brightness(80%) grayscale(20%);" class="d-block w-100" src="/images/zeitshift/wko_cropped.png" alt="Play a typing game">
+                <div class="carousel-caption d-none d-md-block">
+                  (IN VORBEREITUNG)
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-footer" }}
+
+<section class="section section-sm mt-1">
+  <h2 class="h3 mt-3 text-center">Neueste Neuigkeiten</h2>
+  <div class="container">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-6">
+          <div class="card">
+            <div class="card-body">
+              <h3><a class="stretched-link text-body" href="{{ "blog/say-hello-to-zeit.shift" | absLangURL }}">Sag Zeit.shift „Hallo“ 👋</a></h3>
+              <p>Zeit.shift ist unser neues Citizen Science Projekt, das sich die <strong>Bewahrung, Erschließung und Vermittlung des kulturellen Texterbes Gesamttirols zum Ziel setzt</strong>!<br /><br />
+
+
+            
+              Kannst du <strong>Frakturschrift</strong> entiziffern? Wunderbar! Dann mach mit und hilf uns historische Zeitungen Tirols besser durchsuchbar und nutzbar zu machen!<br /><br />
+              <a href="{{ "blog/say-hello-to-zeit.shift" | absLangURL }}">Mehr lesen...</a><br /><br />
+              <img src="/blog/say-hello-to-zeit.shift/zs_profile_pic.png" width="20%" />
+              <p><small>Gepostet am 28. März 2021 von <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
+            </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <p><a class="twitter-timeline" href="https://twitter.com/all4ling?ref_src=twsrc%5Etfw" lang="de">Tweets by all4ling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section section-sm container-fluid mt-4 mb-4">
+<div class="container flex-column">
+  <div class="row d-flex justify-content-center align-items-center">
+    <div class="col-md-8 col-lg-8 col-xl-8">
+      <div class="card">
+        <div class="card-bar"></div>
+        <div class="card-body">
+          <!--https://follow.it/all4ling?action=followPub1-->
+          <form data-v-4c58e686="" action="https://api.follow.it/subscription-form/a2NKOEJGNnB6bWtodG9WWEI3MlpDZHl5eFBWWTJQTXB2bXdDQnJ5ZHZYK2tLcWtMQXBrbWNRVlhBYmpGMmd2Q0Jwak9pTk1ER0laaDhZR1JQdW9kaG9PZlhLWHh6TTl0YmpxZTJ0RWJjL01iVWRTeEpGYnBZRUExLzVGZDF6cSt8SE9HcUZ4Tm03aFk3bHVNU0s2dDNVSjV3Nld3TGNiYUhHcGlvRWpuZDc4ND0=/8" method="post">
+            <h3 class="h4 card-title">Bleib auf dem Laufenden</h3>
+            <p class="card-text">Registriere dich bei dem All4Ling-Newsletter und erhalte gelegentliche Updates.</p>
+            <input type="hidden" name="form-name" value="newsletter">
+
+            <div class="row d-flex justify-content-center">
+              <div class="col-md-10">
+                <input name="name" type="text" class="form-control visually-hidden" placeholder="your name" aria-label="Name">
+                <input name="email" type="email" class="form-control" placeholder="deine@email.com" spellcheck="false" aria-label="Email address" required="">
+                <input name="page" type="hidden" value="https://getdoks.org/">
+              </div>
+
+              <div class="col-md-6">
+                <button type="submit" class="btn btn-primary w-100" aria-label="Subscribe">Registrieren</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+
+
+
+{{ end }}
