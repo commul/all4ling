@@ -12,7 +12,7 @@ images: []
 weight: 4
 ---
 
-[Institute for Applied Linguistics](https://www.eurac.edu/en/research/autonomies/commul/Pages/default.aspx)<br />
+[Institut für Angewandte Sprachforschung](https://www.eurac.edu/en/research/autonomies/commul/Pages/default.aspx)<br />
 Eurac Research<br />
 Drususallee 1<br />
 39100 Bozen<br />
