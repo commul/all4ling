@@ -1,0 +1,148 @@
+---
+title: "Über"
+description: ""
+lead: ""
+date: 2020-10-13T15:21:01+02:00
+lastmod: 2020-10-13T15:21:01+02:00
+draft: false
+images: []
+menu:
+  docs:
+    parent: "zeitshift"
+weight: 10
+toc: true
+---
+
+## Zeit.shift
+
+
+**Zeit.shift** ist ein Kooperationsprojekt zwischen der Landesbibliothek [Dr. Friedrich Teßmann](https://www.tessmann.it/en/home.html) (Bozen, Italien), der [Universitäts- und Landesbibliothek Tirol](https://www.uibk.ac.at/ulb/) (Innsbruck, Österreich) und von [Eurac Research](https://www.eurac.edu/) (Bolzano, Italy) funded by the [European Regional Development Fund and Interreg V-A Italia - Austria 2014-2020](https://www.interreg.net/en/default.asp), welches sich die Bewahrung, Erschließung und Vermittlung des kulturellen Texterbes der historischen Region Gesamttirols zum Ziel setzt. Das Projekt wird vom European Regional Development Fund and Interreg V-A Italia - Austria 2014-2020 gefördert.
+
+Das Projekt konzentriert sich auf **deutschsprachige historische Zeitungen**, großteils in [Frakturschrift](https://web.library.yale.edu/cataloging/music/fraktur), die derzeit über Tirol verteilt und nur zum Teil in digitalisierter Form vorliegen. **Das Projekt verfolgt zwei Hauptziele**:
+
+1. die Digitalisierung von rund 500.000 Seiten historischer Zeitungen aus den Jahren 1850 bis 1950 und deren Bereitstellung über ein einziges frei zugängliches Webportal;
+2. Einbindung der Bevölkerung über Citizen Science Initiativen, die die BürgerInnen einladen, aktiv an der Kuratierung, Bearbeitung und Beobachtung des historischen Textmaterials mitzuwirken, um damit den Forschungsprozess zu beschleunigen und neues Wissen zu generieren. 
+
+In Anbetracht der großen Anzahl an Zeitungen (circa 500.000 Seiten), ist die Mithilfe der Bevölkerung ausschlaggebend: **Je mehr Teilnehmende helfen die Daten zu kuratieren** und Zeit.shift bekannt zu machen, **umso besser wird die bearbeitete Zeitungssammlung durchsuchbar sein und umso mehr wird zur Erhaltung des historischen Gedächtnisses Gesamttirols beigetragen**.
+
+
+## Digitalisierung
+
+In Zeit.shift werden die Zeitungen gescannt und mithilfe optischer Zeichenerkennung (Optical Character Recognition - OCR) verarbeitet. OCR erlaubt es gedruckte Texte (z.B. ein Bild einer Zeitungsseite) auszulesen und als digitale Dokumente (z.B. ein Worddokument) abzuspeichern. Im Zuge des Ausleseprozesses entstehen häufig Fehler in den digitalen Texten. Dies passiert insbesondere beim Auslesen von historischen Textdokumenten, da ausgeblichene Drucke, komplexe Schriftarten oder minderwertige Scans die Erkennungsleistung von OCR-Maschinen beeinträchtigen können. Ein digitaler Text mit OCR-Fehlern wird als „zugelärmter“ Text bezeichnet („noisy text“). Je „zugelärmter“ der Text ist, desto schwieriger ist es ihn weiterzunutzen und darin zu suchen.
+
+{{< youtube pd1gJoz2lYU >}}
+<p style="font-size: 10pt"><em>Eine kurze Einführung zu optischer Zeichenerkennung (OCR). Quelle: <a href="https://www.natura.museum/de/" target="_blank" title="Opens in new tab">NewsEye</a>.</em></p>
+
+<br />
+Hier ist ein Beispiel eines „zugelärmten“ digitalisierten Texts in Zeit.shift:
+
+<img src="/images/exampleOCR_img.png" alt="Example scan" width="100%"/><p style="font-size: 10pt; margin-top: -15px;" xmlns:cc="http://creativecommons.org/ns#" ><em>Tiroler Land-Zeitung, 21ster Dezember 1918, Seite 8: <strong>Digitaler scan</strong></em>. Dieses Bild ist lizensiert unter <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+
+<img src="/images/exampleOCR_transcr.png" alt="Example dirty OCR" width="100%"/><p style="font-size: 10pt; margin-top: -15px;" xmlns:cc="http://creativecommons.org/ns#" ><em>Tiroler Land-Zeitung, 21ster Dezember 1918, Seite 8: <strong>„Zugelärmter“ OCR</strong> (Fehler in rot)</em>. Dieses Bild ist lizensiert unter <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+
+### Die Zeitungen
+
+Die Tiroler Zeitungen, die wir digitalisieren, befinden sich in den Beständen der Landesbibliothek Teßmann und der Universitätsbibliothek Innsbruck. Dies ist die vollständige Liste der Zeitungen (Titel gekürzt): Innsbrucker Zeitung, Alpenland, Alpenländer Bote, Der Arbeiter, Volksruf, Gardasee-Post, Neueste Zeitung, Neueste Morgenzeitung, Innsbrucker Neueste, Innsbrucker illustrierte neueste Nachrichten, Abendblatt, Innsbrucker Abendblatt, Der Oberländer, Der Südtiroler, Tiroler Bauernzeitung, Tiroler Landbote, Der Landbote, Tiroler Grenzbote, Tiroler Volksblatt, Tiroler Land-Zeitung, Tiroler Gemeindeblatt, Alpenrosen, Oberinntaler Wochenblatt, Neue Inn-Zeitung, Tiroler Post, Die Post, Tiroler Sonntagsbote, Der Tiroler Wastl, Der Widerhall, Tiroler-Vorarlberger Bienen-Zeitung, Tiroler Bienen-Zeitung, Alpenländische Bienenzeitung, Unterinntaler Bote, Haller Wochenblatt, Sterne und Blumen, Volkszeitung Innsbruck, Deutsche Volkszeitung.
+
+
+### Technische Daten
+
+Die optische Zeichenerkennung (OCR) wurde mit Abbyy FineReader Engine v.11 durchgeführt. Das digitalisierte Material (TIFF Bildscans und ALTO XML Datien) summiert sich auf etwa 15TB an Daten.
+
+
+## Citizen science
+
+Zeit.shift lässt sich innerhalb der Typologie von Citizen Science Projekten ([Haklay, 2013](https://link.springer.com/chapter/10.1007%2F978-94-007-4587-2_7)) unter [Crowdsourcing und verteilter Intelligenz](https://www.youtube.com/watch?v=FLEON7AFgOk) einordnen. Als solches bedient es sich der kognitiven Fähigkeiten und Beobachtungsfähigkeiten der Teilnehmenden, mit dem Ziel Forschungsdaten gemeinschaftlich zu erarbeiten (zu "crowdsourcen").
+
+
+
+**Historypin**
+- Aufgabentyp: Macroaufgabe
+- Zweck: Ortstagging und semantisches Tagging von Anzeigen, Sammlung von zusätzlichem Expertenwissen von der Bevölkerung, Förderung von [Remix Culture](https://en.wikipedia.org/wiki/Remix_culture)
+
+**Wer hat Ötzi umgebracht?**
+- Aufgabentyp: Microaufgabe
+- Zweck: Korrektur von OCR für einzelne Wörter
+
+### Datensatz
+
+Die Citizen Science Komponente des Projekts konzentriert sich auf Zeitungsausgaben die vor etwa 100 Jahren veröffentlicht wurden (1918-1924).
+
+
+
+
+<!--## Natural Language Processing-->
+
+
+## Projektdetails
+
+### Team
+- Landesbibliothek Dr. Friedrich Teßmann (Lead partner): Johannes Andresen
+- Universitäts- und Landesbibliothek Tirol: Silvia Gstrein, Christian Kössler, Barbara Laner, Johanna Walcher
+- Eurac Research: Andrea Abel, Etiene Dalcol, Greta Franzini, Verena Lyding, Egon Stemle
+
+<img src="/images/tessmann_logo.jpg" width="30%" alt="Teßmann logo">&nbsp;&nbsp;&nbsp;
+<img src="/images/innsbruck_logo.png" width="20%" alt="Innsbruck logo">&nbsp;&nbsp;&nbsp;
+<img src="/images/eurac_logo.png" width="15%" alt="Eurac logo">
+
+### Assoziierte Partner
+- Euregio Tirol-Südtirol-Trentino
+- Abteilung Tiroler Landesarchiv der Tiroler Landesregierung
+- Tiroler Landesmuseen
+- Südtiroler Kulturinstitut
+- Tiroler Bildungsforum
+- Südtiroler Landesarchiv der Autonomen Provinz Bozen-Südtirol
+- Bibliotheksverband Südtirol
+
+<!--**Collaborators**
+
+- Naturmuseum Südtirol-->
+
+### Projektdauer
+
+Oktober 2020 - Oktober 2022
+
+### Budget
+
+658,000 Euros
+
+[<img src="/images/interreg_logo.jpg" alt="Logo" width="40%" class="border-0">](https://interreg.eu/programme/interreg-italy-austria/)
+
+### Ziele
+
+1. Digitialisierung historischer Zeitungen Tirols
+2. Entwicklung und Umsetzung von Citizen Science Initiativen zur Kuratierung und Anreicherung der digitalisierten Zeitungen
+3. Computerlinguistische Aufbereitung der digitalisierten Zeitungen um Such- und Visualisierungsangebote zu verbessern
+4. Digitaler Zugriff auf die gesamte Zeitungssammlung über eine Webplattform mit dem Ziel Forschungs- und Bildungsinitiativen zu unterstützen
+
+### Schlüsselbegriffe
+
+[Citizen Science](https://de.wikipedia.org/wiki/Citizen_Science), [Games with a Purpose](https://de.wikipedia.org/wiki/Game_with_a_purpose), Digitalisierung, historische Zeitungen, Tirol, [linguistische Datenverarbeitung (LDV)](https://de.wikipedia.org/wiki/Computerlinguistik), Heritage Science, Kulturgut, [Digitale Geisteswissenschaften](https://de.wikipedia.org/wiki/Digital_Humanities), Digital Cultural Heritage, Cultural Heritage Volunteering, Cultural Heritage Crowdsourcing, [Public History](https://de.wikipedia.org/wiki/Public_History), Public Digital Humanities
+
+### Lizenzen
+
+ <p xmlns:cc="http://creativecommons.org/ns#" >Vollständige gescannte Zeitungen von der digitalen Bibliothek Teßmanns (Teßmann digital) sind lizensiert unter <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
+
+
+ <p xmlns:cc="http://creativecommons.org/ns#" >Vollständige gescannte Zeitungen von der digitalen Bibliothek der Uni Innsbruck sind lizensiert unter <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+
+
+<p xmlns:cc="http://creativecommons.org/ns#" >Bilder der Webseite und der Aktivitäten sind lizensiert unter <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+
+ <p xmlns:cc="http://creativecommons.org/ns#" >Daten und Annotationen, die von der teilnehmenden Bevölkerung produziert wurden, sind lizensiert unter <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
+
+### Danksagungen
+
+Zeit.shift nutzt Icons von [Icongeek26](https://www.flaticon.com/authors/icongeek26) und [Freepik](https://www.flaticon.com/authors/freepik) von [Flaticon](www.flaticon.com), sowie Audiodateien von [Freesound](https://freesound.org/people/Yap_Audio_Production/sounds/218463/).
+
+
+<!--### preview
+
+Build production website including draft and future content:
+
+{{< btn-copy text="npm run build:preview" >}}
+
+```bash
+npm run build:preview
+```
+-->

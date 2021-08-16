@@ -50,7 +50,7 @@ The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and
 OCR was performed using Abbyy FineReader Engine v.11. The digitised material (TIFF image scans and ALTO XML files) amounts to some 15TB of data.
 
 ## Citizen science
-Zeit.shift falls under the crowdsourcing and distributed intelligence typology of citizen science projects ([Haklay, 2013](https://link.springer.com/chapter/10.1007%2F978-94-007-4587-2_7)). As such, it relies on the cognitive and observation abilities of the participants to crowdsource research data.
+Zeit.shift falls under the [crowdsourcing and distributed intelligence](https://www.youtube.com/watch?v=FLEON7AFgOk) typology of citizen science projects ([Haklay, 2013](https://link.springer.com/chapter/10.1007%2F978-94-007-4587-2_7)). As such, it relies on the cognitive and observation abilities of the participants to crowdsource research data.
 
 **Historypin**
 - Task type: macrotask
@@ -113,7 +113,7 @@ October 2020 - October 2022
 
 ### Keywords
 
-citizen science, games with a purpose, digitisation, historical newspapers, tyrol, natural language processing, heritage science, digital cultural heritage, cultural heritage volunteering, cultural heritage crowdsourcing, public history, public digital humanities
+[citizen science](https://en.wikipedia.org/wiki/Citizen_science), [games with a purpose](https://en.wikipedia.org/wiki/Human-based_computation_game), digitisation, historical newspapers, tyrol, [natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing), [heritage science](https://en.wikipedia.org/wiki/Heritage_science), [digital cultural heritage](https://en.wikipedia.org/wiki/Digital_heritage), cultural heritage volunteering, cultural heritage crowdsourcing, [digital humanities](https://en.wikipedia.org/wiki/Digital_humanities), [public history](https://en.wikipedia.org/wiki/Public_history), public digital humanities
 
 ### Licensing
 
@@ -123,7 +123,7 @@ citizen science, games with a purpose, digitisation, historical newspapers, tyro
  <p xmlns:cc="http://creativecommons.org/ns#" >Full newspaper scans from the UniInnsbruck Digital Library are licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 
-<p xmlns:cc="http://creativecommons.org/ns#" >Website images and activity images are licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" >Website and activity images are licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
  <p xmlns:cc="http://creativecommons.org/ns#" >Data and annotations contributed by citizens are licensed under <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p>
 

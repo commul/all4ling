@@ -30,7 +30,7 @@ title_font: "grenze"
 - increased awareness of Tyrolean history and culture
 - increased understanding of research procedures (e.g. digitisation and data quality)
 - possibility of influencing changes in project methodology, objectives, development, results or dissemination
-- open access to project data, which you can reuse in your own project as you please
+- increased familiarity with data that you might use in your own projects
 - acknowledgement of your contribution in academic publications and on our website <!-- LINK TO COMMUNITY PAGE, WHEN AVAILABLE -->
 - self-contained, casual tasks you can do whenever suits you best
 - discover new interests, likeminded people and communities
@@ -41,16 +41,16 @@ We're developing **interactive applications** designed to help you explore this 
 
 **We need your help with two tasks**:
 1. 📍 Locate and tag advertisements
-2. ⌨️ Transcribe individual words
+2. ⌨️ Transcribe individual words by playing a game
 
 **Your help will make the newspapers more usable for both humans and machines!**
-- The clean text will be made available on the websites of the Friedrich Teßmann and Innsbruck University libraries for users to search, browse and enjoy.
-- The clean text will be used by Eurac Research to train algorithms to better recognise Fraktur script and classify words (place names, person names, temporal expressions, etc.).
+- The processed text will be made available on the websites of the Friedrich Teßmann and Innsbruck University libraries for users to search, browse and enjoy.
+- The processed text will be used by Eurac Research to train algorithms to better recognise Fraktur script and classify words (place names, person names, temporal expressions, etc.).
 
 
 ### 📍 Historypin
 
-<img src="/images/historypin.png" alt="Historypin" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>Zeit.shift advertisement in Historypin</em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+<img src="/images/historypin.png" alt="Historypin" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" >Zeit.shift advertisement in Historypin. This image is licensed under <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 In this activity, citizens locate and tag historical advertisements published in the newspapers in order to reconstruct the commercial landscape of early 20th century Tyrol. Many shops from those times still exist today!
 
@@ -73,7 +73,7 @@ This activity makes use of an existing third-party platform, [Historypin](https:
 
 ### ⌨️ Who killed Ötzi?
 
-<img src="/images/wko.png" alt="Game preview" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>'Who killed Ötzi?' game</em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+<img src="/images/wko.png" alt="Game preview" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>'Who killed Ötzi?</em> game. This image is licensed under <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
 In this custom game, inspired by [Typespeed](http://typespeed.sourceforge.net/), arrows carrying words in Fraktur script fly from the left to the right of the screen in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are people names extracted from the Tyrolean newspapers. The goal of the game is simple: you must type the names as fast as possible before they reach and kill Ötzi! The more words you type the longer Ötzi lives and the more points you collect. When Ötzi dies, you are shown the original newspaper article from which the killing name (the killer!) was taken, allowing you to explore its context.
 
