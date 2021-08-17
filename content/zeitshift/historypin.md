@@ -135,11 +135,11 @@ If the advert does not contain an address, add a "no location" tag using the _Ad
 ### 4.3. Tags
 The _Tags_ section allows you to categorise an advert. Tags in Zeit.shift should be lowercase, can be in English, German or Italian and are very useful as they help Zeit.shift and Historypin users find specific items more easily. We ask that you add the following tags:
 
-- "no location", if the advert does not contain an address
-- "illegible", if the advert is not clearly legible (e.g. the ink is faded or the image is grainy)
-- "duplicate", if the advert is a duplicate of another advert
-- "review", if there are other problems with the advert you wish to report (e.g. a part of it is missing)
-- Semantic tags that best describe the advert, including person names, objects, festivities, etc. (e.g. "adolf titze", "shoes", "christmas")
+- "no location", if the advert does not contain an address;
+- "illegible", if the advert is not clearly legible (e.g. the ink is faded or the image is grainy);
+- "duplicate", if the advert is a duplicate of another advert;
+- "review", if there are other problems with the advert you wish to report (e.g. a part of it is missing);
+- at least three semantic tags that best describe the advert, including person names, objects, festivities, etc. (e.g. "adolf titze", "shoes", "christmas").
 
 
 To add a semantic tag, type the name in the _Tag name_ field. As you type the name, a drop-down list will appear with suggestions based on what other Historypin users have added. If your tag already exists in the list of suggestions, select it and click on the _Add a tag_ button. If your tag does not appear in the list of suggestions, click on the first entry in the list and click on the _Add a tag_ button again. New tags should appear alongside the advert's existing tags below the location map.

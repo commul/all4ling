@@ -153,11 +153,11 @@ Falls die Anzeige keinerlei Adressangabe enthält, füge mithilfe der _Füge ein
 ### 4.3. Tags
 Der _Tags_-Abschnitt ermöglicht es Dir, eine Anzeige zu klassifizieren. Tags in Zeit.shift sollten in Kleinschreibung eingegeben werden und können auf Englisch, Deutsch oder Italienisch sein. Die Tags sind sehr nützlich, da sie Zeit.shift- und Historypin-Nutzern helfen bestimmte Einträge leichter zu finden. Wir bitten Dich folgende Arten von Tags einzufügen:
 
-- „ohne Ort“, falls die Anzeige keine Adressangabe enthält
-- „unleserlich“, falls die Anzeige nicht gut zu lesen ist (z.B. bei ausgeblichener Tinte oder verschwommenen Bildern)
-- „Duplikat“, falls die Anzeige ein Duplikat einer anderen Anzeige ist
-- „review“, falls Du weitere Probleme bei der Anzeige feststellst, die Du gerne mitteilen möchtest (z.B. die Anzeige ist teilweise abgeschnitten)
-- Inhaltliche Tags, die eine gute Beschreibung der Anzeige liefern, inklusive Personennamen, Objekten, Feierlichkeiten, etc. (e.g. „Adolf Titze“, „Schuhe“, „Weihnachten“)
+- „ohne Ort“, falls die Anzeige keine Adressangabe enthält;
+- „unleserlich“, falls die Anzeige nicht gut zu lesen ist (z.B. bei ausgeblichener Tinte oder verschwommenen Bildern);
+- „Duplikat“, falls die Anzeige ein Duplikat einer anderen Anzeige ist;
+- „review“, falls Du weitere Probleme bei der Anzeige feststellst, die Du gerne mitteilen möchtest (z.B. die Anzeige ist teilweise abgeschnitten);
+- inhaltliche Tags (mindestens drei), die eine gute Beschreibung der Anzeige liefern, inklusive Personennamen, Objekten, Feierlichkeiten, etc. (e.g. „Adolf Titze“, „Schuhe“, „Weihnachten“).
 
 Um ein inhaltliches Tag hinzuzufügen, tippe den Namen in das _Tagname_-Feld. Während Du tippst, wird sich ein Drop-Down-Menü mit Vorschlägen öffnen, die anzeigen, welche Tag bereits von Historypin-Benutzern eingefügt wurden. Falls Dein Tag bereits in der Liste mit Vorschlägen vorhanden ist, wähle es aus und klicke auf den _Tag hinzufügen_-Button. Falls Dein Tag nicht in der Liste mit Vorschlägen ist, klicke auf den ersten Eintrag in der Liste und klicke anschließend nochmals auf den _Tag hinzufügen_-Button. Neue Tags sollten neben den bestehenden Tags unter der Karte zu sehen sein.
 
