@@ -64,11 +64,11 @@ url = "/zeitshift/"
   url = "/en"
   weight = 2
 
-[[languages]]
-  name = "it"
-  pre = "it"
-  url = "/it"
-  weight = 3
+# [[languages]]
+#   name = "it"
+#   pre = "it"
+#   url = "/it"
+#   weight = 3
 
 [[social]]
   name = "Twitter"

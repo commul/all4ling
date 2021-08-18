@@ -32,13 +32,13 @@ canonifyURLs = true
     titleAddition = "Citizen Science at Eurac Research"
     description = ""
     weight = 1
-  [languages.it]
-    title = "All4Ling"
-    languageName = "Italian"
-    titleSeparator = "-"
-    titleAddition = "Italiano"
-    description = ""
-    weight = 3
+  # [languages.it]
+  #   title = "All4Ling"
+  #   languageName = "Italian"
+  #   titleSeparator = "-"
+  #   titleAddition = "Italiano"
+  #   description = ""
+  #   weight = 3
 
 # add redirects/headers
 [outputs]
