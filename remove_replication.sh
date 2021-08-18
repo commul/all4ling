@@ -15,9 +15,6 @@ fi
 if [ -L "content/blog/_index.it.md" ]; then
   rm -v -- "content/blog/_index.it.md"
 fi
-if [ -L "content/contact.de.md" ]; then
-  rm -v -- "content/contact.de.md"
-fi
 if [ -L "content/contact.it.md" ]; then
   rm -v -- "content/contact.it.md"
 fi
@@ -39,14 +36,8 @@ fi
 if [ -L "content/games/who-killed-oetzi.it.md" ]; then
   rm -v -- "content/games/who-killed-oetzi.it.md"
 fi
-if [ -L "content/projects/_index.de.md" ]; then
-  rm -v -- "content/projects/_index.de.md"
-fi
 if [ -L "content/projects/_index.it.md" ]; then
   rm -v -- "content/projects/_index.it.md"
-fi
-if [ -L "content/zeitshift/about.de.md" ]; then
-  rm -v -- "content/zeitshift/about.de.md"
 fi
 if [ -L "content/zeitshift/about.it.md" ]; then
   rm -v -- "content/zeitshift/about.it.md"
@@ -57,9 +48,6 @@ fi
 if [ -L "content/zeitshift/acknowledgements.it.md" ]; then
   rm -v -- "content/zeitshift/acknowledgements.it.md"
 fi
-if [ -L "content/zeitshift/historypin.de.md" ]; then
-  rm -v -- "content/zeitshift/historypin.de.md"
-fi
 if [ -L "content/zeitshift/historypin.it.md" ]; then
   rm -v -- "content/zeitshift/historypin.it.md"
 fi
@@ -68,9 +56,6 @@ if [ -L "content/zeitshift/output.de.md" ]; then
 fi
 if [ -L "content/zeitshift/output.it.md" ]; then
   rm -v -- "content/zeitshift/output.it.md"
-fi
-if [ -L "content/zeitshift/participate.de.md" ]; then
-  rm -v -- "content/zeitshift/participate.de.md"
 fi
 if [ -L "content/zeitshift/participate.it.md" ]; then
   rm -v -- "content/zeitshift/participate.it.md"
