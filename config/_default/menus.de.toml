@@ -1,5 +1,5 @@
 [[main]]
-  name = "Impressum"
+  name = "Über"
   url = "/about/"
   # "weight" defines the order of this menu item
   weight = 10
