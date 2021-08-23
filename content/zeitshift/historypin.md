@@ -174,8 +174,8 @@ To contact Historypin staff, click on the chat icon in the bottom right corner o
 **Why does the number of pins on the map keep changing?**<br />
 This is a known Historypin bug. Refreshing the page will restore the correct number of pins.
 
-<!--**My tags are not being saved. What's happening?**<br />
-This is a known Historypin caching issue. Your tags are being saved but take a while to appear on the screen.-->
+**My tags and comments are not being saved. What's happening?**<br />
+Refresh your browser page and/or empty your browser cache to see your changes. 
 
 <br/><br/>
 
