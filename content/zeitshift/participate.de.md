@@ -30,7 +30,7 @@ title_font: "grenze"
 - gestärktes Bewusstsein für die Tiroler Geschichte und Kultur
 - verbessertes Verständnis von Forschungsvorgängen (z.B. Digitalisierung und Datenqualität)
 - Möglichkeit auf Projektentscheidungen Einfluss zu nehmen, in Bezug auf die Methodologie des Projekts, dessen Ziele, Entwicklungen, Ergebnisse und Maßnahmen zur Verbreitung
-- freier Zugang zu Projektdaten, zur beliebigen Weiternutzung in deinen eigenen Projekten
+- detailliertes Kennenlernen der Projektdaten, zur beliebigen Weiternutzung in deinen eigenen Projekten
 - Anerkennung deiner Mitwirkung in wissenschaftlichen Publikationen und auf unserer Webseite
 - in sich abgeschlossene, lockere Aufgaben, die du bearbeiten kannst, wann immer es dir passt
 - Möglichkeit neue Interessen zu entdecken, sowie Personen und Gruppen mit ähnlichen Interessen
