@@ -53,3 +53,4 @@ editPage = false
   darkMode = false
   bootStrapJs = false
   breadCrumb = true
+  languageSwitch = true
