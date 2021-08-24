@@ -56,16 +56,17 @@ In this activity, citizens locate and tag historical advertisements published in
 
 This activity makes use of an existing third-party platform, [Historypin](https://www.historypin.org/en/).
 
-**Requirements**:
+**You will need**:
 
 - Basic knowledge of German and Fraktur script
-- A free Historypin account
+- A free <a href="https://www.historypin.org" target="_blank">Historypin</a> account
 - A desktop computer (activity not designed for mobile devices)
+- To add [specific tags]({{< relref path="zeitshift/historypin#32-tags">}}) and location information to the newspaper ads
 
 <p style="text-align: center">
   <a href="{{< relref path="zeitshift/historypin">}}"><button type="button" class="btn btn-success">Instructions</button></a>
 
-  <a href="https://www.historypin.org/en/zeit-shift/geo/46.494565,11.347343,17/bounds/46.490037,11.345184,46.499092,11.349502/paging/1" target="_blank" title="Opens in new tab">
+  <a href="https://www.historypin.org/en/zeit-shift/geo/46.494565,11.347343,17/bounds/46.492353,11.345021,46.496777,11.349665/search/tag:zu lokalizieren,tag:zu taggen/sort/-date_taken/paging/1">
     <button type="button" class="btn btn-success">🚀 START!</button>
   </a>
 </p>
