@@ -24,7 +24,7 @@ Bei Fragen zu den Aktivitäten oder für Kommentare zu dieser Anleitung kontakti
 
 ## 1. In die Sammlung einsteigen
 
-Öffne einen Internetbrowser (wir empfehlen [Chrome](https://www.google.com/chrome/) oder [Safari](https://www.apple.com/safari/)) und navigiere zu: [https://www.historypin.org/de/zeit-shift](https://www.historypin.org/de/zeit-shift)
+Öffne einen Internetbrowser (wir empfehlen [Chrome](https://www.google.com/chrome/) oder [Safari](https://www.apple.com/safari/)) und navigiere zu: <a href="https://www.historypin.org/de/zeit-shift" target="_blank">https://www.historypin.org/de/zeit-shift</a>
 
 
 <img src="/images/home.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Landingpage der Zeit.shift-Sammlung in Historypin</em>.</p>
@@ -53,10 +53,10 @@ Die Informationskarte _Über die Sammlung_ enthält eine zusammenfasende Beschre
 Die Suchzeile unter dem Projektbanner erlaubt dir mithilfe von Tags and Schlüsselwörtern nach Inhalten zu suchen oder die Sammlung nach Inhalten mit Kommentaren zu filtern.
 
 
-<img src="/images/search2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Durch Anklicken kannst du mithilfe der "zu lokalisieren" und "zu taggen" Tags nach den Anzeigen filtern, die noch bearbeitet werden müssen. Die Tags lassen sich durch einen Klick automatisch in die Suchzeile einfügen</em>.</p>
+<img src="/images/search2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Durch Anklicken kannst du mithilfe der „zu lokalisieren" und „zu taggen" Tags nach den Anzeigen filtern, die noch bearbeitet werden müssen. Die Tags lassen sich durch einen Klick automatisch in die Suchzeile einfügen</em>.</p>
 
 
-<img src="/images/search3.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Durch einen Klick wird das "zu lokalisieren“ Tag links oben automatisch in die Suchzeile rechts oben im Bildschirm eingefügt</em>.</p>
+<img src="/images/search3.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Durch einen Klick wird das „zu lokalisieren“ Tag links oben automatisch in die Suchzeile rechts oben im Bildschirm eingefügt</em>.</p>
 
 
 

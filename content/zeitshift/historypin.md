@@ -25,7 +25,7 @@ For questions about the activity or comments about these guidelines, please cont
 
 ## 1. Accessing the collection
 
-Open an internet browser (we recommend you use [Chrome](https://www.google.com/chrome/) or [Safari](https://www.apple.com/safari/)) and navigate to: [https://www.historypin.org/en/zeit-shift](https://www.historypin.org/en/zeit-shift)
+Open an internet browser (we recommend you use [Chrome](https://www.google.com/chrome/) or [Safari](https://www.apple.com/safari/)) and navigate to: <a href="https://www.historypin.org/en/zeit-shift" target="_blank">https://www.historypin.org/en/zeit-shift</a>
 
 <img src="/images/home.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Landing page of the Zeit.shift collection in Historypin</em>.</p>
 
@@ -153,6 +153,9 @@ NB: umlauts are not rendered in Historypin, so make sure to spell out the word (
 ## 5. Historypin tutorials
 
 Historypin "How-to-guides" can be accessed at: [https://about.historypin.org/how-to-guides/](https://about.historypin.org/how-to-guides/)
+
+
+
 
 ## 6. Contact
 
