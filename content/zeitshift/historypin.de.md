@@ -36,7 +36,8 @@ Beachte: In Historypin werden die Einträge einer Sammlung als „Pins“ bezeic
 
 <img src="/images/gallery.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Galerieansicht der Zeit.shift-Sammlung, die eine Informationskarte, Untersammlungen und einzelne Anzeigen auflistet</em>.</p>
 
-## 2. Die richtigen Pins in der Sammlung auswählen
+
+<!--## 2. Die richtigen Pins in der Sammlung auswählen
 
 Die Suchzeile unter dem Projektbanner erlaubt dir mithilfe von Tags and Schlüsselwörtern nach Inhalten zu suchen oder die Sammlung nach Inhalten mit Kommentaren zu filtern.
 
@@ -58,13 +59,13 @@ Um die Tags „zu lokalisieren“ und „zu taggen“ aus der Suche zu entfernen
 
 Zusätzlich kannst du das Drop-Down-Menü neben der Suchzeile benutzen, um die Inhalte chronologisch oder alphabetisch zu sortieren.
 
-<img src="/images/sort.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Mithilfe des Drop-Down-Menüs kannst du Anzeigen alphabetisch oder chronologisch sortieren</em>.</p>
+<img src="/images/sort.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Mithilfe des Drop-Down-Menüs kannst du Anzeigen alphabetisch oder chronologisch sortieren</em>.</p>-->
 
 
 
 
 
-## 3. Zu der Sammlung beitragen
+## 2. Zu der Sammlung beitragen
 Um die Aktivität zu starten, klicke auf die Untersammlung oder Zeitung an der du arbeiten möchtest. Die Landingpage der Untersammlung ist genauso aufgebaut wie die Hauptsammlung von Zeit.shift.
 
 <img src="/images/tigbo.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Landingpage der Untersammlung</em> Tiroler Grenzbote <em>in Zeit.shift</em>.</p>
@@ -80,7 +81,7 @@ Klicke anschließend auf die „zu lokaliserien“ und „zu taggen“ Tags, um 
 Nachdem du die Anzeigen mithilfe der „zu lokalisieren“ und/oder „zu taggen“ Tags gefiltert hast, klicke auf eine Anzeige deiner Wahl, um daran zu arbeiten.
 
 
-### 3.1. Schlage einen besseren Ort vor
+### 2.1. Schlage einen besseren Ort vor
 Um einen besseren Ort für die Anzeige vorzuschlagen, klicke auf den _Schlage einen besseren Ort vor_-Link in der Ortsbox. Ein neues Fenster wird sich öffnen und dich zur Eingabe eines neuen Ortes auffordern. Du kannst grobe oder präzise Ortsangaben machen, indem du das Suchfeld und/oder die Kartenansicht verwendest. Zur Präzisierung kannst du den großen pinken Pin zu dem gewünschten Ort ziehen. Falls du die Karte vergrößern möchtest, klicke auf das weiße Symbol in der oberen rechten Ecke des Fensters. Um die Karte wieder auf ihre ursprüngliche Größe zurückzusetzen, klicke nochmals auf das weiße Symbol. Um deinen Vorschlag zu speichern, füge einen Kommentar ein, klicke auf den _Speichern_-Button und schließe das Fenster durch Klicken auf das pinke 🗙 Symbol in der oberen rechten Ecke des Fensters.
 
 
@@ -92,7 +93,7 @@ Falls die Anzeige keinerlei Adressangabe enthält, füge mithilfe der _Füge ein
 
 
 
-### 3.2. Tags
+### 2.2. Tags
 Der _Tags_-Abschnitt ermöglicht es Dir, eine Anzeige zu klassifizieren. Tags in Zeit.shift sollten in Kleinschreibung eingegeben werden und können auf Englisch, Deutsch oder Italienisch sein. Die Tags sind sehr nützlich, da sie Zeit.shift- und Historypin-Nutzern helfen bestimmte Einträge leichter zu finden. Wir bitten Dich folgende Arten von Tags einzufügen:
 
 - „ohne ort“, falls die Anzeige keine Adressangabe enthält;
@@ -109,7 +110,7 @@ Beachte: Umlaute können von Historypin nicht korrekt angezeigt werden, deshalb 
 
 <img src="/images/tags.png" alt="Suggest location" width="100%"/><p style="font-size: 10pt"><em>Tag eintippen und aus der Liste von Tagvorschlägen auswählen</em>.</p>
 
-### 3.3. Fakultativ
+### 2.3. Fakultativ
 
 Im rechten Seitenbalken findest du einen _Teilen_-Button, der es dir ermöglicht eine Anzeige über Social Media zu teilen oder sie in eine Webseite einzubetten.
 
@@ -135,16 +136,18 @@ Unter dem _Favorit_-Button findest du einen _Repin_-Button. Dieser Button ermög
 
 
 
-## 4. Historypin Tutorials
+<!--## 3. Historypin Tutorials
 
-Historypin „How to“-Anleitungen können hier aufgerufen werden: [https://about.historypin.org/how-to-guides/](https://about.historypin.org/how-to-guides/)
+Historypin „How to“-Anleitungen können hier aufgerufen werden: [https://about.historypin.org/how-to-guides/](https://about.historypin.org/how-to-guides/)-->
 
-## 5. Kontakt
 
-### 5.1. Eurac Research
+
+## 3. Kontakt
+
+### 3.1. Eurac Research
 Um das Team von Eurac Research zu erreichen, bitte schreibe an: <strong>zeitshift@eurac.edu</strong>
 
-### 5.2. Historypin
+### 3.2. Historypin
 Um das Team von Historypin zu erreichen, klicke auf das Chat-Icon in der unteren rechten Ecke des Bildschirms.
 
 <img src="/images/chat_closed.png" alt="Historypin chat" width="100%"/><p style="font-size: 10pt"><em>Um das Chat-Fenster zu öffnen, klicke auf den pinken Button in der unteren rechten Ecke deines Bildschirms</em>.</p>
@@ -154,7 +157,7 @@ Um das Team von Historypin zu erreichen, klicke auf das Chat-Icon in der unteren
 
 
 
-## 7. FAQ (Häufige Fragen)
+## 4. FAQ (Häufige Fragen)
 
 **Warum verändert sich manchmal die Anzahl der Pins auf der Karte?**<br />
 Dies ist ein bekannter Bug von Historypin. Indem du die Seite neu lädst, kannst du die korrekte Anzahl an Pins wiederherstellen.
