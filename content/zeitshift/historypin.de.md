@@ -36,19 +36,7 @@ Beachte: In Historypin werden die Einträge einer Sammlung als „Pins“ bezeic
 
 <img src="/images/gallery.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Galerieansicht der Zeit.shift-Sammlung, die eine Informationskarte, Untersammlungen und einzelne Anzeigen auflistet</em>.</p>
 
-
-## 2. Über die Sammlung
-
-Die Informationskarte _Über die Sammlung_ enthält eine zusammenfasende Beschreibung des Projekts und eine kurze Anleitung, die dich durch die Aktivitäten führt. Die Beschreibung kann auch durch Klicken auf den pinken 🛈 Informationsbutton im rechten Seitenbalken aufgerufen werden. Um dieses Informationsmenü zu schließen, klicke auf das pinke 🗙 Icon, welches in der rechten oberen Ecke des Fensters zu sehen ist.
-
-
-
-<img src="/images/about.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Auf Information zu der Sammlung kann über die Informationskarte oder über den 🛈-Button im rechten Seitenmenü zugegriffen werden</em>.</p>
-
-<img src="/images/about2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Um die Informationsbox zu schließen, klicke auf den 🗙-Button in der rechten oberen Ecke des Fensters</em>.</p>
-
-
-## 3. Sammlung durchsuchen
+## 2. Die richtigen Pins in der Sammlung auswählen
 
 Die Suchzeile unter dem Projektbanner erlaubt dir mithilfe von Tags and Schlüsselwörtern nach Inhalten zu suchen oder die Sammlung nach Inhalten mit Kommentaren zu filtern.
 
@@ -76,7 +64,7 @@ Zusätzlich kannst du das Drop-Down-Menü neben der Suchzeile benutzen, um die I
 
 
 
-## 4. Zu der Sammlung beitragen
+## 3. Zu der Sammlung beitragen
 Um die Aktivität zu starten, klicke auf die Untersammlung oder Zeitung an der du arbeiten möchtest. Die Landingpage der Untersammlung ist genauso aufgebaut wie die Hauptsammlung von Zeit.shift.
 
 <img src="/images/tigbo.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Landingpage der Untersammlung</em> Tiroler Grenzbote <em>in Zeit.shift</em>.</p>
@@ -89,16 +77,39 @@ Klicke anschließend auf die „zu lokaliserien“ und „zu taggen“ Tags, um 
 <img src="/images/search2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Durch Anklicken kannst du mithilfe der „zu lokalisieren“ und „zu taggen“ Tags nach den Anzeigen filtern, die noch bearbeitet werden müssen. Die Tags lassen sich durch einen Klick automatisch in die Suchzeile einfügen</em>.</p>
 
 
-Nachdem du die Anzeigen mithilfe der „zu lokalisieren“ und/oder „zu taggen“ Tags gefiltert hast, klicke auf eine Anzeige deiner Wahl, um daran zu arbeiten. Das Anzeigenfenster enthält verschiedene Informationsblöcke:
+Nachdem du die Anzeigen mithilfe der „zu lokalisieren“ und/oder „zu taggen“ Tags gefiltert hast, klicke auf eine Anzeige deiner Wahl, um daran zu arbeiten.
 
-- _Titel_: der Titel der Anzeige.
-- _Beschreibung_: Kurzanleitung und ein Link zu diesem ausführlichen Tutorial.
-- _Kommentare_: ein Feld in dem Du beliebige interessante Informationen zu der Anzeige eingeben kannst.
-- _Datum_: Datum der Anzeige mit der Option ein besseres Datum anzugeben, falls bekannt.
-- _Ort_: Ortsangabe der Anzeige mit der Option einen besseren Ort anzugeben, falls bekannt.
-- _Tags_: eine Liste von Tags, die die Anzeige beschreiben mit der Option weitere Tags hinzuzufügen, die die Anzeige beschreiben. Durch Klicken auf ein Tag lässt sich ein neues Historypin-Fenster öffnen, das eine Liste aller Einträge mit diesem Tag anzeigt.
-- _Metadaten_: Informationen zu der die Anzeige inklusive eines Links zu der digitalisierten Zeitung, der die Anzeige entstammt sowie ein permanenter Link zu derselben, falls Du auf die Zeitung verweisen willst; alle Anzeigen sind unter einer Creative Commons BY 3.0 Lizenz veröffentlicht, was heißt, dass Du berechtigt bist die Anzeige in beliebiger Weise weiterzuverwenden sofern Du mit einer Danksagung auf die Quelle verweist.
-- _Pin melden:_ falls dir ein unangebrachter Kommentar auffällt, klicke auf diesen Link, um das Problem zu melden. Beachte: Dein Problemreport wird direkt an Historypin gesendet nicht an Eurac Research.
+
+### 3.1. Schlage einen besseren Ort vor
+Um einen besseren Ort für die Anzeige vorzuschlagen, klicke auf den _Schlage einen besseren Ort vor_-Link in der Ortsbox. Ein neues Fenster wird sich öffnen und dich zur Eingabe eines neuen Ortes auffordern. Du kannst grobe oder präzise Ortsangaben machen, indem du das Suchfeld und/oder die Kartenansicht verwendest. Zur Präzisierung kannst du den großen pinken Pin zu dem gewünschten Ort ziehen. Falls du die Karte vergrößern möchtest, klicke auf das weiße Symbol in der oberen rechten Ecke des Fensters. Um die Karte wieder auf ihre ursprüngliche Größe zurückzusetzen, klicke nochmals auf das weiße Symbol. Um deinen Vorschlag zu speichern, füge einen Kommentar ein, klicke auf den _Speichern_-Button und schließe das Fenster durch Klicken auf das pinke 🗙 Symbol in der oberen rechten Ecke des Fensters.
+
+
+
+<img src="/images/location.png" alt="Suggest location" width="100%"/><p style="font-size: 10pt">Schlage einen besseren Ort vor-<em>Fenster. Das Kommentarfeld ist obligatorisch!</em></p>
+
+
+Falls die Anzeige keinerlei Adressangabe enthält, füge mithilfe der _Füge ein Tag hinzu_-Option ein „ohne ort“-Tag hinzu. Die Option befindet sich im rechten Seitenbalken (siehe nächster Abschnitt).
+
+
+
+### 3.2. Tags
+Der _Tags_-Abschnitt ermöglicht es Dir, eine Anzeige zu klassifizieren. Tags in Zeit.shift sollten in Kleinschreibung eingegeben werden und können auf Englisch, Deutsch oder Italienisch sein. Die Tags sind sehr nützlich, da sie Zeit.shift- und Historypin-Nutzern helfen bestimmte Einträge leichter zu finden. Wir bitten Dich folgende Arten von Tags einzufügen:
+
+- „ohne ort“, falls die Anzeige keine Adressangabe enthält;
+- „unleserlich“, falls die Anzeige nicht gut zu lesen ist (z.B. bei ausgeblichener Tinte oder verschwommenen Bildern);
+- „duplikat“, falls die Anzeige ein Duplikat einer anderen Anzeige ist;
+- „review“, falls Du weitere Probleme bei der Anzeige feststellst, die Du gerne mitteilen möchtest (z.B. die Anzeige ist teilweise abgeschnitten);
+- inhaltliche Tags (mindestens drei), die eine gute Beschreibung der Anzeige liefern, inklusive Personennamen, Objekten, Feierlichkeiten, etc. (e.g. „Adolf Titze“, „Schuhe“, „Weihnachten“).
+
+Um ein inhaltliches Tag hinzuzufügen, tippe den Namen in das _Tagname_-Feld. Während Du tippst, wird sich ein Drop-Down-Menü mit Vorschlägen öffnen, die anzeigen, welche Tag bereits von Historypin-Benutzern eingefügt wurden. Falls Dein Tag bereits in der Liste mit Vorschlägen vorhanden ist, wähle es aus und klicke auf den _Tag hinzufügen_-Button. Falls Dein Tag nicht in der Liste mit Vorschlägen ist, klicke auf den ersten Eintrag in der Liste und klicke anschließend nochmals auf den _Tag hinzufügen_-Button. Neue Tags sollten neben den bestehenden Tags unter der Karte zu sehen sein.
+
+Beachte: Umlaute können von Historypin nicht korrekt angezeigt werden, deshalb achte darauf sie auszuschreiben (z.B. schreibe nicht „mühle“ sondern „muehle“).
+
+
+
+<img src="/images/tags.png" alt="Suggest location" width="100%"/><p style="font-size: 10pt"><em>Tag eintippen und aus der Liste von Tagvorschlägen auswählen</em>.</p>
+
+### 3.3. Fakultativ
 
 Im rechten Seitenbalken findest du einen _Teilen_-Button, der es dir ermöglicht eine Anzeige über Social Media zu teilen oder sie in eine Webseite einzubetten.
 
@@ -123,62 +134,17 @@ Unter dem _Favorit_-Button findest du einen _Repin_-Button. Dieser Button ermög
 <img src="/images/repin.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Der Repin-Button im rechten Seitenbalken erlaubt es Dir, die Anzeige zu einer anderen Sammlung hinzuzufügen, auf die Du Zugriff hast, inklusive Deiner eigenen</em>.</p>
 
 
-### 4.1. Schlage ein besseres Datum vor
 
-Um ein besseres Datum für die Anzeige vorzuschlagen, klicke auf den _Schlage ein besseres Datum vor_-Link in der Datumsbox. Ein neues Fenster wird sich öffnen und Dich zur Eingabe eines neuen Datums (in einem festgelegten Format) und eines zugehörigen Kommentars auffordern. Du kannst keine Datumsvorschläge speichern, ohne einen Kommentar hinzuzufügen. Sobald Du alles erledigt hast, klicke auf den pinken _Speichern_-Button und schließe das Fenster, indem Du auf das 🗙 Symbol in der oberen rechten Ecke des Fensters klickst.
-
-
-<img src="/images/date.png" alt="Suggest date" width="100%"/><p style="font-size: 10pt">Schlage ein besseres Datum vor-<em>Fenster. Das Kommentarfeld ist obligatorisch!</em></p>
-
-
-Dein Datumsvorschlag wird in den Kommentaren unter der Anzeige auftauchen und wird zur Validierung an das Team von Eurac Research weitergeleitet.
-
-Bei Anzeigen, für die BürgerInnen sowohl Ortsangaben als auch semantische Tags vorgeschlagen haben, werden vom Eurac Research Team die „zu lokalisieren“ und „zu taggen“ Tags entfernt.
-
-
-
-
-### 4.2. Schlage einen besseren Ort vor
-Um einen besseren Ort für die Anzeige vorzuschlagen, klicke auf den _Schlage einen besseren Ort vor_-Link in der Ortsbox. Ein neues Fenster wird sich öffnen und dich zur Eingabe eines neuen Ortes auffordern. Du kannst grobe oder präzise Ortsangaben machen, indem du das Suchfeld und/oder die Kartenansicht verwendest. Zur Präzisierung kannst du den großen pinken Pin zu dem gewünschten Ort ziehen. Falls du die Karte vergrößern möchtest, klicke auf das weiße Symbol in der oberen rechten Ecke des Fensters. Um die Karte wieder auf ihre ursprüngliche Größe zurückzusetzen, klicke nochmals auf das weiße Symbol. Um deinen Vorschlag zu speichern, füge einen Kommentar ein, klicke auf den _Speichern_-Button und schließe das Fenster durch Klicken auf das pinke 🗙 Symbol in der oberen rechten Ecke des Fensters.
-
-
-
-<img src="/images/location.png" alt="Suggest location" width="100%"/><p style="font-size: 10pt">Schlage einen besseren Ort vor-<em>Fenster. Das Kommentarfeld ist obligatorisch!</em></p>
-
-
-Falls die Anzeige keinerlei Adressangabe enthält, füge mithilfe der _Füge ein Tag hinzu_-Option ein „ohne Ort“-Tag hinzu. Die Option befindet sich im rechten Seitenbalken (siehe nächster Abschnitt).
-
-
-
-### 4.3. Tags
-Der _Tags_-Abschnitt ermöglicht es Dir, eine Anzeige zu klassifizieren. Tags in Zeit.shift sollten in Kleinschreibung eingegeben werden und können auf Englisch, Deutsch oder Italienisch sein. Die Tags sind sehr nützlich, da sie Zeit.shift- und Historypin-Nutzern helfen bestimmte Einträge leichter zu finden. Wir bitten Dich folgende Arten von Tags einzufügen:
-
-- „ohne Ort“, falls die Anzeige keine Adressangabe enthält;
-- „unleserlich“, falls die Anzeige nicht gut zu lesen ist (z.B. bei ausgeblichener Tinte oder verschwommenen Bildern);
-- „Duplikat“, falls die Anzeige ein Duplikat einer anderen Anzeige ist;
-- „review“, falls Du weitere Probleme bei der Anzeige feststellst, die Du gerne mitteilen möchtest (z.B. die Anzeige ist teilweise abgeschnitten);
-- inhaltliche Tags (mindestens drei), die eine gute Beschreibung der Anzeige liefern, inklusive Personennamen, Objekten, Feierlichkeiten, etc. (e.g. „Adolf Titze“, „Schuhe“, „Weihnachten“).
-
-Um ein inhaltliches Tag hinzuzufügen, tippe den Namen in das _Tagname_-Feld. Während Du tippst, wird sich ein Drop-Down-Menü mit Vorschlägen öffnen, die anzeigen, welche Tag bereits von Historypin-Benutzern eingefügt wurden. Falls Dein Tag bereits in der Liste mit Vorschlägen vorhanden ist, wähle es aus und klicke auf den _Tag hinzufügen_-Button. Falls Dein Tag nicht in der Liste mit Vorschlägen ist, klicke auf den ersten Eintrag in der Liste und klicke anschließend nochmals auf den _Tag hinzufügen_-Button. Neue Tags sollten neben den bestehenden Tags unter der Karte zu sehen sein.
-
-Beachte: Umlaute können von Historypin nicht korrekt angezeigt werden, deshalb achte darauf sie auszuschreiben (z.B. schreibe nicht „mühle“ sondern „muehle“).
-
-
-
-<img src="/images/tags.png" alt="Suggest location" width="100%"/><p style="font-size: 10pt"><em>Tag eintippen und aus der Liste von Tagvorschlägen auswählen</em>.</p>
-
-
-
-## 5. Historypin Tutorials
+## 4. Historypin Tutorials
 
 Historypin „How to“-Anleitungen können hier aufgerufen werden: [https://about.historypin.org/how-to-guides/](https://about.historypin.org/how-to-guides/)
 
-## 6. Kontakt
+## 5. Kontakt
 
-### 6.1. Eurac Research
+### 5.1. Eurac Research
 Um das Team von Eurac Research zu erreichen, bitte schreibe an: <strong>zeitshift@eurac.edu</strong>
 
-### 6.2. Historypin
+### 5.2. Historypin
 Um das Team von Historypin zu erreichen, klicke auf das Chat-Icon in der unteren rechten Ecke des Bildschirms.
 
 <img src="/images/chat_closed.png" alt="Historypin chat" width="100%"/><p style="font-size: 10pt"><em>Um das Chat-Fenster zu öffnen, klicke auf den pinken Button in der unteren rechten Ecke deines Bildschirms</em>.</p>
