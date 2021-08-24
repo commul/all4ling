@@ -59,13 +59,14 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 **Anforderungen**:
 
 - Grundkenntnisse des Deutschen und ein Grundverständnis von Frakturschrift
-- Ein kostenfreies Historypin-Konto
+- Ein kostenfreies <a href="https://www.historypin.org" target="_blank">Historypin</a>-Konto
 - Ein Desktopcomputer (die Anwendung is nicht für Mobilgeräte optimiert)
+- [Spezifische Tags]({{< relref path="zeitshift/historypin#32-tags">}}) und Standortinformationen hinzufügen
 
 <p style="text-align: center">
   <a href="{{< relref path="zeitshift/historypin">}}"><button type="button" class="btn btn-success">Anleitung</button></a>
 
-  <a href="https://www.historypin.org/en/zeit-shift/geo/46.494565,11.347343,17/bounds/46.490037,11.345184,46.499092,11.349502/paging/1" target="_blank" title="Opens in new tab">
+  <a href="https://www.historypin.org/de/zeit-shift/geo/46.494565,11.347343,17/bounds/46.492353,11.345021,46.496777,11.349665/search/tag:zu lokalizieren,tag:zu taggen/sort/-date_taken/paging/1" target="_blank" title="Opens in new tab">
     <button type="button" class="btn btn-success">🚀 START!</button>
   </a>
 </p>
@@ -75,7 +76,7 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 
 <img src="/images/wko.png" alt="Game preview" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>Wer hat Ötzi umgebracht?</em>-Spiel. Dieses Bild ist lizensiert unter <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
-In diesem von [Typespeed](http://typespeed.sourceforge.net/) inspirierten Spiel fliegen tötliche Pfeile von links nach rechts durch den Bildschirm direkt auf [Ötzi, den Mann aus dem Eis](https://www.iceman.it/en/the-iceman/), zu. Die Pfeile tragen Wörter in Frakturschrift, welches Personennamen sind, die aus den historischen tiroler Zeitungen extrahiert wurden. Das Spielziel ist einfach: du musst die Namen auf den Pfeilen abtippen und zwar so schnell, dass sie Ötzi nicht erreichen und ihn nicht umbringen können! Je mehr Wörter du schaffst einzutippen, bevor sie Ötzi erreicht haben, desto länger bleibt Ötzi am Leben und desto mehr Punkte erhältst du. Wenn Ötzi stirbt wird dir der Zeitungsartikel angezeigt, aus dem der tötliche Name stammt (der Mörder!). Das gibt dir die Möglichkeit den Kontext um den Namen herum zu erkunden. 
+In diesem von [Typespeed](http://typespeed.sourceforge.net/) inspirierten Spiel fliegen tötliche Pfeile von links nach rechts durch den Bildschirm direkt auf [Ötzi, den Mann aus dem Eis](https://www.iceman.it/en/the-iceman/), zu. Die Pfeile tragen Wörter in Frakturschrift, welches Personennamen sind, die aus den historischen tiroler Zeitungen extrahiert wurden. Das Spielziel ist einfach: du musst die Namen auf den Pfeilen abtippen und zwar so schnell, dass sie Ötzi nicht erreichen und ihn nicht umbringen können! Je mehr Wörter du schaffst einzutippen, bevor sie Ötzi erreicht haben, desto länger bleibt Ötzi am Leben und desto mehr Punkte erhältst du. Wenn Ötzi stirbt wird dir der Zeitungsartikel angezeigt, aus dem der tötliche Name stammt (der Mörder!). Das gibt dir die Möglichkeit den Kontext um den Namen herum zu erkunden.
 
 **Anforderungen**:
 
