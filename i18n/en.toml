@@ -1,2 +1,14 @@
 [more]
 other = "Learn more"
+
+[toc]
+other = "On this page"
+
+[readingTime]
+other = "read"
+
+[posted]
+other = "Posted on"
+
+[by]
+other = "by"

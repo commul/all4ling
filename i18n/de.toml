@@ -1,2 +1,14 @@
 [more]
 other = "Weiterlesen"
+
+[toc]
+other = "Auf dieser Seite"
+
+[readingTime]
+other = "Lesenzeit"
+
+[posted]
+other = "Gepostet am"
+
+[by]
+other = "von"

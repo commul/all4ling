@@ -162,8 +162,9 @@ Um das Team von Historypin zu erreichen, klicke auf das Chat-Icon in der unteren
 **Warum verändert sich manchmal die Anzahl der Pins auf der Karte?**<br />
 Dies ist ein bekannter Bug von Historypin. Indem du die Seite neu lädst, kannst du die korrekte Anzahl an Pins wiederherstellen.
 
-<!--**My tags are not being saved. What's happening?**<br />
-This is a known Historypin caching issue. Your tags are being saved but take a while to appear on the screen.-->
+**Meine Tags und Kommentare werden nicht gespeichert. Was ist hier los?**<br />
+Lade deine Browserseite neu und/oder entleere deinen Browsercache um deine Änderungen zu sehen.
+
 
 <br/><br/>
 
