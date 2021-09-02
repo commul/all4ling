@@ -12,3 +12,28 @@ other = "Gepostet am"
 
 [by]
 other = "von"
+
+[January]
+other = "January"
+[February]
+other = "February"
+[March]
+other = "März"
+[April]
+other = "April"
+[May]
+other = "Mai"
+[June]
+other = "Juni"
+[July]
+other = "Juli"
+[August]
+other = "August"
+[September]
+other = "September"
+[October]
+other = "Oktober"
+[November]
+other = "November"
+[December]
+other = "Dezember"
