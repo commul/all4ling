@@ -15,32 +15,12 @@ title_font: "grenze"
 ---
 
 
-## Why should I contribute?
-
-**Your contributions to Zeit.shift will help**:
-
-- accelerate research progress
-- make text more searchable and usable
-- create new knowledge for education and research alike
-- make the newspaper collection more discoverable
-- preserve the historical memory of Tyrol
-
-**Personal benefits you can expect from your involvement are**:
-
-- increased awareness of Tyrolean history and culture
-- increased understanding of research procedures (e.g. digitisation and data quality)
-- possibility of influencing changes in project methodology, objectives, development, results or dissemination
-- increased familiarity with data that you might use in your own projects
-- acknowledgement of your contribution in academic publications and on our website <!-- LINK TO COMMUNITY PAGE, WHEN AVAILABLE -->
-- self-contained, casual tasks you can do whenever suits you best
-- discover new interests, likeminded people and communities
-
 ## How can I contribute?
 
 We're developing **interactive applications** designed to help you explore this wonderful body of textual heritage as you contribute data!
 
 **We need your help with two tasks**:
-1. 📍 Locate and tag advertisements
+1. 📍 Locate and/or tag advertisements
 2. ⌨️ Transcribe individual words by playing a game
 
 **Your help will make the newspapers more usable for both humans and machines!**
@@ -61,7 +41,7 @@ This activity makes use of an existing third-party platform, [Historypin](https:
 - Basic knowledge of German and Fraktur script
 - A free <a href="https://www.historypin.org" target="_blank">Historypin</a> account
 - A desktop computer (activity not designed for mobile devices)
-- To add [specific tags]({{< relref path="zeitshift/historypin#32-tags">}}) and location information to the newspaper ads
+- To add [specific tags]({{< relref path="zeitshift/historypin#32-tags">}}) and/or location information to the newspaper adverts (the choice is free!)
 
 <p style="text-align: center">
   <a href="{{< relref path="zeitshift/historypin">}}"><button type="button" class="btn btn-success">Instructions</button></a>
@@ -85,3 +65,25 @@ In this custom game, inspired by [Typespeed](http://typespeed.sourceforge.net/),
 No sign-up or registration required!
 
 <p style="text-align: center"><button type="button" class="btn btn-danger">⏳ COMING SOON!</button></p>
+
+
+
+## Why should I contribute?
+
+**Your contributions to Zeit.shift will help**:
+
+- accelerate research progress
+- make text more searchable and usable
+- create new knowledge for education and research alike
+- make the newspaper collection more discoverable
+- preserve the historical memory of Tyrol
+
+**Personal benefits you can expect from your involvement are**:
+
+- increased awareness of Tyrolean history and culture
+- increased understanding of research procedures (e.g. digitisation and data quality)
+- possibility of influencing changes in project methodology, objectives, development, results or dissemination
+- increased familiarity with data that you might use in your own projects
+- acknowledgement of your contribution in academic publications and on our website <!-- LINK TO COMMUNITY PAGE, WHEN AVAILABLE -->
+- self-contained, casual tasks you can do whenever suits you best
+- discover new interests, likeminded people and communities

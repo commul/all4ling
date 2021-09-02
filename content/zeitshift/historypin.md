@@ -68,11 +68,11 @@ Next, click on the "zu lokalisieren" and "zu taggen" tags to display adverts tha
 <img src="/images/search2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>If clicked, the "zu lokalisieren" and "zu taggen" tags allow you to display only those adverts that still need to be worked on. If clicked, these tags will automatically appear in the search bar</em>.</p>
 
 
-With the "zu lokalisieren" and/or "zu taggen" tags selected, click on an advert of your choice to start working on it.
+With the "zu lokalisieren" and/or "zu taggen" tags selected, click on an advert of your choice to start working on it. 
 
 
 ### 2.1. Suggest a better location
-To suggest a better location for the advert, click on the _Suggest a better location_ link provided in the _Location_ box. Doing so will open up a window in which you will be asked to add the suggested location. You can provide rough or precise locations using the search bar and/or the map view. For added precision, you can drag-and-drop the large pink pin to your desired location. Should you wish to enlarge the map, click on the white enlarge icon in the top right corner. Click it again to return to the original size. To save your suggestion, add a comment, click on the _Save_ button and close the window using the pink 🗙 icon in the top right corner.
+To suggest a better location for the advert, click on the _Suggest a better location_ link provided in the _Location_ box. Doing so will open up a window in which you will be asked to add the suggested location. You can provide rough or precise locations using the search bar and/or the map view. For added precision, you can drag-and-drop the large pink pin to your desired location. Should you wish to enlarge the map, click on the white enlarge icon in the top right corner. Click it again to return to the original size. To save your suggestion, add a comment (e.g. "Location added"), click on the _Save_ button and close the window using the pink 🗙 icon in the top right corner.
 
 <img src="/images/location.png" alt="Suggest location" width="100%"/><p style="font-size: 10pt">Suggest a better location <em>window. The</em> Comment <em>field is mandatory!</em></p>
 
@@ -108,7 +108,6 @@ Below the _Share_ button, you will see the _Favourite_ ♡ button. This button a
 
 
 <img src="/images/favourite.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Click on the ♡ button in the right sidebar to save an advert to your list of favourites</em>.</p>
-
 
 
 <img src="/images/profile.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Click on the profile button in the top right corner of the screen to access your Historypin profile and list of favourited pins.</em>.</p>

@@ -14,33 +14,12 @@ toc: true
 title_font: "grenze"
 ---
 
-
-## Warum sollte ich mitmachen?
-
-**Deine Mitwirkung an Zeit.shift wird helfen**:
-
-- den Forschungsprozess zu beschleunigen
-- die Texte besser durchsuchbar und nutzbar zu machen
-- neues Wissen für Forschungs- und Bildungsinitiativen zu erstellen
-- die Zeitungssammlung besser erkundbar zu machen
-- das historische Gedächtnis Tirols zu bewahren
-
-**Vorteile für dich persönlich, die Du durch deine Mitwirkung erhältst**:
-
-- gestärktes Bewusstsein für die Tiroler Geschichte und Kultur
-- verbessertes Verständnis von Forschungsvorgängen (z.B. Digitalisierung und Datenqualität)
-- Möglichkeit auf Projektentscheidungen Einfluss zu nehmen, in Bezug auf die Methodologie des Projekts, dessen Ziele, Entwicklungen, Ergebnisse und Maßnahmen zur Verbreitung
-- detailliertes Kennenlernen der Projektdaten, zur beliebigen Weiternutzung in deinen eigenen Projekten
-- Anerkennung deiner Mitwirkung in wissenschaftlichen Publikationen und auf unserer Webseite
-- in sich abgeschlossene, lockere Aufgaben, die du bearbeiten kannst, wann immer es dir passt
-- Möglichkeit neue Interessen zu entdecken, sowie Personen und Gruppen mit ähnlichen Interessen
-
 ## Wie kann ich mitwirken?
 
 Wir entwickeln **interaktive Webanwendungen**, die dir die Möglichkeit geben die wundervolle Sammlung kutureller Daten zu erkunden, während du sie bearbeitest!
 
 **Wir brauchen deine Hilfe bei zwei Aufgaben**:
-1. 📍 Lokalisiere und tagge Werbeanzeigen
+1. 📍 Lokalisiere und/oder tagge Werbeanzeigen
 2. ⌨️ Transkribiere einzelne Wörter, indem du ein Spiel spielst
 
 **Deine Mithilfe wird die Zeitungen sowohl für Menschen als auch für Maschinen besser nutzbar machen!**
@@ -61,7 +40,7 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 - Grundkenntnisse des Deutschen und ein Grundverständnis von Frakturschrift
 - Ein kostenfreies <a href="https://www.historypin.org" target="_blank">Historypin</a>-Konto
 - Ein Desktopcomputer (die Anwendung is nicht für Mobilgeräte optimiert)
-- [Spezifische Tags]({{< relref path="zeitshift/historypin#32-tags">}}) und Standortinformationen hinzufügen
+- [Spezifische Tags]({{< relref path="zeitshift/historypin#32-tags">}}) und/oder Standortinformationen hinzufügen (die Wahl ist frei!)
 
 <p style="text-align: center">
   <a href="{{< relref path="zeitshift/historypin">}}"><button type="button" class="btn btn-success">Anleitung</button></a>
@@ -85,3 +64,24 @@ In diesem von [Typespeed](http://typespeed.sourceforge.net/) inspirierten Spiel 
 Es ist keine Registrierung erforderlich!
 
 <p style="text-align: center"><button type="button" class="btn btn-danger">⏳ IN VORBEREITUNG!</button></p>
+
+
+## Warum sollte ich mitmachen?
+
+**Deine Mitwirkung an Zeit.shift wird helfen**:
+
+- den Forschungsprozess zu beschleunigen
+- die Texte besser durchsuchbar und nutzbar zu machen
+- neues Wissen für Forschungs- und Bildungsinitiativen zu erstellen
+- die Zeitungssammlung besser erkundbar zu machen
+- das historische Gedächtnis Tirols zu bewahren
+
+**Vorteile für dich persönlich, die Du durch deine Mitwirkung erhältst**:
+
+- gestärktes Bewusstsein für die Tiroler Geschichte und Kultur
+- verbessertes Verständnis von Forschungsvorgängen (z.B. Digitalisierung und Datenqualität)
+- Möglichkeit auf Projektentscheidungen Einfluss zu nehmen, in Bezug auf die Methodologie des Projekts, dessen Ziele, Entwicklungen, Ergebnisse und Maßnahmen zur Verbreitung
+- detailliertes Kennenlernen der Projektdaten, zur beliebigen Weiternutzung in deinen eigenen Projekten
+- Anerkennung deiner Mitwirkung in wissenschaftlichen Publikationen und auf unserer Webseite
+- in sich abgeschlossene, lockere Aufgaben, die du bearbeiten kannst, wann immer es dir passt
+- Möglichkeit neue Interessen zu entdecken, sowie Personen und Gruppen mit ähnlichen Interessen
