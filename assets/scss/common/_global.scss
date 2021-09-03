@@ -240,3 +240,13 @@ body {
   border-image-source: linear-gradient(90deg, $primary, $blue-300 50%, $mint);
   border-image-slice: 1;
 }
+
+ .nk-cookie-banner {
+   position: fixed;
+   bottom: 0px;
+   left: 0px;
+   width: 100%;
+   z-index: 99999;
+   border-radius: 0px;
+   display: none;
+ }

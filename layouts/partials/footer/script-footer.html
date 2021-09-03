@@ -39,6 +39,10 @@
 
 {{ $js := $slice | resources.Concat "main.js" -}}
 
+{{ $cookie := resources.Get "js/cookie.js" -}}
+{{ $cookie = $cookie | js.Build -}}
+<script src="{{ $cookie.Permalink }}" integrity="{{ $cookie.Data.Integrity }}" crossorigin="anonymous" defer></script>
+
 {{ if eq (hugo.Environment) "development" -}}
   {{ if .Site.Params.options.bootStrapJs -}}
     <script src="{{ $bs.Permalink }}" defer></script>

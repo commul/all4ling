@@ -88,3 +88,8 @@ url = "/zeitshift/"
     name = "Privacy"
     url = "https://www.eurac.edu/en/static/privacy-policy"
     weight = 10
+
+[[cookie]]
+    name = "Learn more"
+    url = "https://www.eurac.edu/de/static/privacy-policy-website"
+    weight = 10

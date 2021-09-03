@@ -15,4 +15,18 @@
       </div>
     </div>
   </div>
+
 </footer>
+
+<!-- cookie banner -->
+<div class="nk-cookie-banner alert alert-dark text-center mb-0" role="alert">
+  {{ T "CookieNotice" }}
+
+  {{ range .Site.Menus.cookie -}}
+    <a target="_blank" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+  {{ end -}}
+
+  <button type="button" class="btn btn-primary btn-sm ms-3" onclick="window.nk_hideCookieBanner()">
+    OK
+  </button>
+</div>

@@ -37,3 +37,6 @@ other = "Oktober"
 other = "November"
 [December]
 other = "Dezember"
+
+[CookieNotice]
+other = "🍪 Diese Website verwendet Cookies, um Ihnen die beste Erfahrung auf unserer Website zu ermöglichen."
