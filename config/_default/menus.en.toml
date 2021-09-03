@@ -91,5 +91,5 @@ url = "/zeitshift/"
 
 [[cookie]]
     name = "Learn more"
-    url = "https://www.eurac.edu/de/static/privacy-policy-website"
+    url = "https://www.eurac.edu/en/static/privacy-policy-website"
     weight = 10
