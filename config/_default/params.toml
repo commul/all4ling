@@ -64,6 +64,7 @@ alertDismissable = true
 
 # Edit Page
 docsRepo = "https://gitlab.inf.unibz.it/commul/zeit.shift"
+docsRepoBranch = "master"
 editPage = false
 
 [options]
