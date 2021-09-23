@@ -1,4 +1,4 @@
-{{ if ne .Params.toc false -}}
+{{ if and (ne .Params.toc false) (ne .TableOfContents "<nav id=\"TableOfContents\"></nav>") -}}
   <div class="page-links">
     <h3>{{ T "toc" }}</h3> <!--The T point to the translation .toml files in the i18n folder -->
     {{ .TableOfContents }}
