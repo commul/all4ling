@@ -152,6 +152,10 @@ This is a known Historypin bug. Refreshing the page will restore the correct num
 **My tags and comments are not being saved. What's happening?**<br />
 Refresh your browser page and/or empty your browser cache to see your changes.
 
+**Umlaut in tags**<br />
+Tags in Historypin don't take the umlaut. For this reason, please type the equivalent non-diacritic character combination, e.g. _mühle_ --> _muehle_.
+
+
 <br/><br/>
 
 <p style="text-align: center"><a href="https://www.historypin.org/en/zeit-shift/geo/46.494565,11.347343,17/bounds/46.490037,11.345184,46.499092,11.349502/paging/1" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success">🚀 TAKE ME TO THE ACTIVITY!</button></a></p>
