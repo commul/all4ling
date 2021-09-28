@@ -8,6 +8,9 @@
 #titleSeparator = "-"
 #description = "All for Linguistics is an initiative of the Institute of Applied Linguistics of Eurac Research devoted to the development of Citizen Science projects and expertise at the intersection of Computational Linguistics and Digital Humanities."
 
+## Documentation
+docsVersion = "1.0"
+
 ## Open Graph
 # images = ["doks.png"]
 # ogLocale = "en_US"
@@ -81,5 +84,5 @@ editPage = false
   highLight = false
   kaTex = false
   collapsibleSidebar = true
-  multilingualMode = false # Not yet functional
-  docsVersioning = false # Not yet functional
+  multilingualMode = false
+  docsVersioning = false
