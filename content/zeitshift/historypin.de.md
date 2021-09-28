@@ -165,6 +165,10 @@ Dies ist ein bekannter Bug von Historypin. Indem du die Seite neu lädst, kannst
 **Meine Tags und Kommentare werden nicht gespeichert. Was ist hier los?**<br />
 Lade deine Browserseite neu und/oder entleere deinen Browsercache um deine Änderungen zu sehen.
 
+**Umlaute in tags**<br />
+Tags in Historypin dürfen kein Umlaute enthalten. Gib daher bitte die entsprechende Umschreibung für Umlaute ein, z. B. _mühle --> muehle_.
+
+
 
 <br/><br/>
 
