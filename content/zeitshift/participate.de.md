@@ -51,7 +51,7 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 </p>
 
 
-### ⌨️ Wer hat Ötzi umgebracht?
+### ⌨️ Who killed Ötzi?
 
 <img src="/images/wko.png" alt="Game preview" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>Wer hat Ötzi umgebracht?</em>-Spiel. Dieses Bild ist lizensiert unter <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 
