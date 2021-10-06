@@ -21,7 +21,7 @@ toc: true
 Das Projekt konzentriert sich auf **deutschsprachige historische Zeitungen**, großteils in [Frakturschrift](https://web.library.yale.edu/cataloging/music/fraktur), die derzeit über Tirol verteilt und nur zum Teil in digitalisierter Form vorliegen. **Das Projekt verfolgt zwei Hauptziele**:
 
 1. die Digitalisierung von rund 500.000 Seiten historischer Zeitungen aus den Jahren 1850 bis 1950 und deren Bereitstellung über ein einziges frei zugängliches Webportal;
-2. Einbindung der Bevölkerung über Citizen Science Initiativen, die die BürgerInnen einladen, aktiv an der Kuratierung, Bearbeitung und Beobachtung des historischen Textmaterials mitzuwirken, um damit den Forschungsprozess zu beschleunigen und neues Wissen zu generieren. 
+2. Einbindung der Bevölkerung über Citizen Science Initiativen, die die BürgerInnen einladen, aktiv an der Kuratierung, Bearbeitung und Beobachtung des historischen Textmaterials mitzuwirken, um damit den Forschungsprozess zu beschleunigen und neues Wissen zu generieren.
 
 In Anbetracht der großen Anzahl an Zeitungen (circa 500.000 Seiten), ist die Mithilfe der Bevölkerung ausschlaggebend: **Je mehr Teilnehmende helfen die Daten zu kuratieren** und Zeit.shift bekannt zu machen, **umso besser wird die bearbeitete Zeitungssammlung durchsuchbar sein und umso mehr wird zur Erhaltung des historischen Gedächtnisses Gesamttirols beigetragen**.
 
@@ -79,7 +79,7 @@ Die Citizen Science Komponente des Projekts konzentriert sich auf Zeitungsausgab
 ### Team
 - Landesbibliothek Dr. Friedrich Teßmann (Lead partner): Johannes Andresen
 - Universitäts- und Landesbibliothek Tirol: Silvia Gstrein, Christian Kössler, Barbara Laner, Johanna Walcher
-- Eurac Research: Andrea Abel, Etiene Dalcol, Greta Franzini, Verena Lyding, Egon Stemle
+- Eurac Research: Andrea Abel, Greta Franzini, Verena Lyding, Egon Stemle
 
 <img src="/images/tessmann_logo.jpg" width="30%" alt="Teßmann logo">&nbsp;&nbsp;&nbsp;
 <img src="/images/innsbruck_logo.png" width="20%" alt="Innsbruck logo">&nbsp;&nbsp;&nbsp;
