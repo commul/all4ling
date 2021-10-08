@@ -72,7 +72,7 @@ alertDismissable = true
 #repoHost = "Gitea"
 docsRepo = "https://gitlab.inf.unibz.it/commul/zeit.shift"
 docsRepoBranch = "master"
-editPage = true
+editPage = false
 
 [options]
   lazySizes = true
