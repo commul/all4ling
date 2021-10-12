@@ -1,7 +1,7 @@
 ---
 title: "Zeit.shift - digital in gesterns Zukunft - Mach mit! 🕵🏼‍♀️ "
 description: ""
-lead: ""
+lead: "Über die Plattform „Historypin“ sind alle eingeladen, über das Geotagging von historischen Werbeanzeigen die Geschäftsstraßen der eigenen Stadt vor einhundert Jahren virtuell zu rekonstruieren."
 date: 2021-10-12T09:19:42+01:00
 lastmod: 2021-10-12T10:19:42+01:00
 draft: false
