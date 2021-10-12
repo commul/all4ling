@@ -31,4 +31,6 @@ We'd love to hear from you!
 <strong>Andrea Abel</strong>, Head of the Institute for Applied Linguistics at Eurac Research<br />
 <strong>Greta H. Franzini</strong>, Postdoctoral Researcher<br />
 <strong>Verena Lyding</strong>, Researcher<br />
-<strong>Egon W. Stemle</strong>, Researcher
+<strong>Egon W. Stemle</strong>, Researcher<br />
+<strong>Anna Tramarin</strong>, Intern
+

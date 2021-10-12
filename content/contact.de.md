@@ -31,4 +31,5 @@ Wir freuen uns von dir zu hören!
 <strong>Andrea Abel</strong>, Leiterin des Instituts für Angewandte Sprachforschung bei Eurac Research<br />
 <strong>Greta H. Franzini</strong>, PostDoc Researcher<br />
 <strong>Verena Lyding</strong>, Researcher<br />
-<strong>Egon W. Stemle</strong>, Researcher
+<strong>Egon W. Stemle</strong>, Researcher<br />
+<strong>Anna Tramarin</strong>, Praktikantin
