@@ -45,10 +45,14 @@ This activity makes use of an existing third-party platform, [Historypin](https:
 
 <p style="text-align: center">
   <a href="https://all4ling.eurac.edu/zeitshift/historypin/tutorial"><button type="button" class="btn btn-success">📺 VIDEO TUTORIAL</button></a>
+  <a href="{{< relref path="zeitshift/historypin">}}"><button type="button" class="btn btn-success">📃 INSTRUCTIONS </button></a> 
 
   <a href="https://www.historypin.org/en/zeit-shift/geo/46.494565,11.347343,17/bounds/46.492353,11.345021,46.496777,11.349665/search/tag:zu lokalizieren,tag:zu taggen/sort/-date_taken/paging/1">
     <button type="button" class="btn btn-success">🚀 START!</button>
   </a>
+
+  
+
 </p>
 
 
