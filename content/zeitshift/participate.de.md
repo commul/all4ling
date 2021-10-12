@@ -43,7 +43,7 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 - [Spezifische Tags]({{< relref path="zeitshift/historypin#32-tags">}}) und/oder Standortinformationen hinzufügen (die Wahl ist frei!)
 
 <p style="text-align: center">
-  <a href="{{< relref path="zeitshift/historypin">}}"><button type="button" class="btn btn-success">Anleitung</button></a>
+  <a href="https://all4ling.eurac.edu/zeitshift/historypin/tutorial"><button type="button" class="btn btn-success">📺 VIDEO TUTORIAL</button></a>
 
   <a href="https://www.historypin.org/de/zeit-shift/geo/46.494565,11.347343,17/bounds/46.492353,11.345021,46.496777,11.349665/search/tag:zu lokalizieren,tag:zu taggen/sort/-date_taken/paging/1" target="_blank" title="Opens in new tab">
     <button type="button" class="btn btn-success">🚀 START!</button>
