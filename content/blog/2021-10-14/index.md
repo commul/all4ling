@@ -13,7 +13,7 @@ contributors: ["Eurac Research"]
 
 
 <strong>Termin</strong>: Montag, 18.10.2021, 10:00-12:00 Uhr<br />
-<strong>Ort</strong>: online mit dem Link <a href="https://webconference.uibk.ac.at/b/joh-0p5-eor-tqf" target="_blank">https://webconference.uibk.ac.at/b/joh-0p5-eor-tqf</a>
+<strong>Ort</strong>: online mit dem Link <a href="https://webconference.uibk.ac.at/b/joh-0p5-eor-tqf" target="_blank">https://webconference.uibk.ac.at/b/joh-0p5-eor-tqf</a><br />
 <strong>Veranstalter</strong>: ULB Tirol<br />
 <strong>Anmeldung</strong>: erforderlich mit einem formlosen Mail an <strong>ulb-zeitshift@uibk.ac.at</strong> bis 17.10.21<br />
 <strong>Eintritt / Kosten</strong>: Keine
