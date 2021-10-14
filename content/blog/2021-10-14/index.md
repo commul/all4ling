@@ -1,9 +1,9 @@
 ---
-title: "Erster workshop online!"
+title: "Erster Workshop online!"
 description: ""
 lead: "ULB Tirol Workshop „Digital in gesterns Zukunft“ – Was erzählen uns Zeitungen über das Leben in Tirol vor 100 Jahren?"
-date: 2021-10-12T12:00:42+01:00
-lastmod: 2021-10-12T12:00:42+01:00
+date: 2021-10-14T06:00:42+01:00
+lastmod: 2021-10-14T06:00:42+01:00
 draft: false
 weight: 50
 images: []
@@ -13,7 +13,7 @@ contributors: ["Eurac Research"]
 
 
 <strong>Termin</strong>: Montag, 18.10.2021, 10:00-12:00 Uhr<br />
-<strong>Ort</strong>: online mit dem Link <a href="ttps://webconference.uibk.ac.at/b/joh-0p5-eor-tqf" target="_blank">https://webconference.uibk.ac.at/b/joh-0p5-eor-tqf</a>
+<strong>Ort</strong>: online mit dem Link <a href="https://webconference.uibk.ac.at/b/joh-0p5-eor-tqf" target="_blank">https://webconference.uibk.ac.at/b/joh-0p5-eor-tqf</a>
 <strong>Veranstalter</strong>: ULB Tirol<br />
 <strong>Anmeldung</strong>: erforderlich mit einem formlosen Mail an <strong>ulb-zeitshift@uibk.ac.at</strong> bis 17.10.21<br />
 <strong>Eintritt / Kosten</strong>: Keine
