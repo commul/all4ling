@@ -37,5 +37,5 @@ Tauchen Sie mit uns ein in das Leben in Tirol vor 100 Jahren, in die Vielfalt hi
 
 
 <center>
-  {{< img src="BZN_19210308_07_Page1_Block45.png" alt="Newspaper image" caption="Bild aus einer Werbeanzeige, <em>Bozner Nachrichten</em>, 8. März 1921. <a href='http://digital.tessmann.it/tessmannDigital/Zeitungsarchiv/Seite/Zeitung/37/1/08.03.1921/130489/7' target='_blank'>Teßmann Digital</a>.">}}
+  {{< img src="BZN_19210308_07_Page1_Block45.png" alt="Newspaper image" caption="Bild aus einer Werbeanzeige, <em>Bozner Nachrichten</em>, 8. März 1921. <a href='http://digital.tessmann.it/tessmannDigital/Zeitungsarchiv/Seite/Zeitung/37/1/08.03.1921/130489/7' target='_blank'>Teßmann Digital</a>. Image licensed under <a href='http://creativecommons.org/licenses/by/4.0/' target='_blank'>CC BY 4.0</a>">}}
 </center>
