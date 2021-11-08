@@ -1,5 +1,5 @@
 ---
-title: "Erster Workshop online!"
+title: "Erster Workshop online"
 description: ""
 lead: "ULB Tirol Workshop „Digital in gesterns Zukunft“ – Was erzählen uns Zeitungen über das Leben in Tirol vor 100 Jahren?"
 date: 2021-10-14T06:00:42+01:00
