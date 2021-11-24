@@ -36,9 +36,16 @@
   weight = 40
 
 [[main]]
+  name = "Presse"
+  url = "/press/"
+  weight = 50
+  [main.params]
+    project = "only"
+
+[[main]]
   name = "Kontakt"
   url = "/contact/"
-  weight = 50
+  weight = 60
 
 [[docs]]
 name = "Projekte"
