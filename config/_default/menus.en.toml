@@ -35,7 +35,6 @@
   url = "/blog/"
   weight = 40
 
-
 [[main]]
   name = "Contact"
   url = "/contact/"
