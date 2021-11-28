@@ -77,7 +77,7 @@ The citizen science component of the project focuses on newspaper issues publish
 - Universitäts- und Landesbibliothek Tirol: Silvia Gstrein, Christian Kössler, Barbara Laner, Johanna Walcher
 - Eurac Research: Andrea Abel, Greta Franzini, Verena Lyding, Egon Stemle
 
-<img src="/images/tessmann_logo.jpg" width="30%" alt="Teßmann logo">&nbsp;&nbsp;&nbsp;
+<img src="/images/LBT_transparent.png" width="30%" alt="Teßmann logo">&nbsp;&nbsp;&nbsp;
 <img src="/images/innsbruck_logo.png" width="20%" alt="Innsbruck logo">&nbsp;&nbsp;&nbsp;
 <img src="/images/eurac_logo.png" width="15%" alt="Eurac logo">
 
@@ -102,7 +102,7 @@ October 2020 - October 2022
 
 658,000 Euros
 
-[<img src="/images/interreg_logo.jpg" alt="Logo" width="40%" class="border-0">](https://interreg.eu/programme/interreg-italy-austria/)
+[<img src="/images/interreg_logo.png" alt="Logo" width="40%" class="border-0">](https://interreg.eu/programme/interreg-italy-austria/)
 
 ### Objectives
 
