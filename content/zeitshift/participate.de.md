@@ -42,14 +42,23 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 - Ein Desktopcomputer (die Anwendung is nicht für Mobilgeräte optimiert)
 - [Spezifische Tags]({{< relref path="zeitshift/historypin#32-tags">}}) und/oder Standortinformationen hinzufügen (die Wahl ist frei!)
 
-<p style="text-align: center">
-  <a href="https://all4ling.eurac.edu/zeitshift/historypin/tutorial"><button type="button" class="btn btn-success">📺 VIDEO TUTORIAL</button></a>
-  <a href="{{< relref path="zeitshift/historypin">}}"><button type="button" class="btn btn-success">📃 ANLEITUNG </button></a> 
 
-  <a href="https://www.historypin.org/de/zeit-shift/geo/46.494565,11.347343,17/bounds/46.492353,11.345021,46.496777,11.349665/search/tag:zu lokalizieren,tag:zu taggen/sort/-date_taken/paging/1" target="_blank" title="Opens in new tab">
-    <button type="button" class="btn btn-success">🚀 START!</button>
-  </a>
-</p>
+
+<div class="row justify-content-center text-center">
+  <div class="col-lg-4" style="padding-left:0; padding-right:0;">
+     <a href="https://all4ling.eurac.edu/zeitshift/historypin/tutorial"><button type="button" class="btn btn-success" style="background-color: #00A984;">📺 VIDEO</button></a>
+     <br /><br />
+  </div>
+
+  <div class="col-lg-4" style="padding-left:0; padding-right:0;">
+    <a href="{{< relref path="zeitshift/historypin">}}"><button type="button" class="btn btn-success" style="background-color: #00A984;">📃 ANLEITUNG</button></a> 
+    <br /><br />
+  </div>
+
+  <div class="col-lg-4" style="padding-left: 0; padding-right: 0;">
+    <a href="https://www.historypin.org/de/zeit-shift/geo/46.494565,11.347343,17/bounds/46.492353,11.345021,46.496777,11.349665/search/tag:zu lokalizieren,tag:zu taggen/sort/-date_taken/paging/1" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984;">🚀 START!</button></a>
+  </div>
+</div>
 
 
 ### ⌨️ Who killed Ötzi?
