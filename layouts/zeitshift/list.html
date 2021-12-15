@@ -101,7 +101,6 @@
           <a href="https://www.tessmann.it/en/home.html" target="_blank"><img class="mt-2 mb-2" width="250px" height="100%" src="/images/LBT_transparent.png"/></a>
           <a href="https://www.provincia.bz.it/it/default.asp" target="_blank"><img class="mt-2 mb-2" width="200px" height="100%" src="/images/bozen_provinz.png"/></a>
       </div>
-
   </div>
 
 
@@ -148,6 +147,54 @@
 
 {{ define "sidebar-footer" }}
 
+
+
+
+<!--<section class="section section-md mt-1"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <div class="container">
+    <div class="row justify-content-center">
+        
+        <div class="col-md-4 col-xl-4">
+            <div class="card p-3 mb-2" style="padding: 25px;  border: none;">
+                <div class="card-block">
+                    <h4 style="text-align: center;"><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Start date</span></h4>
+                    <h2 style="text-align: center;">11.10.2021</h2>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4 col-xl-4">
+            <div class="card p-3 mb-2" style="padding: 25px; border: none;">
+                <div class="card-block">
+                    <h4 style="text-align: center;"><i class="fa fa-users f-left" style="color: #00A984"></i>&nbsp;<span>Contributors</span></h4>
+                    <h2 style="text-align: center;">26</h2>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4 col-xl-4">
+            <div class="card p-3 mb-2" style="padding: 25px; border: none;">
+                <div class="card-block">
+                    <h4 style="text-align: center;"><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Tagged adverts</span></h4>
+                    <h2 style="text-align: center;">288</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section section-md mt-1">
+  <img src="/images/ZS_mapNarrow.png" width="100%" style="filter: brightness(40%) grayscale(20%);" class="d-block w-100" alt="Historypin map">
+  <div class="carousel-caption d-none d-md-block">
+    <p>Our map of adverts from Tyrolean newspapers</p>
+  </div>
+</section>-->
+
+
+
 <section class="section section-sm mt-1">
   <h2 class="h3 mt-3 text-center">Latest news</h2>
   <div class="container">
@@ -155,6 +202,19 @@
       <div class="col-lg-6">
 
           
+
+          <div class="card">
+            <div class="card-body">
+              <h3><a class="stretched-link text-body" href="{{ "blog/open-research-award-2021" | absLangURL }}">Open Research Award 2021 🏆</a></h3>
+              <p>The Language Technologies team wins an award for open research</p><br />
+              
+              <a href="{{ "blog/open-research-award-2021" | absLangURL }}">Read more...</a><br /><br />
+              <img src="/blog/open-research-award-2021/2021_OpenScienceAward_linguistics.jpg" width="50%" />
+              <p><small>Posted December 15, 2021 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
+            </div>
+          </div>
+
+          <br />
 
 
           <div class="card">
@@ -168,7 +228,7 @@
             </div>
           </div>
 
-          <br />
+          <!--<br />
           
 
           <div class="card">
@@ -182,7 +242,7 @@
             </div>
           </div>
 
-          <!--<br />
+          <br />
 
 
           <div class="card">
@@ -245,6 +305,8 @@
     </div>
   </div>
 </section>
+
+
 
 
 <section class="section section-sm container-fluid mt-4 mb-4">
