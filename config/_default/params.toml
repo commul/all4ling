@@ -1,8 +1,9 @@
 # Meta Data for SEO
 
 ## Homepage
+title = "All4Ling"
 titleSeparator = "-"
-description = "a long description of the project goes here"
+description = "All for Linguistics is an initiative of the Institute of Applied Linguistics of Eurac Research devoted to the development of Citizen Science projects and expertise at the intersection of Computational Linguistics and Digital Humanities."
 
 ## Open Graph + Twitter Cards
 # images = ["doks.png"]
