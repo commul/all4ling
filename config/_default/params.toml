@@ -72,6 +72,7 @@ repoHost = "GitLab"
 docsRepo = "https://gitlab.inf.unibz.it/commul/zeit.shift"
 docsRepoBranch = "master"
 editPage = false
+lastMod = false
 
 [options]
   lazySizes = true
