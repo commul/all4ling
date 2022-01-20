@@ -76,6 +76,10 @@ docsRepoSubPath = ""
 editPage = false
 lastMod = false
 
+
+mainSections = ["docs"]
+
+
 [options]
   lazySizes = true
   clipBoard = false
@@ -88,6 +92,11 @@ lastMod = false
   languageSwitch = true
   highLight = false
   kaTex = false
-  collapsibleSidebar = true
   multilingualMode = false
   docsVersioning = false
+
+[menu]
+
+  [menu.section]
+    auto = false
+    collapsibleSidebar = false
