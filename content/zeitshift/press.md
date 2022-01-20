@@ -10,7 +10,7 @@ menu:
   docs:
     parent: "zeitshift"
 weight: 111
-toc: false
+toc: true
 ---
 
 <!--{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." >}}-->

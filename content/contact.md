@@ -32,5 +32,4 @@ We'd love to hear from you!
 <strong>Greta H. Franzini</strong>, Postdoctoral Researcher<br />
 <strong>Verena Lyding</strong>, Researcher<br />
 <strong>Egon W. Stemle</strong>, Researcher<br />
-<strong>Anna Tramarin</strong>, Intern
 

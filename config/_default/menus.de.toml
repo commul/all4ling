@@ -43,9 +43,16 @@
     project = "only"
 
 [[main]]
+  name = "Links"
+  url = "/links/"
+  weight = 60
+  [main.params]
+    project = "only"
+
+[[main]]
   name = "Kontakt"
   url = "/contact/"
-  weight = 60
+  weight = 70
 
 [[docs]]
 name = "Projekte"
