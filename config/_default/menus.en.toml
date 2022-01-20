@@ -45,8 +45,8 @@
 
 
 [[main]]
-  name = "Links"
-  url = "/links/"
+  name = "Resources"
+  url = "/resources/"
   weight = 60
   [main.params]
     project = "only"
