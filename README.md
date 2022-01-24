@@ -2,15 +2,27 @@
 
 This is a static site using a [Hugo](https://gohugo.io/) template called [Doks](https://getdoks.org/), forked from https://github.com/h-enk/doks.
 
-### Setup
+## Setup
+
+### Locally installed dependencies
 
 1. Install [nodejs](https://nodejs.org/en/download/)
 2. Make sure the installation was successful and npm is available: `node -v && npm -v`
 3. cd to the root of this repository and run `npm install`. This will install Hugo and all the other necessary dependencies.
 
-### Starting the server
+#### Starting the server
 
 `npm run start`
+
+
+### Docker-ized environment
+
+1. Install [docker](https://docs.docker.com/get-docker/)
+2. Install [docker-compose](https://docs.docker.com/compose/install/)
+
+#### Starting the server
+
+`docker-compose up`
 
 
 ### Deploy
