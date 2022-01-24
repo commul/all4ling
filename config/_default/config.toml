@@ -22,15 +22,15 @@ canonifyURLs = true
     title = "All4Ling"
     languageName = "German"
     titleSeparator = "-"
-    titleAddition = "Deutsch"
-    description = ""
+    titleAddition = "Citizen Science bei Eurac Research"
+    description = "All for Linguistics ist eine Initiative des Instituts für Angewandte Linguistik von Eurac Research, die sich der Entwicklung von Citizen Science-Projekten und Fachwissen an der Schnittstelle von Computerlinguistik und Digital Humanities widmet."
     weight = 2
   [languages.en]
     title = "All4Ling"
     languageName = "English"
     titleSeparator = "-"
     titleAddition = "Citizen Science at Eurac Research"
-    description = ""
+    description = "All for Linguistics is an initiative of the Institute of Applied Linguistics of Eurac Research devoted to the development of Citizen Science projects and expertise at the intersection of Computational Linguistics and Digital Humanities."
     weight = 1
   # [languages.it]
   #   title = "All4Ling"

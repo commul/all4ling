@@ -1,9 +1,12 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "All4Ling"
-titleSeparator = "-"
-description = "All for Linguistics is an initiative of the Institute of Applied Linguistics of Eurac Research devoted to the development of Citizen Science projects and expertise at the intersection of Computational Linguistics and Digital Humanities."
+#
+# Define these in _config.toml for each (supported) individual language
+#
+#title = "All4Ling"
+#titleSeparator = "-"
+#description = "All for Linguistics is an initiative of the Institute of Applied Linguistics of Eurac Research devoted to the development of Citizen Science projects and expertise at the intersection of Computational Linguistics and Digital Humanities."
 
 ## Open Graph + Twitter Cards
 # images = ["doks.png"]
