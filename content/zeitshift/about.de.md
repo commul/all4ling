@@ -42,7 +42,31 @@ Hier ist ein Beispiel eines „zugelärmten“ digitalisierten Texts in Zeit.shi
 
 ### Die Zeitungen
 
+#### Zu digitalisieren
+
 Die Tiroler Zeitungen, die wir digitalisieren, befinden sich in den Beständen der Landesbibliothek Teßmann und der Universitätsbibliothek Innsbruck. Dies ist die vollständige Liste der Zeitungen (Titel gekürzt): Innsbrucker Zeitung, Alpenland, Alpenländer Bote, Der Arbeiter, Volksruf, Gardasee-Post, Neueste Zeitung, Neueste Morgenzeitung, Innsbrucker Neueste, Innsbrucker illustrierte neueste Nachrichten, Abendblatt, Innsbrucker Abendblatt, Der Oberländer, Der Südtiroler, Tiroler Bauernzeitung, Tiroler Landbote, Der Landbote, Tiroler Grenzbote, Tiroler Volksblatt, Tiroler Land-Zeitung, Tiroler Gemeindeblatt, Alpenrosen, Oberinntaler Wochenblatt, Neue Inn-Zeitung, Tiroler Post, Die Post, Tiroler Sonntagsbote, Der Tiroler Wastl, Der Widerhall, Tiroler-Vorarlberger Bienen-Zeitung, Tiroler Bienen-Zeitung, Alpenländische Bienenzeitung, Unterinntaler Bote, Haller Wochenblatt, Sterne und Blumen, Volkszeitung Innsbruck, Deutsche Volkszeitung.
+
+
+#### Verfügbar in Historypin
+
+##### Online
+
+- Tiroler Grenzbote, 1923 (1602 Anzeigen)
+- Tiroler-Vorarlberger Bienen-Zeitung, 1924-1925 (54 Anzeigen)
+- Lienzer Zeitung, 1919 (104 Anzeigen)
+- Pustertaler Bote, 1924 (409 Anzeigen)
+- Bozner Nachrichten, Januar-April 1921 (2109 Anzeigen)
+
+##### Demnächst
+
+- Meraner Zeitung, 1920
+- Unterinntaler Bote, 1900  
+- Unterinntaler Bote, 1910
+- Reuttener Nachrichten, 1931
+- Der Oberlander, 1909
+- Haller Gemeindeblatt, 1934
+- Brixner Chronik, 1918
+
 
 
 ### Technische Daten

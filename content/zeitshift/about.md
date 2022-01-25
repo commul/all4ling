@@ -42,7 +42,30 @@ Here is an example of a "noisy" digital text in Zeit.shift:
 
 ### The newspapers
 
+
+#### To be digitised
 The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and Innsbruck University libraries. Here is the complete list (titles shortened): Innsbrucker Zeitung, Alpenland, Alpenländer Bote, Der Arbeiter, Volksruf, Gardasee-Post, Neueste Zeitung, Neueste Morgenzeitung, Innsbrucker Neueste, Innsbrucker illustrierte neueste Nachrichten, Abendblatt, Innsbrucker Abendblatt, Der Oberländer, Der Südtiroler, Tiroler Bauernzeitung, Tiroler Landbote, Der Landbote, Tiroler Grenzbote, Tiroler Volksblatt, Tiroler Land-Zeitung, Tiroler Gemeindeblatt, Alpenrosen, Oberinntaler Wochenblatt, Neue Inn-Zeitung, Tiroler Post, Die Post, Tiroler Sonntagsbote, Der Tiroler Wastl, Der Widerhall, Tiroler-Vorarlberger Bienen-Zeitung, Tiroler Bienen-Zeitung, Alpenländische Bienenzeitung, Unterinntaler Bote, Haller Wochenblatt, Sterne und Blumen, Volkszeitung Innsbruck, Deutsche Volkszeitung.
+
+
+#### Available in Historypin
+
+##### Online
+
+- Tiroler Grenzbote, 1923 (1602 adverts)
+- Tiroler-Vorarlberger Bienen-Zeitung, 1924-1925 (54 adverts)
+- Lienzer Zeitung, 1919 (104 adverts)
+- Pustertaler Bote, 1924 (409 adverts)
+- Bozner Nachrichten, January-April 1921 (2109 adverts)
+
+##### Upcoming
+
+- Meraner Zeitung, 1920
+- Unterinntaler Bote, 1900  
+- Unterinntaler Bote, 1910
+- Reuttener Nachrichten, 1931
+- Der Oberländer, 1909
+- Haller Lokalanzeiger, 1934
+- Brixner Chronik, 1918
 
 
 ### Technical overview
