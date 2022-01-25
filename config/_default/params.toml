@@ -76,10 +76,6 @@ docsRepoSubPath = ""
 editPage = false
 lastMod = false
 
-
-mainSections = ["docs"]
-
-
 [options]
   lazySizes = true
   clipBoard = false
@@ -97,5 +93,6 @@ mainSections = ["docs"]
 
 [menu]
   [menu.section]
-    auto = true
+    auto = false
     collapsibleSidebar = true
+    mainSections = ["docs", "tutorial"]
