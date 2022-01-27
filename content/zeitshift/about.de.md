@@ -51,6 +51,7 @@ Die Tiroler Zeitungen, die wir digitalisieren, befinden sich in den Beständen d
 
 ##### Online
 
+- Meraner Zeitung, 1920 (1897 Anzeigen)
 - Tiroler Grenzbote, 1923 (1602 Anzeigen)
 - Tiroler-Vorarlberger Bienen-Zeitung, 1924-1925 (54 Anzeigen)
 - Lienzer Zeitung, 1919 (104 Anzeigen)
@@ -59,7 +60,6 @@ Die Tiroler Zeitungen, die wir digitalisieren, befinden sich in den Beständen d
 
 ##### Demnächst
 
-- Meraner Zeitung, 1920
 - Unterinntaler Bote, 1900  
 - Unterinntaler Bote, 1910
 - Reuttener Nachrichten, 1931

@@ -51,6 +51,7 @@ The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and
 
 ##### Online
 
+- Meraner Zeitung, 1920 (1897 adverts)
 - Tiroler Grenzbote, 1923 (1602 adverts)
 - Tiroler-Vorarlberger Bienen-Zeitung, 1924-1925 (54 adverts)
 - Lienzer Zeitung, 1919 (104 adverts)
@@ -59,7 +60,7 @@ The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and
 
 ##### Upcoming
 
-- Meraner Zeitung, 1920
+
 - Unterinntaler Bote, 1900  
 - Unterinntaler Bote, 1910
 - Reuttener Nachrichten, 1931
