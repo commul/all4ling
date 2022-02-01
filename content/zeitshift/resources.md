@@ -24,6 +24,7 @@ toc: true
 ### Other links
 
 - Zeit.shift on [eu-citizen.science](https://eu-citizen.science/project/318)
+- Zeit.shift on [Bürger schaffen Wissen](https://www.buergerschaffenwissen.de/projekt/zeitshift-digital-gesterns-zukunft)
 
 <!-- - Zeit.shift on [Citizen science portal](https://www.citizen-science.at/en/projects/how-to-list-a-project)
 - Zeit.shift on [Citizen science portal](https://www.buergerschaffenwissen.de/)-->
