@@ -20,14 +20,15 @@ toc: true
 - Teßmann newspapers on [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers)
 - ULB newspapers on [Austrian Newspapers Online](https://anno.onb.ac.at/)
 - [Zeit.shift MOOC - Digital in gesterns Zukunft](https://imoox.at/mooc/local/landingpage/course.php?shortname=zeitshift&lang=en)
-- ["The History of South Tyrol" e-learning course](https://e-learning.eurac.edu/en/history-of-south-tyrol/#/) by Eurac Research
 
 ### Other links
 
-- Zeit.shift on [eu-citizen.science](https://eu-citizen.science/project/318)
-- Zeit.shift on [Bürger schaffen Wissen](https://www.buergerschaffenwissen.de/projekt/zeitshift-digital-gesterns-zukunft)
+- ["The History of South Tyrol" e-learning course](https://e-learning.eurac.edu/en/history-of-south-tyrol/#/) by Eurac Research
+- [Chronisten.tirol](https://www.chronisten.tirol/)
 
-<!-- - Zeit.shift on [Citizen science portal](https://www.citizen-science.at/en/projects/how-to-list-a-project)
+<!-- - Zeit.shift on [eu-citizen.science](https://eu-citizen.science/project/318)
+- Zeit.shift on [Bürger schaffen Wissen](https://www.buergerschaffenwissen.de/projekt/zeitshift-digital-gesterns-zukunft)
+- Zeit.shift on [Citizen science portal](https://www.citizen-science.at/en/projects/how-to-list-a-project)
 - Zeit.shift on [Citizen science portal](https://www.buergerschaffenwissen.de/)-->
 
 
