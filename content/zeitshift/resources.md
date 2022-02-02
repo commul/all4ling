@@ -19,6 +19,7 @@ toc: true
 
 - Teßmann newspapers on [Europeana Newspapers](https://www.europeana.eu/en/collections/topic/18-newspapers)
 - ULB newspapers on [Austrian Newspapers Online](https://anno.onb.ac.at/)
+- [Zeit.shift MOOC - Digital in gesterns Zukunft](https://imoox.at/mooc/local/landingpage/course.php?shortname=zeitshift&lang=en)
 - ["The History of South Tyrol" e-learning course](https://e-learning.eurac.edu/en/history-of-south-tyrol/#/) by Eurac Research
 
 ### Other links
