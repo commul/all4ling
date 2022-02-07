@@ -29,6 +29,7 @@ Wir freuen uns von dir zu hören!
 ## Team
 
 <strong>Andrea Abel</strong>, Leiterin des Instituts für Angewandte Sprachforschung bei Eurac Research<br />
+<strong>Paolo Brasolin</strong>, Researcher<br />
 <strong>Greta H. Franzini</strong>, PostDoc Researcher<br />
 <strong>Verena Lyding</strong>, Researcher<br />
 <strong>Egon W. Stemle</strong>, Researcher<br />
