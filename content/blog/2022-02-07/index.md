@@ -1,28 +1,26 @@
 ---
-title: "New collection added to Historypin📍"
+title: "CitSci 2022 proposal accepted🎓"
 description: ""
-lead: "Meraner Zeitung, 1920"
-date: 2022-01-27T06:00:42+01:00
-lastmod: 2022-01-27T06:00:42+01:00
+lead: "Engaging Citizen Science Conference 2022"
+date: 2022-02-07T06:00:42+01:00
+lastmod: 2022-02-07T06:00:42+01:00
 draft: false
 weight: 50
 images: []
-article_img: 'MEZ_1920_06_19_0034_Page1_Block20.jpg'
+article_img: 'citsci2022.png'
 contributors: ["Eurac Research"]
 ---
 
-A new collection is now available in Historypin! _Meraner Zeitung_ was published in Meran, South Tyrol, between 1867 and 1926. We have extracted and uploaded some 1900 adverts for you to pin on a map and tag!
+We're delighted to share that our proposal to present a Zeit.shift <strong>demo</strong> at the <a href="https://conferences.au.dk/citsci2022/" target="_blank" title="Opens in new tab">Engaging Citizen Science Conference 2022</a> has been accepted!
 
 
-<br />
+In this demo, which will take place on April 25th in Aarhus, participants will have the chance to explore and engage with the citizen science tasks developed for the project.
+
+The full conference programme is available at: [https://conferences.au.dk/citsci2022/programme/](https://conferences.au.dk/citsci2022/programme/)
 
 
-<p style="text-align: center"><a href="https://www.historypin.org/en/zeit-shift" target="_blank"><button type="button" class="btn btn-success" style="background-color: #00A984;">Start tagging</button></a></p>
-
-
-<br />
 <center>
-  {{< img src="MEZ_1920_06_19_0034_Page1_Block20.jpg" alt="Newspaper image" caption="Picture of Meran from the 18th century, <em>Meraner Zeitung</em>, 19th June 1920. <a href='https://digital.tessmann.it/tessmannDigital/digitisedJournalsArchive/page/journal/1/1/19.06.1920/46890/34' target='_blank'>Teßmann Digital</a>. Image licensed under <a href='http://creativecommons.org/licenses/by/4.0/' target='_blank'>CC BY 4.0</a>">}}
+  {{< img src="citsci2022.png" alt="CitSci 2022 banner">}}
 </center>
  
 
