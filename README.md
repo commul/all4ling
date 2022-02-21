@@ -56,9 +56,15 @@ Nine main reasons why you should use Doks:
 
 ## Requirements
 
-Doks uses npm to centralize dependency management, making it [easy to update](https://getdoks.org/docs/help/how-to-update/) resources, build tooling, plugins, and build scripts:
+- [Git](https://git-scm.com/) — latest source release
+- [Node.js](https://nodejs.org/) — latest LTS version or newer
 
-- Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform.
+<details>
+<summary>Why Node.js?</summary>
+
+Doks uses npm (included with Node.js) to centralize dependency management, making it [easy to update](https://getdoks.org/docs/help/how-to-update/) resources, build tooling, plugins, and build scripts.
+
+</details>
 
 ## Get started
 
