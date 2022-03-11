@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.81.0-ext-ubuntu
+FROM klakegg/hugo:0.93.2-ext-ubuntu
 
 RUN apt-get update && apt-get install -y nodejs
 
