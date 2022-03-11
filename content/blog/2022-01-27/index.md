@@ -1,5 +1,5 @@
 ---
-title: "New collection added to Historypin📍"
+title: "New collection added to Historypin📍 | Meraner Zeitung, 1920"
 description: ""
 lead: "Meraner Zeitung, 1920"
 date: 2022-01-27T06:00:42+01:00
@@ -24,6 +24,3 @@ A new collection is now available in Historypin! _Meraner Zeitung_ was published
 <center>
   {{< img src="MEZ_1920_06_19_0034_Page1_Block20.jpg" alt="Newspaper image" caption="Picture of Meran from the 18th century, <em>Meraner Zeitung</em>, 19th June 1920. <a href='https://digital.tessmann.it/tessmannDigital/digitisedJournalsArchive/page/journal/1/1/19.06.1920/46890/34' target='_blank'>Teßmann Digital</a>. Image licensed under <a href='http://creativecommons.org/licenses/by/4.0/' target='_blank'>CC BY 4.0</a>">}}
 </center>
- 
-
- 

@@ -1,5 +1,5 @@
 ---
-title: "New collection added to Historypin🐝"
+title: "New collection added to Historypin🐝 | Bienen-Zeitung, 1924-1925"
 description: ""
 lead: "Tiroler-Vorarlberger Bienen-Zeitung, 1924-1925"
 date: 2021-11-04T06:00:42+01:00
