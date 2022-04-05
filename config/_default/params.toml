@@ -83,12 +83,11 @@ lastMod = false
   instantPage = false
   flexSearch = false
   darkMode = false
-  bootStrapJs = false
+  bootStrapJs = true
   breadCrumb = true
-  languageSwitch = true
   highLight = false
   kaTex = false
-  multilingualMode = false
+  multilingualMode = true
   docsVersioning = false
   fullWidth = false
 

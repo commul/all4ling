@@ -1,5 +1,7 @@
 ---
 title: "About"
+aliases:
+  - /zeitshift/about/
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -61,7 +63,7 @@ The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and
 ##### Upcoming
 
 
-- Unterinntaler Bote, 1900  
+- Unterinntaler Bote, 1900
 - Unterinntaler Bote, 1910
 - Reuttener Nachrichten, 1931
 - Der Oberländer, 1909
@@ -154,15 +156,3 @@ October 2020 - October 2022
 ### Credits
 
 Zeit.shift sources icons from [Icongeek26](https://www.flaticon.com/authors/icongeek26) and [Freepik](https://www.flaticon.com/authors/freepik) at [Flaticon](www.flaticon.com), and audio files from [Freesound](https://freesound.org/people/Yap_Audio_Production/sounds/218463/).
-
-
-<!--### preview
-
-Build production website including draft and future content:
-
-{{< btn-copy text="npm run build:preview" >}}
-
-```bash
-npm run build:preview
-```
--->

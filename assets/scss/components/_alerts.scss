@@ -28,8 +28,16 @@
   color: $black;
 }
 
+.alert-light .alert-link {
+  color: $black;
+}
+
 .alert-warning {
   background: $gray-200;
+  color: $black;
+}
+
+.alert-warning .alert-link {
   color: $black;
 }
 
@@ -107,6 +115,7 @@
   color: #04414d;
 }
 
+/*
 .alert-warning {
   color: #664d03;
   background-color: #fff3cd;
@@ -116,6 +125,7 @@
 .alert-warning .alert-link {
   color: #523e02;
 }
+*/
 
 .alert-danger {
   color: #842029;
@@ -127,6 +137,7 @@
   color: #6a1a21;
 }
 
+/*
 .alert-light {
   color: #636464;
   background-color: #fefefe;
@@ -136,7 +147,9 @@
 .alert-light .alert-link {
   color: #4f5050;
 }
+*/
 
+/*
 .alert-dark {
   color: #141619;
   background-color: #d3d3d4;
@@ -146,6 +159,7 @@
 .alert-dark .alert-link {
   color: #101214;
 }
+*/
 
 .alert .alert-link:hover,
 .alert .alert-link:focus {

@@ -4,9 +4,11 @@
     <article>
       <h1 class="text-center">Page not found :(</h1>
       <p class="text-center">The page you are looking for doesn't exist or has been moved.</p>
-      
+
       <figure style="text-align: center;">
-        <img src="/images/TIGBO_19230804_0008_Page1_Block7.png" title="Tiroler Grenzbote advert, 4th August 1923"/>
+        {{ with (resources.GetMatch "images/TIGBO_19230804_0008_Page1_Block7.png").Resize "300x" }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" title="Tiroler Grenzbote advert, 4th August 1923" />
+        {{ end }}
         <figcaption style="font-size: 10pt;"><em>Tiroler Grenzbote</em>, 4th August 1923, p. 8<br /><a href="https://digital.tessmann.it/tessmannDigital/digitisedJournalsArchive/page/journal/62987/1/04.08.1923/350653/8" title="Opens in new tab" target="_blank">Teßmann digital</a></figcaption>
     </figure>
     </article>

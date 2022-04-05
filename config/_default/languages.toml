@@ -1,0 +1,36 @@
+[en]
+  languageName = "English"
+  title = "All4Ling"
+  weight = 1
+  [en.params]
+    languageISO = "EN"
+    titleAddition = "Citizen Science @ Eurac Research"
+    description = "'All for Linguistics' is an initiative of the Institute of Applied Linguistics of Eurac Research devoted to the development of Citizen Science projects and expertise at the intersection of Computational Linguistics and Digital Humanities."
+    titleHome = "All4Ling"
+#     footer = ""
+#     alterText = ""
+
+
+[de]
+  languageName = "Deutsch"
+  title = "All4Ling"
+  weight = 2
+  [de.params]
+    languageISO = "DE"
+    titleAddition = "Citizen Science @ Eurac Research"
+    description = "'All for Linguistics' ist eine Initiative des Instituts für Angewandte Linguistik von Eurac Research, die sich der Entwicklung von Citizen Science-Projekten und Fachwissen an der Schnittstelle von Computerlinguistik und Digital Humanities widmet."
+    titleHome = "All4Ling"
+#     footer = ""
+#     alterText = ""
+
+# [it]
+#   title = "All4Ling"
+#   languageName = "Italiano"
+#   weight = 3
+#   [it.params]
+#     languageISO = "NL"
+#     titleAddition = "Citizen Science @ Eurac Research"
+#     description = ""
+#     titleHome = "All4Ling"
+#     footer = ""
+#     alterText = ""

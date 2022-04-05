@@ -6,8 +6,7 @@ date: 2022-03-08T06:00:42+01:00
 lastmod: 2022-03-08T06:00:42+01:00
 draft: false
 weight: 50
-images: []
-article_img: 'orf.png'
+# images: []
 contributors: ["Eurac Research"]
 ---
 
@@ -30,6 +29,4 @@ Enjoy!😊<br /><br />
 
   {{< img src="stadt_schwaz_2.jpg" alt="Photo by Stadt Schwaz" caption="Zeit.shift team members at work. Photo by Stadt Schwaz.">}}.
 </center>
- 
 
- 

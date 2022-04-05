@@ -40,7 +40,7 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 - Grundkenntnisse des Deutschen und ein Grundverständnis von Frakturschrift
 - Ein kostenfreies <a href="https://www.historypin.org" target="_blank">Historypin</a>-Konto
 - Ein Desktopcomputer (die Anwendung is nicht für Mobilgeräte optimiert)
-- [Spezifische Tags]({{< relref path="zeitshift/historypin#32-tags">}}) und/oder Standortinformationen hinzufügen (die Wahl ist frei!)
+- [Spezifische Tags]({{< relref "historypin#32-tags">}}) und/oder Standortinformationen hinzufügen (die Wahl ist frei!)
 
 
 
@@ -51,7 +51,7 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
   </div>
 
   <div class="col-lg-4" style="padding-left:0; padding-right:0;">
-    <a href="{{< relref path="zeitshift/historypin">}}"><button type="button" class="btn btn-success" style="background-color: #00A984;">📃 ANLEITUNG</button></a> 
+    <a href="{{< relref "historypin">}}"><button type="button" class="btn btn-success" style="background-color: #00A984;">📃 ANLEITUNG</button></a>
     <br /><br />
   </div>
 

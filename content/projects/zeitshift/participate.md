@@ -1,5 +1,7 @@
 ---
 title: "Participate"
+aliases:
+  - /zeitshift/participate/
 description: "Zeit.shift"
 lead: ""
 date: 2020-10-06T08:48:57+00:00
@@ -41,7 +43,7 @@ This activity makes use of an existing third-party platform, [Historypin](https:
 - Basic knowledge of German and Fraktur script
 - A free <a href="https://www.historypin.org" target="_blank">Historypin</a> account
 - A desktop computer (activity not designed for mobile devices)
-- To add [specific tags]({{< relref path="zeitshift/historypin#32-tags">}}) and/or location information to the newspaper adverts (the choice is free!)
+- To add [specific tags]({{< relref "historypin#32-tags">}}) and/or location information to the newspaper adverts (the choice is free!)
 
 
 <div class="row justify-content-center text-center">
@@ -51,7 +53,7 @@ This activity makes use of an existing third-party platform, [Historypin](https:
   </div>
 
   <div class="col-lg-4" style="padding-left:0; padding-right:0;">
-    <a href="{{< relref path="zeitshift/historypin">}}"><button type="button" class="btn btn-success" style="background-color: #00A984;">📃 INSTRUCTIONS</button></a> 
+    <a href="{{< relref "historypin">}}"><button type="button" class="btn btn-success" style="background-color: #00A984;">📃 INSTRUCTIONS</button></a>
     <br /><br />
   </div>
 

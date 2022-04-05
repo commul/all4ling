@@ -60,7 +60,7 @@ Die Tiroler Zeitungen, die wir digitalisieren, befinden sich in den Beständen d
 
 ##### Demnächst
 
-- Unterinntaler Bote, 1900  
+- Unterinntaler Bote, 1900
 - Unterinntaler Bote, 1910
 - Reuttener Nachrichten, 1931
 - Der Oberlander, 1909
@@ -158,15 +158,3 @@ Oktober 2020 - Oktober 2022
 ### Danksagungen
 
 Zeit.shift nutzt Icons von [Icongeek26](https://www.flaticon.com/authors/icongeek26) und [Freepik](https://www.flaticon.com/authors/freepik) von [Flaticon](www.flaticon.com), sowie Audiodateien von [Freesound](https://freesound.org/people/Yap_Audio_Production/sounds/218463/).
-
-
-<!--### preview
-
-Build production website including draft and future content:
-
-{{< btn-copy text="npm run build:preview" >}}
-
-```bash
-npm run build:preview
-```
--->

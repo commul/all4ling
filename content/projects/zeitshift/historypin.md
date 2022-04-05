@@ -1,5 +1,7 @@
 ---
 title: "Historypin Instructions"
+aliases:
+  - /zeitshift/historypin/
 description: ""
 lead: "Help us preserve the historical memory of Tyrol!"
 date: 2020-11-16T13:59:39+01:00
@@ -68,7 +70,7 @@ Next, click on the "zu lokalisieren" and "zu taggen" tags to display adverts tha
 <img src="/images/search2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>If clicked, the "zu lokalisieren" and "zu taggen" tags allow you to display only those adverts that still need to be worked on. If clicked, these tags will automatically appear in the search bar</em>.</p>
 
 
-With the "zu lokalisieren" and/or "zu taggen" tags selected, click on an advert of your choice to start working on it. 
+With the "zu lokalisieren" and/or "zu taggen" tags selected, click on an advert of your choice to start working on it.
 
 
 ### 2.1. Suggest a better location

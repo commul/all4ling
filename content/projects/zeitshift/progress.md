@@ -1,5 +1,7 @@
 ---
 title: "Progress"
+aliases:
+  - /zeitshift/progress/
 description: ""
 lead: "Project progress."
 date: 2020-10-13T15:21:01+02:00
@@ -12,9 +14,6 @@ menu:
 weight: 120
 toc: true
 ---
-
-<!--{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." >}}-->
-
 
 - 500,000 pages digitised
 - X minutes spent

@@ -1,6 +1,6 @@
 baseurl = "https://doks.netlify.app/"
 canonifyURLs = false
-disableAliases = true
+disableAliases = false
 disableHugoGeneratorInject = true
 enableEmoji = true
 enableGitInfo = false
@@ -8,38 +8,17 @@ enableRobotsTXT = true
 languageCode = "en-EN"
 paginate = 7
 rssLimit = 5
+
+# Multilingual
 defaultContentLanguage = "en"
-canonifyURLs = true
+disableLanguages = ["de", "it"]
+# defaultContentLanguageInSubdir = true
 
 # custom params
 [params]
   # the config below allows custom top menus on project pages, which are
   # configured in the menu configuration for each language like 'menus.de.toml'
   projects = ["zeitshift"]
-
-
-[languages]
-  [languages.de]
-    title = "All4Ling"
-    languageName = "German"
-    titleSeparator = "-"
-    titleAddition = "Citizen Science bei Eurac Research"
-    description = "All for Linguistics ist eine Initiative des Instituts für Angewandte Linguistik von Eurac Research, die sich der Entwicklung von Citizen Science-Projekten und Fachwissen an der Schnittstelle von Computerlinguistik und Digital Humanities widmet."
-    weight = 2
-  [languages.en]
-    title = "All4Ling"
-    languageName = "English"
-    titleSeparator = "-"
-    titleAddition = "Citizen Science at Eurac Research"
-    description = "All for Linguistics is an initiative of the Institute of Applied Linguistics of Eurac Research devoted to the development of Citizen Science projects and expertise at the intersection of Computational Linguistics and Digital Humanities."
-    weight = 1
-  # [languages.it]
-  #   title = "All4Ling"
-  #   languageName = "Italian"
-  #   titleSeparator = "-"
-  #   titleAddition = "Italiano"
-  #   description = ""
-  #   weight = 3
 
 # add redirects/headers
 [outputs]
@@ -80,29 +59,6 @@ rel  = "sitemap"
     dir = ":cacheDir/:project"
     maxAge = "10s"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      linkify = false
-    [markup.goldmark.parser]
-      autoHeadingID = true
-      autoHeadingIDType = "github"
-      [markup.goldmark.parser.attribute]
-        block = true
-        title = true
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    codeFences = false
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = false
-    style = "dracula"
-    tabWidth = 4
-
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
@@ -113,7 +69,8 @@ rel  = "sitemap"
 
 [permalinks]
   blog = "/blog/:title/"
-# docs = "/docs/1.0/:sections[1:]/:title/"
+#  projects = "/:sections[1:]/:title/"
+#  docs = "/docs/1.0/:sections[1:]/:title/"
 
 [minify.tdewolff.html]
   keepWhitespace = false

@@ -1,5 +1,7 @@
 ---
 title: "Acknowledgements"
+aliases:
+  - /zeitshift/acknowledgements/
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -12,9 +14,6 @@ menu:
 weight: 160
 toc: true
 ---
-
-<!--{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." >}}-->
-
 
 ### Naturmuseum Südtirol
 
