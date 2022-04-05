@@ -9,6 +9,7 @@
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       {{ .Content }}
     </article>
+    {{ partial "main/docs-navigation.html" . }}
   </div>
 </div>
 {{ end }}
