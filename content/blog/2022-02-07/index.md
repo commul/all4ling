@@ -1,5 +1,7 @@
 ---
 title: "CitSci 2022 proposal accepted🎓"
+aliases:
+  - /blog/citsci-2022-proposal-accepted/
 description: ""
 lead: "Engaging Citizen Science Conference 2022"
 date: 2022-02-07T06:00:42+01:00
@@ -22,6 +24,6 @@ The full conference programme is available at: [https://conferences.au.dk/citsci
 <center>
   {{< img src="citsci2022.png" alt="CitSci 2022 banner">}}
 </center>
- 
 
- 
+
+

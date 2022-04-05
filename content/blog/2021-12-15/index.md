@@ -1,5 +1,7 @@
 ---
 title: "Open Research Award 2021 🏆"
+aliases:
+  - /blog/open-research-award-2021/
 description: ""
 lead: "The Language Technologies team wins an award for open research"
 date: 2021-12-15T06:00:42+01:00

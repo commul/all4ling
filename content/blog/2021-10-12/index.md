@@ -1,5 +1,8 @@
 ---
-title: "Zeit.shift - digital in gesterns Zukunft - Mach mit! 🕵🏼‍♀️ "
+title: "Zeit.shift - digital in gesterns Zukunft - Mach mit! 🕵 ♀️ "
+aliases:
+  - /blog/zeit.shift-digital-in-gesterns-zukunft-mach-mit-%EF%B8%8F/
+  - /blog/zeit.shift-digital-in-gesterns-zukunft-mach-mit-/
 description: ""
 lead: "Über die Plattform „Historypin“ sind alle eingeladen, über das Geotagging von historischen Werbeanzeigen die Geschäftsstraßen der eigenen Stadt vor einhundert Jahren virtuell zu rekonstruieren."
 date: 2021-10-12T09:19:42+01:00
@@ -27,7 +30,7 @@ Tauche ein in die Geschäftsstraßen Deiner Stadt vor einhundert Jahren, lerne u
 <strong>Ein Klick auf den Link und Du bist dabei!</strong><br />
 <a href="https://www.historypin.org/de/zeit-shift" target="_blank">https://www.historypin.org/de/zeit-shift</a> <br /><br />
 
-<strong>Eine Video-Einführung findest Du unter</strong><br /> 
+<strong>Eine Video-Einführung findest Du unter</strong><br />
 <a href="https://all4ling.eurac.edu/zeitshift/historypin/tutorial" target="_blank">https://all4ling.eurac.edu/zeitshift/historypin/tutorial</a>
 
 </center>

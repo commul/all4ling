@@ -1,5 +1,7 @@
 ---
 title: "Zeit.shift makes the Austrian news 📺"
+aliases:
+  - /blog/zeit.shift-makes-the-austrian-news/
 description: ""
 lead: "TV and radio interviews for ORF.AT"
 date: 2022-03-08T06:00:42+01:00
