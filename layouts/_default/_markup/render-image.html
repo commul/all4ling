@@ -26,11 +26,13 @@
     <figure class="figure">
       <img class="figure-img img-fluid lazyload blur-up" data-sizes="auto" src="{{ $lqip.Permalink }}" data-srcset="{{ $imgSrcSet }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $.Text }}">
       <noscript><img class="figure-img img-fluid" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.Permalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $.Text }}"></noscript>
-      {{ with $.Title }}<figcaption class="figure-caption">{{ . | safeHTML }}</figcaption>{{ end -}}
+      {{ $caption := "" -}}
+      {{ if $.Title }}{{ $caption = $.Title }}{{ else }}{{ $caption = $.Text }}{{ end }}
+      {{ if and (not (eq $caption "")) (not (eq $caption "_nocaption_")) }}<figcaption class="figure-caption">{{ $caption | safeHTML }}</figcaption>{{ end -}}
     </figure>
   {{ else -}}
     <img class="img-fluid lazyload blur-up" src="{{ $lqip.Permalink }}" data-src="{{ $image.Permalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $.Text }}">
   {{ end -}}
 {{ else -}}
-  {{ erroridf "image-not-found" "Image not found" -}}
+{{ errorf "Image %q not found" .Destination -}}
 {{ end -}}
