@@ -18,6 +18,7 @@ pages:
   - npm install
   - ./page_replication.sh
   - npm run build -- --baseURL ${CI_PAGES_URL}
+  - du -hs public/
 
   artifacts:
     paths:
