@@ -28,7 +28,7 @@
       <noscript><img class="figure-img img-fluid" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.Permalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $.Text }}"></noscript>
       {{ $caption := "" -}}
       {{ if $.Title }}{{ $caption = $.Title }}{{ else }}{{ $caption = $.Text }}{{ end }}
-      {{ if and (not (eq $caption "")) (not (eq $caption "_nocaption_")) }}<figcaption class="figure-caption">{{ $caption | safeHTML }}</figcaption>{{ end -}}
+      {{ if and (not (eq $caption "")) (not (eq $caption "_nocaption_")) }}<figcaption class="figure-caption">{{ $caption | markdownify }}</figcaption>{{ end -}}
     </figure>
   {{ else -}}
     <img class="img-fluid lazyload blur-up" src="{{ $lqip.Permalink }}" data-src="{{ $image.Permalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $.Text }}">
