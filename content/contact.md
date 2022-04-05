@@ -19,8 +19,12 @@ Viale Druso 1<br />
 Italy
 
 <br />
-For questions about the project and help with the tasks, or should you have any suggestions as to additional participatory activities we could run with these historical materials, please drop us an email at:<br /><br /><strong>{{< email user="zeitshift" domain="eurac.edu" >}}</strong>
+For questions about the project and help with the tasks, or should you have any
+suggestions as to additional participatory activities we could run with these
+historical materials, please drop us an email at:
 
+<br /> <br />
+<strong>{{< email user="zeitshift" domain="eurac.edu" >}}</strong>
 
 <br />
 We'd love to hear from you!
@@ -28,9 +32,8 @@ We'd love to hear from you!
 
 ## Team
 
-<strong>Andrea Abel</strong>, Head of the Institute for Applied Linguistics at Eurac Research<br />
-<strong>Paolo Brasolin</strong>, Researcher<br />
-<strong>Greta H. Franzini</strong>, Postdoctoral Researcher<br />
-<strong>Verena Lyding</strong>, Researcher<br />
-<strong>Egon W. Stemle</strong>, Researcher<br />
-
+**Andrea Abel**, Head of the Institute for Applied Linguistics at Eurac Research<br />
+**Paolo Brasolin**, Researcher<br />
+**Greta H. Franzini**, Postdoctoral Researcher<br />
+**Verena Lyding**, Researcher<br />
+**Egon W. Stemle**, Researcher

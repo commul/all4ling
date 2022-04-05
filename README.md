@@ -33,6 +33,7 @@ This will trigger `.gitlab-ci.yml`, which will deploy the website to a [GitLab p
 
 
 ### Why Doks?
+Nine main reasons why you should use Doks:
 
 1. __Security aware__. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/doks.netlify.app) out of the box. Easily change the default Security Headers to suit your needs.
 
@@ -42,7 +43,7 @@ This will trigger `.gitlab-ci.yml`, which will deploy the website to a [GitLab p
 
 4. __Development tools__. Code with confidence. Check styles, scripts, and markdown for errors and fix automatically or manually.
 
-5. __Bootstrap framework__. Build robust, flexible, and intuitive websites with Bootstrap. Or use any other front-end framework if you prefer.
+5. __Bootstrap framework__. Build robust, flexible, and intuitive websites with Bootstrap 5. Easily customize your Doks site with the source Sass files.
 
 6. __Netlify-ready__. Deploy to Netlify with sensible defaults. Easily use Netlify Functions, Netlify Redirects, and Netlify Headers.
 
@@ -52,6 +53,42 @@ This will trigger `.gitlab-ci.yml`, which will deploy the website to a [GitLab p
 
 9. __Dark mode__. Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.
 
+### Other features
+
+- __Multilingual and i18n__ support
+- __Versioning__ documentation support
+- __KaTeX__ math typesetting
+- __Mermaid__ diagrams and visualization
+- __highlight.js__ syntax highlighting
+
+
+## Requirements
+
+- [Git](https://git-scm.com/) — latest source release
+- [Node.js](https://nodejs.org/) — latest LTS version or newer
+
+<details>
+<summary>Why Node.js?</summary>
+
+Doks uses npm (included with Node.js) to centralize dependency management, making it [easy to update](https://getdoks.org/docs/help/how-to-update/) resources, build tooling, plugins, and build scripts.
+
+</details>
+
+## Get started
+
+Start a new Doks project in three steps:
+
+### 1. Install dependencies
+
+```bash
+npm install
+```
+
+### 2. Start development server
+
+```bash
+npm run start
+```
 
 ## Other commands
 
@@ -68,3 +105,30 @@ Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for comm
 - [Netlify Community](https://community.netlify.com/)
 - [Hugo Forums](https://discourse.gohugo.io/)
 - [Doks Discussions](https://github.com/h-enk/doks/discussions)
+
+## Thanks
+
+<a href="https://www.netlify.com/">
+  <img src="https://cdn.netlify.com/15ecf59b59c9d04b88097c6b5d2c7e8a7d1302d0/1b6d6/img/press/logos/full-logo-light.svg" width="110.25" height="30" alt="Netlify Logo">
+</a>
+
+Thanks to [Netlify](https://www.netlify.com/) for providing the hosting infrastructure.
+
+<a href="https://www.algolia.com/">
+  <img src="https://res.cloudinary.com/hilnmyskv/image/upload/q_auto/v1631888269/Algolia_com_Website_assets/images/shared/algolia_logo/logo-algolia-nebula-blue-full.svg" width="97" height="30" alt="Algolia Logo">
+</a>
+
+Thanks to [Algolia](https://www.algolia.com/) for providing the documentation search.
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
+
+[![OC sponsor 0](https://opencollective.com/doks/tiers/sponsor/0/avatar.svg)](https://opencollective.com/doks/tiers/sponsor/0/website)
+[![OC sponsor 1](https://opencollective.com/doks/tiers/sponsor/1/avatar.svg)](https://opencollective.com/doks/tiers/sponsor/1/website)
+
+## Backers
+
+Support this project by becoming a backer. Your avatar will show up here.
+
+[![Backers](https://opencollective.com/doks/tiers/backer.svg)](https://opencollective.com/doks)

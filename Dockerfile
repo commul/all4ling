@@ -1,8 +1,6 @@
-FROM klakegg/hugo:0.81.0-ext-ubuntu
+FROM node:16
 
-RUN apt-get update && apt-get install -y nodejs
-
-WORKDIR /opt
+WORKDIR /src
 # Speed-up next build
 COPY package.json .
 COPY package-lock.json .

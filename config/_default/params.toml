@@ -8,20 +8,37 @@
 #titleSeparator = "-"
 #description = "All for Linguistics is an initiative of the Institute of Applied Linguistics of Eurac Research devoted to the development of Citizen Science projects and expertise at the intersection of Computational Linguistics and Digital Humanities."
 
-## Open Graph + Twitter Cards
+## Documentation
+# docsVersion = "1.0"
+
+## Open Graph
 # images = ["doks.png"]
-# twitterSite = "henkverlinde"
-# twitterCreator = "henkverlinde"
-# facebookAuthor = "verlinde.henk"
-# facebookPublisher = "verlinde.henk"
 # ogLocale = "en_US"
+# domainTLD = "doks.netlify.app"
+# titleHome = "Doks Theme"
+
+## Twitter Cards
+# twitterSite = "@getdoks"
+# twitterCreator = "@henkverlinde"
 
 ## JSON-LD
+# schemaType = "Person"
 # schemaType = "Organization"
+# schemaName = "Doks"
+# schemaAuthor = "Henk Verlinde"
+# schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+# schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+# schemaAuthorGitHub = "https://github.com/h-enk"
+# schemaLocale = "en-US"
 # schemaLogo = "logo-doks.png"
-# schemaTwitter = "https://twitter.com/henkverlinde"
-# schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-# schemaGitHub = "https://github.com/h-enk"
+# schemaLogoWidth = 512
+# schemaLogoHeight = 512
+# schemaImage = "doks.png"
+# schemaImageWidth = 1280
+# schemaImageHeight = 640
+# schemaTwitter = "https://twitter.com/getdoks"
+# schemaLinkedIn = ""
+# schemaGitHub = "https://github.com/h-enk/doks"
 # schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -36,17 +53,28 @@ bgColor = "#fff"
 landscapePhotoWidths = [900, 800, 700, 600, 500]
 portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
+smallLimit = "300"
 
 # Footer
-footer = "Powered by <a href=\"https://gohugo.io/\">Hugo</a> and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+
+# Feed
+# copyRight = "Copyright (c) 2021-2022 Eurac Research, Institute for Applied Linguistics"
 
 # Alert
 alert = false
-# alertText = "Like Doks? <a class=\"alert-link\" href=\"https://github.com/h-enk/doks/stargazers\">Star on GitHub</a>. Thanks!</a>"
+alertDismissable = true
+# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
 
 # Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitLab"
+#repoHost = "Gitea"
 docsRepo = "https://gitlab.inf.unibz.it/commul/zeit.shift"
+docsRepoBranch = "master"
+docsRepoSubPath = ""
 editPage = false
+lastMod = false
 
 [options]
   lazySizes = true
@@ -55,6 +83,15 @@ editPage = false
   instantPage = false
   flexSearch = false
   darkMode = false
-  bootStrapJs = false
+  bootStrapJs = true
   breadCrumb = true
-  languageSwitch = true
+  highLight = false
+  kaTex = false
+  multilingualMode = true
+  docsVersioning = false
+  fullWidth = false
+
+[menu]
+  [menu.section]
+    auto = true
+    collapsibleSidebar = true

@@ -6,8 +6,8 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <!--<a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "about" | absLangURL }}" role="button">{{ i18n "more" }}</a>-->
-      <!--<p class="meta">Open-source AGPL v3 Licensed. <a href="https://github.com/electricblocks/electricblocks">GitHub v{{ .Site.Data.electricblocks.version }}</a></p>-->
+      <!--<a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/" role="button">Get Started</a>-->
+      <!--<p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p>-->
     </div>
   </div>
 </section>
@@ -17,7 +17,7 @@
 <section class="section section-sm">
   <div class="container">
     <div class="row justify-content-center text-center">
-        <p><strong>All for Linguistics</strong> (All4Ling) is an initiative of the <a href="https://www.eurac.edu/en/research/autonomies/commul/Pages/default.aspx" target="_blank" title="Opens in new tab">Institute of Applied Linguistics of Eurac Research</a> devoted to the development of Citizen Science projects and expertise. As the name suggests, All4Ling focuses on linguistics but is becoming increasingly involved in interdisciplinary Digital Humanities research.</p>
+        <p><strong>All for Linguistics</strong> (All4Ling) is an initiative of the <a href="https://www.eurac.edu/linguistics/" target="_blank" title="Opens in new tab">Institute of Applied Linguistics of Eurac Research</a> devoted to the development of Citizen Science projects and expertise. As the name suggests, All4Ling focuses on linguistics but is becoming increasingly involved in interdisciplinary Digital Humanities research.</p>
     </div>
     <br /><br />
     <div class="row justify-content-center text-center">
@@ -79,176 +79,13 @@
   </div>
 </section>
 
-
-<section class="section section-sm mt-1">
-  <h2 class="h3 mt-3 text-center">Latest news</h2>
-  <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-6">
-
-
-          
-          <div class="card">
-            <div class="card-body">
-              <h3><a class="stretched-link text-body" href="{{ "blog/citsci-2022-proposal-accepted" | absLangURL }}">CitSci 2022 proposal accepted🎓</a></h3>
-              <p>Engaging Citizen Science Conference 2022</p><br />
-              
-              <a href="{{ "blog/citsci-2022-proposal-accepted" | absLangURL }}">Read more...</a><br /><br />
-              <img src="/blog/citsci-2022-proposal-accepted/citsci2022.png" width="100%" />
-              <p><small>Posted February 7, 2022 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
-            </div>
-          </div>
-
-          <br />
-
-          <div class="card">
-            <div class="card-body">
-              <h3><a class="stretched-link text-body" href="{{ "blog/2022-01-27/new-collection-added-to-historypin" | absLangURL }}">New collection added to Historypin 📍</a></h3>
-              <p>Meraner Zeitung, 1920</p><br />
-              
-              <a href="{{ "blog/new-collection-added-to-historypin" | absLangURL }}">Read more...</a><br /><br />
-              <img src="/blog/new-collection-added-to-historypin/MEZ_1920_06_19_0034_Page1_Block20.jpg" width="80%" />
-              <p><small>Posted January 27, 2022 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
-            </div>
-          </div>
-
-          <br />
-
-          <div class="card">
-            <div class="card-body">
-              <h3><a class="stretched-link text-body" href="{{ "blog/öcs-2022-proposal-accepted" | absLangURL }}">ÖCS 2022 proposal accepted 🎓</a></h3>
-              <p>7th conference of the Austrian Citizen Science network</p><br />
-              
-              <a href="{{ "blog/öcs-2022-proposal-accepted" | absLangURL }}">Read more...</a><br /><br />
-              <img src="/blog/öcs-2022-proposal-accepted/ocs2022.png" width="80%" />
-              <p><small>Posted January 20, 2022 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
-            </div>
-          </div>
-
-          <!--<br />
-
-          <div class="card">
-            <div class="card-body">
-              <h3><a class="stretched-link text-body" href="{{ "blog/open-research-award-2021" | absLangURL }}">Open Research Award 2021 🏆</a></h3>
-              <p>The Language Technologies team wins an award for open research</p><br />
-              
-              <a href="{{ "blog/open-research-award-2021" | absLangURL }}">Read more...</a><br /><br />
-              <img src="/blog/open-research-award-2021/2021_OpenScienceAward_linguistics.jpg" width="50%" />
-              <p><small>Posted December 15, 2021 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
-            </div>
-          </div>
-
-          <br />
-
-          <div class="card">
-            <div class="card-body">
-              <h3><a class="stretched-link text-body" href="{{ "blog/new-collections-added-to-historypin" | absLangURL }}">New collections added to Historypin📍</a></h3>
-              <p>Lienzer Zeitung, 1919, and Pustertaler Bote, 1924<br /><br />
-              
-              <a href="{{ "blog/new-collections-added-to-historypin" | absLangURL }}">Read more...</a><br /><br />
-              <img src="/blog/new-collections-added-to-historypin/PUB_1924_01_04_0006_Page1_Block12.png" width="50%" />
-              <p><small>Posted December 1, 2021 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
-            </div>
-          </div>
-
-          <br />
-
-          <div class="card">
-            <div class="card-body">
-              <h3><a class="stretched-link text-body" href="{{ "blog/aiucd-2022-proposal-accepted" | absLangURL }}">AIUCD 2022 proposal accepted🎓</a></h3>
-              <p>11th annual conference of the Italian Association of Digital Humanities<br /><br />
-              
-              <a href="{{ "blog/aiucd-2022-proposal-accepted" | absLangURL }}">Read more...</a><br /><br />
-              <img src="/blog/aiucd-2022-proposal-accepted/aiucd2022.jpg" width="50%" />
-              <p><small>Posted November 8, 2021 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
-            </div>
-          </div>
-
-          <br />
-
-          <div class="card">
-            <div class="card-body">
-              <h3><a class="stretched-link text-body" href="{{ "blog/new-collection-added-to-historypin" | absLangURL }}">New collection added to Historypin🐝</a></h3>
-              <p>Tiroler-Vorarlberger Bienen-Zeitung, 1924-1925<br /><br />
-              
-              <a href="{{ "blog/erster-workshop-online" | absLangURL }}">Read more...</a><br /><br />
-              <img src="/blog/new-collection-added-to-historypin/bees2.png" width="50%" />
-              <p><small>Posted November 4, 2021 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
-            </div>
-          </div>
-
-          <br />
-
-          <div class="card">
-            <div class="card-body">
-              <h3><a class="stretched-link text-body" href="{{ "blog/erster-workshop-online" | absLangURL }}">Erster Workshop online</a></h3>
-              <p>Wir laden ganz herzlich zum ersten Workshop am 18.10.2021 ein!<br /><br />
-              
-              <a href="{{ "blog/erster-workshop-online" | absLangURL }}">Read more...</a><br /><br />
-              <img src="/blog/erster-workshop-online/BZN_19210308_07_Page1_Block45.png" width="50%" />
-              <p><small>Posted October 14, 2021 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
-            </div>
-          </div>
-
-          <br />
-
-          <div class="card">
-            <div class="card-body">
-              <h3><a class="stretched-link text-body" href="{{ "blog/zeit.shift-digital-in-gesterns-zukunft-mach-mit-%EF%B8%8F" | absLangURL }}">Zeit.shift - digital in gesterns Zukunft - Mach mit! 🕵🏼‍♀️</a></h3>
-              <p><strong>„Zeit.shift – digital in gesterns Zukunft“</strong> ist der Name eines grenzübergreifenden EU-Projekts zur Bewahrung, Erschließung und Vermittlung des kulturellen Texterbes Gesamttirols, bei dem die Bevölkerung der Europaregion Tirol aktiv zur Mitarbeit eingeladen ist.
-
-              <strong>Was erzählen uns Zeitungen über das Alltagsleben in Tirol vor 100 Jahren?</strong> <br /><br />
-              
-              <a href="{{ "blog/zeit.shift-digital-in-gesterns-zukunft-mach-mit-%EF%B8%8F" | absLangURL }}">Read more...</a><br /><br />
-              <img src="/blog/zeit.shift-digital-in-gesterns-zukunft-mach-mit-%EF%B8%8F/zs_facebook_logo.png" width="80%" />
-              <p><small>Posted October 12, 2021 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
-            </div>
-          </div>
-
-          <br />
-
-          <div class="card">
-            <div class="card-body">
-              <h3><a class="stretched-link text-body" href="{{ "blog/say-hello-to-zeit.shift" | absLangURL }}">Say hello to Zeit.shift 👋</a></h3>
-              <p>Zeit.shift is our new citizen science project devoted to the <strong>preservation, development and communication of the culture and textual heritage of Tyrol</strong>!<br /><br />
-              Can you read <strong>German</strong>? Can you read <strong>Fraktur</strong> script? Wunderbar! Then help us make historical Tyrolean newspapers more searchable and usable!<br /><br />
-              <a href="{{ "blog/say-hello-to-zeit.shift" | absLangURL }}">Read more...</a><br /><br />
-              <img src="/blog/say-hello-to-zeit.shift/zs_profile_pic.png" width="20%" />
-              <p><small>Posted March 28, 2021 by <a class="stretched-link position-relative" href="{{ "contributors/eurac-research" | absLangURL }}">Eurac Research</a></small></p>
-            </div>
-          </div>-->
-      </div>
-
-      <div class="col-lg-6">
-        <p><a class="twitter-timeline"  data-tweet-limit="3" href="https://twitter.com/all4ling?ref_src=twsrc%5Etfw">Tweets by all4ling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!--<section class="section section-sm mt-1">
-  <div class="row justify-content-center text-center">
-    <h2 class="h3 mt-3 text-center">Featured game</h2>
-      <h5><a href="https://all4ling.eurac.edu/docs/zeitshift/citizen-science/#ocr-correction">Who killed Ötzi?</a></h5>
-          <canvas id="canvas" width="512" height="288"></canvas><br />
-          <input id="word-box" name="word" type="text" placeholder="Type..."/>
-          <script crossorigin="anonymous" language="javascript" type="application/javascript"  src="{{ "games/who-killed-oetzi/main.js" | urlize | absURL }}"></script>
-          <script type="text/javascript">
-            main({{ "games/who-killed-oetzi/" | urlize | absURL}});
-          </script>
-          {{ .Content }}
-          <br/><br/>
-        </div>
-
-    </div>
-</section>-->
-
+{{ partial "all4ling/latest-news.html" . }}
 
 <section class="section section-sm container-fluid bg-light">
 <div class="container flex-column">
   <div class="row d-flex justify-content-between align-items-center">
     <div class="col-md-4 col-lg-4 col-xl-4 justify-content-start ">
-      <a href="https://www.eurac.edu/en/pages/default.aspx" target="_blank" title="Opens in new tab"><img src="/images/eurac_logo.png" width="100%"/></a>
+      <a href="https://www.eurac.edu/" target="_blank" title="Opens in new tab"><img src="/images/eurac_logo.png" width="100%"/></a>
     </div>
     <div class="col-md-8 col-lg-8 col-xl-8">
       <div class="card">

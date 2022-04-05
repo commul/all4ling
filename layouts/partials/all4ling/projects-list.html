@@ -1,0 +1,14 @@
+<div class="card-list">
+{{ $currentPage := . -}}
+{{ $section := $currentPage.Section -}}
+{{ range (where .Site.Sections "Section" "in" $section) }}
+  {{ range .Sections.Reverse }}
+  <div class="card">
+    <div class="card-body">
+      <h2 class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></h2>
+      <p>{{ .Params.lead | safeHTML }}</p>
+    </div>
+  </div>
+  {{ end -}}
+{{ end -}}
+</div>

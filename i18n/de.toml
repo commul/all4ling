@@ -7,8 +7,15 @@ other = "Auf dieser Seite"
 [readingTime]
 other = "Lesenzeit"
 
+[latestNews]
+other = "Aktuelles"
+
 [posted]
 other = "Gepostet am"
+
+[blogPost]
+one = "Blog-Beitrag"
+other = "Blog-Beiträge"
 
 [by]
 other = "von"
@@ -37,6 +44,12 @@ other = "Oktober"
 other = "November"
 [December]
 other = "Dezember"
+
+[featuredIn]
+other = "Vorgestellt auf"
+
+[AProjectBy]
+other = "Ein Projekt von"
 
 [CookieNotice]
 other = "🍪 Diese Website verwendet Cookies, um Ihnen die beste Erfahrung auf unserer Website zu ermöglichen."

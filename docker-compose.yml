@@ -1,9 +1,33 @@
-version: "3.4"
-services:
-  server:
+version: "3.9"
+
+x-custom:
+  service: &service
     build:
       context: .
       dockerfile: Dockerfile
+    volumes:
+    - .:/srv
+    working_dir: /srv
+    user: "${COMPOSE_USER:-1000:1000}"
+  service_env: &service_env
+    HOME: /srv
+    command: npx hugo server --port 8081 --verbose
+
+services:
+  server:
+    <<: *service
+    command: npx hugo server --port 8081 --verbose
     ports:
       - 8081:8081
-    command: server --port 8081 --verbose
+    environment:
+      <<: *service_env
+
+  bash:
+    <<: *service
+    entrypoint: /bin/bash
+    ports:
+      - 1313:1313
+    environment:
+      <<: *service_env
+    profiles:
+      - cli
