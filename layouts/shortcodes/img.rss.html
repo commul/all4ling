@@ -1,4 +1,5 @@
-{{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) -}}
+{{ $image := .Page.Resources.GetMatch (printf "*%s*" ($.Get "src")) -}}
+{{ with $image }}
 {{ $lqip := $image.Resize $.Site.Params.lqipWidth -}}
 
 {{ $imgSrc := "" -}}
@@ -16,7 +17,8 @@
 {{ end -}}
 {{ $imgSrcSet = (delimit $imgSrcSet ",") -}}
 
-<figure{{ with .Get "class" }} class="{{.}}"{{ end }}>
-    <img class="img-fluid" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.Permalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}>
-    {{ with .Get "caption" }}<figcaption class="figure-caption">{{ . | safeHTML }}</figcaption>{{ end }}
+<figure{{ with $.Get "class" }} class="{{.}}"{{ end }}>
+    <img class="img-fluid" sizes="100vw" srcset="{{ $imgSrcSet }}" src="{{ $image.Permalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with $.Get "alt" }}alt="{{.}}"{{ end }}>
+    {{ with $.Get "caption" }}<figcaption class="figure-caption">{{ . | safeHTML }}</figcaption>{{ end }}
 </figure>
+{{ end -}}
