@@ -32,7 +32,7 @@ We're developing **interactive applications** designed to help you explore this 
 
 ### 📍 Historypin
 
-<img src="/images/historypin.png" alt="Historypin" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" >Zeit.shift advertisement in Historypin. This image is licensed under <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+{{< figure src="historypin.webp" alt="Historypin" caption="Zeit.shift advertisement in Historypin." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
 
 In this activity, citizens locate and tag historical advertisements published in the newspapers in order to reconstruct the commercial landscape of early 20th century Tyrol. Many shops from those times still exist today!
 
@@ -66,7 +66,7 @@ This activity makes use of an existing third-party platform, [Historypin](https:
 
 ### ⌨️ Who killed Ötzi?
 
-<img src="/images/wko.png" alt="Game preview" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>'Who killed Ötzi?</em> game. This image is licensed under <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+{{< figure src="wko.webp" alt="Game preview" caption="**Who killed Ötzi?** game." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
 
 In this custom game, inspired by [Typespeed](http://typespeed.sourceforge.net/), arrows carrying words in Fraktur script fly from the left to the right of the screen in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are people names extracted from the Tyrolean newspapers. The goal of the game is simple: you must type the names as fast as possible before they reach and kill Ötzi! The more words you type the longer Ötzi lives and the more points you collect. When Ötzi dies, you are shown the original newspaper article from which the killing name (the killer!) was taken, allowing you to explore its context.
 

@@ -38,12 +38,12 @@ Zeit.shift is digitally scanning the newspapers and running the scans through Op
 <br />
 Here is an example of a "noisy" digital text in Zeit.shift:
 
-<img src="/images/exampleOCR_img.png" alt="Example scan" width="100%"/><p style="font-size: 10pt; margin-top: -15px;" xmlns:cc="http://creativecommons.org/ns#" ><em>Tiroler Land-Zeitung, 21st December 1918, p. 8: <strong>Digital scan</strong></em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+{{< figure src="exampleOCR_img.webp" alt="Example scan" caption="Tiroler Land-Zeitung, 21st December 1918, p. 8: **Digital scan**." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
 
-<img src="/images/exampleOCR_transcr.png" alt="Example dirty OCR" width="100%"/><p style="font-size: 10pt; margin-top: -15px;" xmlns:cc="http://creativecommons.org/ns#" ><em>Tiroler Land-Zeitung, 21st December 1918, p. 8: <strong>Noisy OCR</strong> (mistakes in red)</em>. This image is licensed under <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+{{< figure src="exampleOCR_transcr.webp" alt="Example dirty OCR" caption="Tiroler Land-Zeitung, 21st December 1918, p. 8: **Noisy OCR** (mistakes in red)." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
+
 
 ### The newspapers
-
 
 #### To be digitised
 The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and Innsbruck University libraries. Here is the complete list (titles shortened): Innsbrucker Zeitung, Alpenland, Alpenländer Bote, Der Arbeiter, Volksruf, Gardasee-Post, Neueste Zeitung, Neueste Morgenzeitung, Innsbrucker Neueste, Innsbrucker illustrierte neueste Nachrichten, Abendblatt, Innsbrucker Abendblatt, Der Oberländer, Der Südtiroler, Tiroler Bauernzeitung, Tiroler Landbote, Der Landbote, Tiroler Grenzbote, Tiroler Volksblatt, Tiroler Land-Zeitung, Tiroler Gemeindeblatt, Alpenrosen, Oberinntaler Wochenblatt, Neue Inn-Zeitung, Tiroler Post, Die Post, Tiroler Sonntagsbote, Der Tiroler Wastl, Der Widerhall, Tiroler-Vorarlberger Bienen-Zeitung, Tiroler Bienen-Zeitung, Alpenländische Bienenzeitung, Unterinntaler Bote, Haller Wochenblatt, Sterne und Blumen, Volkszeitung Innsbruck, Deutsche Volkszeitung.
@@ -61,7 +61,6 @@ The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and
 - Bozner Nachrichten, January-April 1921 (2109 adverts)
 
 ##### Upcoming
-
 
 - Unterinntaler Bote, 1900
 - Unterinntaler Bote, 1910
@@ -91,10 +90,7 @@ Zeit.shift falls under the [crowdsourcing and distributed intelligence](https://
 The citizen science component of the project focuses on newspaper issues published approximately 100 years ago (1918-1924).
 
 
-
-
 <!--## Natural Language Processing-->
-
 
 ## Project details
 
@@ -103,9 +99,17 @@ The citizen science component of the project focuses on newspaper issues publish
 - Universitäts- und Landesbibliothek Tirol: Silvia Gstrein, Christian Kössler, Barbara Laner, Johanna Walcher
 - Eurac Research: Andrea Abel, Greta Franzini, Verena Lyding, Egon Stemle
 
-<img src="/images/LBT_transparent.png" width="30%" alt="Teßmann logo">&nbsp;&nbsp;&nbsp;
-<img src="/images/innsbruck_logo.png" width="20%" alt="Innsbruck logo">&nbsp;&nbsp;&nbsp;
-<img src="/images/eurac_logo.png" width="15%" alt="Eurac logo">
+<div class="row">
+  <div class="col-sm">
+  {{< figure src="/images/LBT_transparent.png" alt="Teßmann logo" size="x80" >}}
+  </div>
+  <div class="col-sm">
+  {{< figure src="/images/innsbruck_logo.png" alt="Innsbruck logo" size="x70" >}}
+  </div>
+  <div class="col-sm">
+  {{< figure src="/images/eurac_logo.png" alt="Eurac logo" size="x55" >}}
+  </div>
+</div>
 
 ### Associated partners
 - Euregio Tirol-Südtirol-Trentino
@@ -121,14 +125,11 @@ The citizen science component of the project focuses on newspaper issues publish
 - Naturmuseum Südtirol-->
 
 ### Duration
-
-October 2020 - October 2022
+- October 2020 - October 2022
 
 ### Budget
-
-658,000 Euros
-
-[<img src="/images/interreg_logo.png" alt="Logo" width="40%" class="border-0">](https://interreg.eu/programme/interreg-italy-austria/)
+- 658,000 Euros<br />
+  {{< figure src="/images/interreg_logo.png" link="https://interreg.eu/programme/interreg-italy-austria/" alt="Inerreg logo" size="x55" style="margin-top: 0;" >}}
 
 ### Objectives
 

@@ -27,6 +27,6 @@ Enjoy!😊<br /><br />
 
   {{< img src="stadt_schwaz_1.jpg" alt="Photo by Stadt Schwaz" caption="Zeit.shift's citizen science activity projected onto a monitor at Stadtarchiv Schwaz. Photo by Stadt Schwaz.">}}
 
-  {{< img src="stadt_schwaz_2.jpg" alt="Photo by Stadt Schwaz" caption="Zeit.shift team members at work. Photo by Stadt Schwaz.">}}.
+  {{< img src="stadt_schwaz_2.jpg" alt="Photo by Stadt Schwaz" caption="Zeit.shift team members at work. Photo by Stadt Schwaz.">}}
 </center>
 
