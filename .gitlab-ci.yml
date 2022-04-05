@@ -1,28 +1,23 @@
 ---
 image:
-  name: klakegg/hugo:0.81.0-ext-ubuntu
+  name: node:16
   entrypoint: ['']
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 test:
-  before_script:
-    - apt-get update && apt-get install -y nodejs
   script:
   - npm install
-  - hugo version
+  - $(npm bin)/hugo/hugo version
   # except:
   # - master
 
 pages:
-  before_script:
-    - apt-get update && apt-get install -y nodejs
   script:
   - npm install
-  - hugo version
   - ./page_replication.sh
-  - hugo --baseURL ${CI_PAGES_URL}
+  - npm run build -- --baseURL ${CI_PAGES_URL}
 
   artifacts:
     paths:
