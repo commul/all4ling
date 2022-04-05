@@ -27,7 +27,7 @@ Bei Fragen zu den Aktivitäten oder für Kommentare zu dieser Anleitung kontakti
 Öffne einen Internetbrowser (wir empfehlen [Chrome](https://www.google.com/chrome/) oder [Safari](https://www.apple.com/safari/)) und navigiere zu: <a href="https://www.historypin.org/de/zeit-shift" target="_blank">https://www.historypin.org/de/zeit-shift</a>
 
 
-<img src="/images/home.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Landingpage der Zeit.shift-Sammlung in Historypin</em>.</p>
+{{<img src="/images/home.png" alt="Historypin" >}}<p style="font-size: 10pt"><em>Landingpage der Zeit.shift-Sammlung in Historypin</em>.</p>
 
 
 Klicke auf den weißen Pfeil oder scrolle durch die Landingpage, um die Inhalte der Sammlung zu sehen. Diese Galerieansicht listet alle Anzeigen und Unterkollektionen von Zeit.shift. Jede Unterkollektion steht für eine andere Zeitung.
