@@ -111,6 +111,9 @@ nolead: true
       {{< figure src="images/eu-citizen-science_transparent.png" size="150x" link="https://eu-citizen.science/project/318" linktarget="_blank" >}}
     </div>
     <div class="px-2">
+      {{< figure src="images/OEF_CitizenScience_Logo_600px.jpg" size="150x" link="https://www.citizen-science.at/en/" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
       {{< figure src="images/BsW_Logo-WEB_transparent.png" size="150x" link="https://www.buergerschaffenwissen.de/projekt/zeitshift-digital-gesterns-zukunft" linktarget="_blank" >}}
     </div>
     <div class="px-2">

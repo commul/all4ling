@@ -64,11 +64,11 @@ This activity makes use of an existing third-party platform, [Historypin](https:
 
 
 
-### ⌨️ Who killed Ötzi?
+### 🎮 Ötzi game
 
-{{< figure src="wko.webp" alt="Game preview" caption="**Who killed Ötzi?** game." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
+{{< figure src="images/oetzi_game.png" alt="Game preview" caption="Ötzi game." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
 
-In this custom game, inspired by [Typespeed](http://typespeed.sourceforge.net/), arrows carrying words in Fraktur script fly from the left to the right of the screen in the direction of [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/). These words are people names extracted from the Tyrolean newspapers. The goal of the game is simple: you must type the names as fast as possible before they reach and kill Ötzi! The more words you type the longer Ötzi lives and the more points you collect. When Ötzi dies, you are shown the original newspaper article from which the killing name (the killer!) was taken, allowing you to explore its context.
+In this custom game, inspired by [Typespeed](http://typespeed.sourceforge.net/), words automatically extracted from the digitised Tyrolean newspapers drop from the sky. The goal of the game is simple: you must type the words as fast as possible before the animals reach and kill [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/)! Words typed correctly will scare off the animals and prolong Ötzi's life. <!--When Ötzi dies, you are shown the original newspaper article from which the killing name (the killer!) was taken, allowing you to explore its context.-->
 
 **Requirements**:
 

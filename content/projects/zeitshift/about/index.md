@@ -39,7 +39,7 @@ Here is an example of a "noisy" digital text in Zeit.shift:
 
 {{< figure src="exampleOCR_img.webp" alt="Example scan" caption="Tiroler Land-Zeitung, 21st December 1918, p. 8: **Digital scan**." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
 
-{{< figure src="exampleOCR_transcr.webp" alt="Example dirty OCR" caption="Tiroler Land-Zeitung, 21st December 1918, p. 8: **Noisy OCR** (mistakes in red)." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
+{{< figure src="exampleOCR_transcr.webp" alt="Example dirty OCR" width="60%" caption="Tiroler Land-Zeitung, 21st December 1918, p. 8: **Noisy OCR** (mistakes in red)." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
 
 
 ### The newspapers
@@ -52,6 +52,8 @@ The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and
 
 ##### Online
 
+- Unterinntaler Bote, 1900 (113 adverts)
+- Schwazer Lokalanzeiger Kreisblatt, 1928 (203 adverts)
 - Meraner Zeitung, 1920 (1897 adverts)
 - Tiroler Grenzbote, 1923 (1602 adverts)
 - Tiroler-Vorarlberger Bienen-Zeitung, 1924-1925 (54 adverts)
@@ -61,7 +63,7 @@ The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and
 
 ##### Upcoming
 
-- Unterinntaler Bote, 1900
+
 - Unterinntaler Bote, 1910
 - Reuttener Nachrichten, 1931
 - Der Oberländer, 1909
