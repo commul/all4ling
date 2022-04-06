@@ -25,7 +25,7 @@ Enjoy!😊<br /><br />
 <p style="text-align: center"><a href="https://www.historypin.org/en/zeit-shift" target="_blank"><button type="button" class="btn btn-success" style="background-color: #00A984;">Start tagging</button></a></p>
 
 <center>
-  {{< img src="orf.png" alt="orf.at screenshot" caption="Screenshot of the ORF.AT Zeit.shift broadcast.">}}
+  {{< img src="orf.webp" alt="orf.at screenshot" caption="Screenshot of the ORF.AT Zeit.shift broadcast.">}}
 
   {{< img src="stadt_schwaz_1.jpg" alt="Photo by Stadt Schwaz" caption="Zeit.shift's citizen science activity projected onto a monitor at Stadtarchiv Schwaz. Photo by Stadt Schwaz.">}}
 
