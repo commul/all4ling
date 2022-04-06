@@ -32,8 +32,7 @@ Given the large number of newspapers (approx. 500,000 pages), **the more people 
 
 Zeit.shift is digitally scanning the newspapers and running the scans through Optical Character Recognition (OCR). OCR is the automatic conversion of printed text (e.g. an image of a newspaper page) into digital format (e.g. a Word document). This process often introduces errors in the digital text, especially when dealing with historical sources: issues such as faded ink, complex fonts or poor quality scans affect the recognition capabilities of the OCR machine. A digital text containing OCR mistakes is known as “noisy” text. The noisier the text, the harder it is to use and search.
 
-{{< youtube pd1gJoz2lYU >}}
-<p style="font-size: 10pt"><em>A brief introduction to Optical Character Recognition. Source: <a href="https://www.natura.museum/de/" target="_blank" title="Opens in new tab">NewsEye</a>.</em></p>
+{{< youtube pd1gJoz2lYU "A brief introduction to Optical Character Recognition." >}}
 
 <br />
 Here is an example of a "noisy" digital text in Zeit.shift:
