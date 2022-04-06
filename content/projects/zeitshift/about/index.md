@@ -52,7 +52,7 @@ The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and
 
 ##### Online
 
-- Unterinntaler Bote, 1900 (113 adverts)
+- Unterinntaler Bote, 1900 (110 adverts)
 - Schwazer Lokalanzeiger Kreisblatt, 1928 (203 adverts)
 - Meraner Zeitung, 1920 (1897 adverts)
 - Tiroler Grenzbote, 1923 (1602 adverts)

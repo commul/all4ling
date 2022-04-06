@@ -19,7 +19,7 @@ Check out our [previous blogpost](https://all4ling.eurac.edu/blog/2022-03-08/zei
 <br />
 
 
-<p style="text-align: center"><a href="https://www.historypin.org/en/zeit-shift/schwazer-lokalanzeiger-kreisblatt-1928/geo/47.34841,11.707729,14/bounds/47.323223,11.681722,47.373585,11.733736/paging/5" target="_blank"><button type="button" class="btn btn-success" style="background-color: #00A984;">Start tagging!</button></a></p>
+<p style="text-align: center"><a href="https://www.historypin.org/en/zeit-shift/schwazer-lokalanzeiger-kreisblatt-1928/geo/47.34841,11.707729,14/bounds/47.323223,11.681722,47.373585,11.733736/paging/1" target="_blank"><button type="button" class="btn btn-success" style="background-color: #00A984;">Start tagging!</button></a></p>
 
 
 <br /><br />

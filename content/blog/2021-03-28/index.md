@@ -3,7 +3,7 @@ title: "Say hello to Zeit.shift 👋"
 aliases:
   - /blog/say-hello-to-zeit.shift/
 description: ""
-lead: "Introducing Zeit.shift: Historical newspapers and citizen science!"
+lead: "Introducing Zeit.shift: Historical newspapers and citizen science! Zeit.shift is devoted to the..."
 date: 2021-10-11T09:19:42+01:00
 lastmod: 2021-10-11T10:19:42+01:00
 draft: false

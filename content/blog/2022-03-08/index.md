@@ -3,7 +3,7 @@ title: "Zeit.shift makes the Austrian news 📺"
 aliases:
   - /blog/zeit.shift-makes-the-austrian-news/
 description: ""
-lead: "TV and radio interviews for ORF.AT"
+lead: "We're proud to share that ORF.at, the Austrian national public service broadcaster, has featured Zeit.shift..."
 date: 2022-03-08T06:00:42+01:00
 lastmod: 2022-03-08T06:00:42+01:00
 draft: false

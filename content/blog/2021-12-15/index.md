@@ -3,7 +3,7 @@ title: "Open Research Award 2021 🏆"
 aliases:
   - /blog/open-research-award-2021/
 description: ""
-lead: "The Language Technologies team wins an award for open research"
+lead: "We're thrilled to share that we've been awared the Eurac Research Open Research Award 2021!"
 date: 2021-12-15T06:00:42+01:00
 lastmod: 2021-12-15T06:00:42+01:00
 draft: false
@@ -13,7 +13,7 @@ article_img: '2021_OpenScienceAward_linguistics.jpg'
 contributors: ["Eurac Research"]
 ---
 
-We're delighted to share that we've been awarded the Eurac Research Open Research Award 2021!
+We're thrilled to share that we've been awarded the Eurac Research Open Research Award 2021!
 
 The award recognises researchers at Eurac Research who most actively engage in open science, making research more collaborative and facilitating the free sharing of results. Our work stood out because of our wide adoption of open research practices --ranging from open access scientific publications to open data, tools and infrastructures-- and citizen science (including <strong>Zeit.shift</strong>!) for the preservation and dissemination of local resources and knowledge.
 

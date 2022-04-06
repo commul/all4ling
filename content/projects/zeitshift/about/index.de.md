@@ -51,6 +51,8 @@ Die Tiroler Zeitungen, die wir digitalisieren, befinden sich in den Beständen d
 
 ##### Online
 
+- Unterinntaler Bote, 1900 (110 Anzeigen)
+- Schwazer Lokalanzeiger Kreisblatt, 1928 (203 Anzeigen)
 - Meraner Zeitung, 1920 (1897 Anzeigen)
 - Tiroler Grenzbote, 1923 (1602 Anzeigen)
 - Tiroler-Vorarlberger Bienen-Zeitung, 1924-1925 (54 Anzeigen)

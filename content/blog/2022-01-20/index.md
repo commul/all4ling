@@ -3,7 +3,7 @@ title: "ÖCS 2022 proposal accepted🎓"
 aliases:
   - /blog/öcs-2022-proposal-accepted/
 description: ""
-lead: "7th conference of the Austrian Citizen Science network"
+lead: "We're delighted to share that our proposal to present a research poster on Zeit.shift at the 7th conference of the Austrian..."
 date: 2022-01-20T06:00:42+01:00
 lastmod: 2022-01-20T06:00:42+01:00
 draft: false

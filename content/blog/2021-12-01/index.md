@@ -1,7 +1,7 @@
 ---
 title: "New collections added to Historypin📍"
 description: ""
-lead: "Lienzer Zeitung, 1919, and Pustertaler Bote, 1924"
+lead: "Two new collections are now available in Historypin! The Lienzer Zeitung issues from 1919 and the..."
 date: 2021-12-01T06:00:42+01:00
 lastmod: 2021-12-01T06:00:42+01:00
 draft: false

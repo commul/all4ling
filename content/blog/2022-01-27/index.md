@@ -1,7 +1,7 @@
 ---
 title: "New collection added to Historypin📍"
 description: ""
-lead: "Meraner Zeitung, 1920"
+lead: "A new collection is now available on Historypin! Meraner Zeitung was published in Meran, South Tyrol, between 1867..."
 date: 2022-01-27T06:00:42+01:00
 lastmod: 2022-01-27T06:00:42+01:00
 draft: false
