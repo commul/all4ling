@@ -22,6 +22,10 @@
     titleHome = "All4Ling"
 #     footer = ""
 #     alterText = ""
+  [de.permalinks]
+    blog = "/blog/:year-:month-:day/:title/"
+    projects = "/projekte/:sections[1:]/:title/"
+
 
 # [it]
 #   title = "All4Ling"
