@@ -82,7 +82,7 @@ Zeit.shift falls under the [crowdsourcing and distributed intelligence](https://
 - Task type: macrotask
 - Purpose: geo- and semantic tagging of adverts, collect additional expert knowledge from the public, foster [remix culture](https://en.wikipedia.org/wiki/Remix_culture)
 
-**Who killed Ötzi?**
+**Ötzi game**
 - Task type: microtask
 - Purpose: correct the OCR of individual words
 

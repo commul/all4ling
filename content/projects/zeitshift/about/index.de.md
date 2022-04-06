@@ -84,7 +84,7 @@ Zeit.shift lässt sich innerhalb der Typologie von Citizen Science Projekten ([H
 - Aufgabentyp: Macroaufgabe
 - Zweck: Ortstagging und semantisches Tagging von Anzeigen, Sammlung von zusätzlichem Expertenwissen von der Bevölkerung, Förderung von [Remix Culture](https://en.wikipedia.org/wiki/Remix_culture)
 
-**Wer hat Ötzi umgebracht?**
+**Ötzi game**
 - Aufgabentyp: Microaufgabe
 - Zweck: Korrektur von OCR für einzelne Wörter
 

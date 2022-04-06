@@ -82,7 +82,7 @@ nolead: true
   <div class="col-sm">
     <div class="card-block">
       <h4><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Tagged adverts</span></h4>
-      <h2>257</h2>
+      <h2>286</h2>
     </div>
   </div>
 </div>
