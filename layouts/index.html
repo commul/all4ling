@@ -84,10 +84,10 @@
 <section class="section section-sm container-fluid bg-light">
 <div class="container flex-column">
   <div class="row d-flex justify-content-between align-items-center">
-    <div class="col-md-4 col-lg-4 col-xl-4 justify-content-start ">
-      <a href="https://www.eurac.edu/" target="_blank" title="Opens in new tab"><img src="/images/eurac_logo.png" width="100%"/></a>
+    <div class="col-sm text-center">
+      <a href="https://www.eurac.edu/" target="_blank" title="Opens in new tab">{{ $image := (resources.GetMatch "/images/eurac_logo.png").Resize "170x" }}<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="Eurac Research logo" /></a>
     </div>
-    <div class="col-md-8 col-lg-8 col-xl-8">
+    <div class="col-sm">
       <div class="card">
         <div class="container card-body">
           <!--https://follow.it/all4ling?action=followPub1-->
