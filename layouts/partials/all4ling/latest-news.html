@@ -3,25 +3,7 @@
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-lg-6 blog list">
-        {{- $postsLen := len (first 3 (where .Site.Pages.ByDate.Reverse "Section" "blog")) -}}
-        <h4 class="text-center">{{ T "blogPost" $postsLen }}</h4>
-        <div class="card-list">
-          {{ range first 3 (where .Site.Pages.ByDate.Reverse "Section" "blog") -}}
-            <div class="card">
-              <div class="card-body">
-                <div class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></div>
-                <p>{{ .Params.lead | safeHTML }}</p>
-                {{ with .Resources.ByType "image" -}}
-                  {{ range first 1 . -}}
-                  {{ $lqip := .Resize "150x" -}}
-                  <img class="img-fluid lazyload blur-up" src="{{ $lqip.Permalink }}" width="{{ $lqip.Width }}" height="{{ $lqip.Height }}" />
-                  {{ end -}}
-                {{ end -}}
-                {{ partial "main/blog-meta.html" . -}}
-              </div>
-            </div>
-          {{ end -}}
-        </div>
+      {{ partial "all4ling/latestblogposts.html" . }}
       </div>
       <div class="col-lg-6">
         <p><a class="twitter-timeline" data-tweet-limit="2" href="https://twitter.com/all4ling?ref_src=twsrc%5Etfw">Tweets by all4ling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>

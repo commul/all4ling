@@ -1,0 +1,18 @@
+<div class="card-list">
+  {{- $postsLen := len (first 3 (where .Site.Pages.ByDate.Reverse "Section" "blog")) -}}
+  {{ range first 3 (where .Site.Pages.ByDate.Reverse "Section" "blog") -}}
+    <div class="card">
+      <div class="card-body">
+        <div class="h3"><a class="stretched-link text-body" href="{{ .RelPermalink }}">{{ .Params.title }}</a></div>
+        <p>{{ .Params.lead | safeHTML }}</p>
+        {{ with .Resources.ByType "image" -}}
+          {{ range first 1 . -}}
+          {{ $lqip := .Resize "150x" -}}
+          <img class="img-fluid lazyload blur-up" src="{{ $lqip.Permalink }}" width="{{ $lqip.Width }}" height="{{ $lqip.Height }}" />
+          {{ end -}}
+        {{ end -}}
+        {{ partial "main/blog-meta.html" . -}}
+      </div>
+    </div>
+  {{ end -}}
+</div>
