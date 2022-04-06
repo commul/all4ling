@@ -11,7 +11,7 @@ rssLimit = 5
 
 # Multilingual
 defaultContentLanguage = "en"
-disableLanguages = ["de", "it"]
+disableLanguages = ["it"]
 # defaultContentLanguageInSubdir = true
 
 # custom params
