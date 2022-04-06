@@ -13,7 +13,7 @@ contributors: ["Eurac Research"]
 
 A new collection of 203 historical advertisements from the _Schwazer Lokalanzeiger Kreisblatt_ newspaper is now available in Historypin! This newspaper was published in Schwaz, North Tyrol, between 1927 and 1938 and the adverts you'll find online were extracted from the 1928 issue.
 
-Check out our [previous blogpost](LINK) for some recent radio and TV coverage of Zeit.shift in Schwaz!
+Check out our [previous blogpost](https://all4ling.eurac.edu/blog/2022-03-08/zeit.shift-makes-the-austrian-news/) for some recent radio and TV coverage of Zeit.shift in Schwaz!
 
 
 <br />
