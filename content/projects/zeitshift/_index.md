@@ -10,11 +10,14 @@ draft: false
 images: []
 toc: false
 layout: single
+breadCrumb: false
+notitle: true
+nolead: true
 ---
-
+<center>
 <div class="row justify-content-center text-center">
   <div class="col-sm">
-  {{< figure src="/images/LBT_zeitshift_facebook_cover_photo_820x360.png" size="x100" >}}
+  {{< figure src="/images/LBT_zeitshift_facebook_cover_photo_820x360.png" size="x175" >}}
 
   A citizen humanities project for the preservation, development and
   communication of the cultural and textual heritage of the historical region
@@ -24,6 +27,8 @@ layout: single
   {{< youtube "Yv_vSB1Qogs" "Zeit.shift @ Historypin" >}}
   </div>
 </div>
+
+<br />
 
 #### 📍 Help us locate and tag historical advertisements!
 
@@ -38,7 +43,7 @@ layout: single
 
 
 <br /> <br />
-## A project by
+# A project by
 
 <div class="container px-0">
   <div class="d-flex flex-wrap align-self-center justify-content-center">
@@ -80,7 +85,7 @@ layout: single
 
 
 <br /> <br />
-## Latest news
+# Latest news
 
 
 <div class="row justify-content-center text-center">
@@ -94,7 +99,7 @@ layout: single
 
 
 <br /> <br />
-## Featured in
+# Featured in
 
 <div class="container px-0">
   <div class="d-flex flex-wrap align-self-center justify-content-center">
@@ -156,3 +161,4 @@ layout: single
   </div>
   </div>
 </div>
+</center>

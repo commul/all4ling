@@ -24,8 +24,12 @@
 					</ol>
 				</nav>
 			{{ end }}
+		  {{ if ne .Params.notitle true -}}
 			<h1>{{ .Title }}</h1>
+      {{ end }}
+		  {{ if ne .Params.nolead true -}}
 			<p class="lead">{{ .Params.lead | safeHTML }}</p>
+      {{ end }}
 			{{ if ne .Params.toc false -}}
 			<nav class="d-xl-none" aria-label="Quaternary navigation">
 				{{ partial "sidebar/docs-toc.html" . }}
