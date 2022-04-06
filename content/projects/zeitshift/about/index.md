@@ -104,10 +104,10 @@ The citizen science component of the project focuses on newspaper issues publish
   {{< figure src="/images/LBT_transparent.png" alt="Teßmann logo" size="x80" >}}
   </div>
   <div class="col-sm">
-  {{< figure src="/images/innsbruck_logo.png" alt="Innsbruck logo" size="x70" >}}
+  {{< figure src="/images/innsbruck_logo.png" alt="Uni Innsbruck logo" size="x70" >}}
   </div>
   <div class="col-sm">
-  {{< figure src="/images/eurac_logo.png" alt="Eurac logo" size="x55" >}}
+  {{< figure src="/images/eurac_logo.png" alt="Eurac Research logo" size="x55" >}}
   </div>
 </div>
 
