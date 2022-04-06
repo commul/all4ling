@@ -54,7 +54,7 @@ nolead: true
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <div class="col-sm">
     <div class="card-block">
-      <h4><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Start date</span></h4>
+      <h4><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Project start date</span></h4>
       <h2>11.10.2021</h2>
     </div>
   </div>
@@ -67,7 +67,7 @@ nolead: true
 </div>
 
 
-<br /><br /><br />
+<br />
 # A project by
 
 <div class="container px-0">
