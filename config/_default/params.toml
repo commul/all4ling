@@ -89,7 +89,7 @@ lastMod = false
   kaTex = false
   multilingualMode = true
   docsVersioning = false
-  fullWidth = false
+  fullWidth = true
 
 [menu]
   [menu.section]
