@@ -54,14 +54,12 @@ nolead: true
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <div class="col-sm">
     <div class="card-block">
-      <h4><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Project start date</span></h4>
-      <h2>11.10.2021</h2>
+      <h4><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Start date: 11.10.2021</span></h4>
     </div>
   </div>
   <div class="col-sm">
     <div class="card-block">
-      <h4><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Tagged adverts</span></h4>
-      <h2>286</h2>
+      <h4><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Tagged adverts: 286</span></h4>
     </div>
   </div>
 </div>
