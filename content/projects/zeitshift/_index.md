@@ -110,38 +110,38 @@ nolead: true
 # Featured in
 
 <div class="container px-0">
-  <div class="d-flex flex-wrap align-self-center justify-content-center">
-    <div class="px-2">
+  <div class="d-flex flex-wrap justify-content-center">
+    <div class="px-2 align-self-center">
       {{< figure src="images/eu-citizen-science_transparent.png" size="150x" link="https://eu-citizen.science/project/318" linktarget="_blank" >}}
     </div>
-    <div class="px-2">
+    <div class="px-2 align-self-center">
       {{< figure src="images/OEF_CitizenScience_Logo_600px.png" size="180x" link="https://www.citizen-science.at/en/" linktarget="_blank" >}}
     </div>
-    <div class="px-2">
+    <div class="px-2 align-self-center">
       {{< figure src="images/BsW_Logo-WEB_transparent.png" size="150x" link="https://www.buergerschaffenwissen.de/projekt/zeitshift-digital-gesterns-zukunft" linktarget="_blank" >}}
     </div>
-    <div class="px-2">
+    <div class="px-2 align-self-center">
       {{< figure src="images/MV_logo.png" size="150x" link="https://museumsverband.it/de/digital-in-gesterns-zukunft/" linktarget="_blank" >}}
     </div>
-    <div class="px-2">
+    <div class="px-2 align-self-center">
       {{< figure src="images/suedtiroler-kulturinstitut.png" size="150x" link="https://kulturinstitut.org/alle-veranstaltungen/detail/events/Interreg-Projekt%20%E2%80%9EZeit.shift%E2%80%9C.html" linktarget="_blank" >}}
     </div>
-    <div class="px-2">
+    <div class="px-2 align-self-center">
       {{< figure src="images/BVS-Logo-Deutsch.png" size="150x" link="https://www.bvs.bz.it/news/zeitshift-digital-gesterns-zukunft" linktarget="_blank" >}}
     </div>
-    <div class="px-2">
+    <div class="px-2 align-self-center">
       {{< figure src="images/tiroler_landesmuseen.png" size="150x" link="https://www.tiroler-landesmuseen.at/blog_bib_zeit-shift-digital-in-gesterns-zukunft/" linktarget="_blank" >}}
     </div>
-    <div class="px-2">
+    <div class="px-2 align-self-center">
       {{< figure src="images/Logo_Die_Neue_Suedtiroler_Tageszeitung.png" size="150x" link="https://www.tageszeitung.it/2021/11/06/zeit-shift/" linktarget="_blank" >}}
     </div>
-    <div class="px-2">
+    <div class="px-2 align-self-center">
       {{< figure src="images/Titelblatt_Tiroler_Chronist.png" size="150x" link="https://www.chronisten.tirol/" linktarget="_blank" >}}
     </div>
-    <div class="px-2">
+    <div class="px-2 align-self-center">
       {{< figure src="images/stol-logo.jpg" size="150x" link="https://www.stol.it/artikel/kultur/zeitshift-digital-in-gesterns-zukunft" linktarget="_blank" >}}
     </div>
-    <div class="px-2">
+    <div class="px-2 align-self-center">
       {{< figure src="images/clio-online.png" size="150x" link="http://www.clio-online.de/webresource/id/webresource-75624?title=zeit-shift-digital-in-gesterns-zukunft&recno=2&q=&sort=&fq=&total=10584" linktarget="_blank" >}}
     </div>
   </div>
