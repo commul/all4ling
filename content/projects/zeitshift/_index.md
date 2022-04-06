@@ -46,7 +46,7 @@ nolead: true
 </div>
 
 
-<br /> <br />
+<br /><br /><br />
 # A project by
 
 <div class="container px-0">
@@ -69,7 +69,7 @@ nolead: true
   </div>
 </div>
 
-<br />
+<br /><br />
 
 <div class="row justify-content-center text-center">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -88,7 +88,7 @@ nolead: true
 </div>
 
 
-<br /> <br />
+<br /> <br /><br />
 # Latest news
 
 
