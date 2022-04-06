@@ -38,10 +38,31 @@ nolead: true
 
 <div class="row justify-content-center text-center">
   <div class="col-sm">
+  </div>
+  <div class="col-sm">
     <a href="https://www.historypin.org/en/zeit-shift/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
   </div>
   <div class="col-sm">
     <a href="https://all4ling.eurac.edu/zeitshift/historypin/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">📃&nbsp;INSTRUCTIONS</button></a>
+  </div>
+  <div class="col-sm">
+  </div>
+</div>
+<br />
+
+<div class="row justify-content-center text-center">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <div class="col-sm">
+    <div class="card-block">
+      <h4><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Start date</span></h4>
+      <h2>11.10.2021</h2>
+    </div>
+  </div>
+  <div class="col-sm">
+    <div class="card-block">
+      <h4><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Tagged adverts</span></h4>
+      <h2>286</h2>
+    </div>
   </div>
 </div>
 
@@ -69,23 +90,6 @@ nolead: true
   </div>
 </div>
 
-<br /><br />
-
-<div class="row justify-content-center text-center">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <div class="col-sm">
-    <div class="card-block">
-      <h4><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Start date</span></h4>
-      <h2>11.10.2021</h2>
-    </div>
-  </div>
-  <div class="col-sm">
-    <div class="card-block">
-      <h4><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Tagged adverts</span></h4>
-      <h2>286</h2>
-    </div>
-  </div>
-</div>
 
 
 <br /> <br /><br />
