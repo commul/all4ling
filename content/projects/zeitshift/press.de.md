@@ -1,5 +1,7 @@
 ---
 title: "Presse"
+aliases:
+  - /de/zeitshift/presse/
 description: "Zeit.shift"
 lead: ""
 date: 2021-11-20T15:21:01+02:00
@@ -7,10 +9,10 @@ lastmod: 2021-11-20T15:21:01+02:00
 draft: false
 images: []
 menu:
-  docs:
+  projects:
     parent: "zeitshift"
 weight: 111
-toc: false
+toc: true
 ---
 
 <!--{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." >}}-->

@@ -1,5 +1,8 @@
 ---
 title: "Über"
+aliases:
+  - /zeitshift/ueber/
+  - /zeitshift/über/
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -7,9 +10,9 @@ lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
-  docs:
+  projects:
     parent: "zeitshift"
-weight: 10
+weight: 9
 toc: true
 ---
 

@@ -1,5 +1,8 @@
 ---
 title: "Teilnehmen"
+
+
+
 description: "Zeit.shift"
 lead: ""
 date: 2020-10-06T08:48:57+00:00
@@ -7,12 +10,12 @@ lastmod: 2020-10-06T08:48:57+00:00
 draft: false
 images: []
 menu:
-  docs:
+  projects:
     parent: "zeitshift"
 weight: 10
 toc: true
-title_font: "grenze"
 ---
+
 
 ## Wie kann ich mitwirken?
 

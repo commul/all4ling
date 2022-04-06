@@ -1,11 +1,17 @@
 ---
-title: "Ressourcen"
+title: "Resourcen"
+aliases:
+  - /de/zeitshift/resourcen/
 description: "Zeit.shift"
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
+menu:
+  projects:
+    parent: "zeitshift"
+weight: 140
 toc: true
 ---
 
