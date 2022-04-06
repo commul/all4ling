@@ -9,7 +9,7 @@ lastmod: 2021-11-20T15:21:01+02:00
 draft: false
 images: []
 menu:
-  docs:
+  projects:
     parent: "zeitshift"
 weight: 111
 toc: true

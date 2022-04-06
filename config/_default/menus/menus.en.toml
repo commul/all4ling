@@ -57,17 +57,17 @@
   url = "/contact/"
   weight = 70
 
-[[docs]]
-name = "Projects"
-weight = 1
-identifier = "projects"
-url = "/projects/"
+#[[projects]]
+#name = "Projects"
+#weight = 1
+#identifier = "projects"
+#url = "/projects/"
 
-[[docs]]
+[[projects]]
 name = "Zeit.shift"
 weight = 10
 identifier = "zeitshift"
-url = "/zeitshift/"
+url = "/projects/zeitshift/"
 
 [[social]]
   name = "Twitter"
