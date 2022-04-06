@@ -38,9 +38,9 @@ Zeit.shift is digitally scanning the newspapers and running the scans through Op
 <br />
 Here is an example of a "noisy" digital text in Zeit.shift:
 
-{{< figure src="exampleOCR_img.webp" alt="Example scan" caption="Tiroler Land-Zeitung, 21st December 1918, p. 8: **Digital scan**." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
+{{< figure src="exampleOCR_img.webp" size="640x" alt="Example scan" caption="Tiroler Land-Zeitung, 21st December 1918, p. 8: **Digital scan**." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
 
-{{< figure src="exampleOCR_transcr.webp" alt="Example dirty OCR" width="60%" caption="Tiroler Land-Zeitung, 21st December 1918, p. 8: **Noisy OCR** (mistakes in red)." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
+{{< figure src="exampleOCR_transcr.webp" size="640x" alt="Example dirty OCR" width="60%" caption="Tiroler Land-Zeitung, 21st December 1918, p. 8: **Noisy OCR** (mistakes in red)." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
 
 
 ### The newspapers

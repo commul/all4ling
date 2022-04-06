@@ -37,9 +37,9 @@ In Zeit.shift werden die Zeitungen gescannt und mithilfe optischer Zeichenerkenn
 <br />
 Hier ist ein Beispiel eines „zugelärmten“ digitalisierten Texts in Zeit.shift:
 
-{{< figure src="exampleOCR_img.webp" alt="Example scan" caption="Tiroler Land-Zeitung, 21.Dezember 1918, p. 8: **Digitaler Scan**." attr="Dieses Bild ist lizensiert unter CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
+{{< figure src="exampleOCR_img.webp" size="640x" alt="Example scan" caption="Tiroler Land-Zeitung, 21.Dezember 1918, p. 8: **Digitaler Scan**." attr="Dieses Bild ist lizensiert unter CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
 
-{{< figure src="exampleOCR_transcr.webp" alt="Beispielhafte schlechte OCR" caption="Tiroler Land-Zeitung, 21.Dezember 1918, p. 8: **Schlechte OCR** (Fehler in rot)." attr="Dieses Bild is lizensiert unter CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
+{{< figure src="exampleOCR_transcr.webp" size="640x" alt="Beispielhafte schlechte OCR" caption="Tiroler Land-Zeitung, 21.Dezember 1918, p. 8: **Schlechte OCR** (Fehler in rot)." attr="Dieses Bild is lizensiert unter CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
 
 
 ### Die Zeitungen
