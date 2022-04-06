@@ -1,7 +1,7 @@
 ---
 title: "Schwazer Lokalanzeiger adverts added to Historypin📍"
 description: ""
-lead: "A new collection of 203 historical advertisements from the _Schwazer Lokalanzeiger Kreisblatt_ newspaper is now..."
+lead: "A new collection of 203 historical advertisements from the Schwazer Lokalanzeiger Kreisblatt newspaper is now..."
 date: 2022-04-04T06:00:42+01:00
 lastmod: 2022-04-04T06:00:42+01:00
 draft: false
