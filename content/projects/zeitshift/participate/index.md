@@ -23,7 +23,7 @@ We're developing **interactive applications** designed to help you explore this 
 
 **We need your help with two tasks**:
 1. 📍 Locate and/or tag advertisements
-2. ⌨️ Transcribe individual words by playing a game
+2. 🎮 Transcribe individual words by playing a game
 
 **Your help will make the newspapers more usable for both humans and machines!**
 - The processed text will be made available on the websites of the Friedrich Teßmann and Innsbruck University libraries for users to search, browse and enjoy.

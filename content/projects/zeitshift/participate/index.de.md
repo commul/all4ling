@@ -20,7 +20,7 @@ Wir entwickeln **interaktive Webanwendungen**, die dir die Möglichkeit geben di
 
 **Wir brauchen deine Hilfe bei zwei Aufgaben**:
 1. 📍 Lokalisiere und/oder tagge Werbeanzeigen
-2. ⌨️ Transkribiere einzelne Wörter, indem du ein Spiel spielst
+2. 🎮 Transkribiere einzelne Wörter, indem du ein Spiel spielst
 
 **Deine Mithilfe wird die Zeitungen sowohl für Menschen als auch für Maschinen besser nutzbar machen!**
 - Die verarbeitete Texte werden auf den Webseiten der Landesbibliothek Teßmann und der Universitätsbibliothek Innsbruck den NutzerInnen zur Verfügung gestellt, um darin zu suchen, zu stöbern oder einfach damit Spaß zu haben.
