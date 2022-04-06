@@ -19,4 +19,151 @@ breadCrumb: false
 notitle: true
 nolead: true
 ---
+<center>
+<div class="row justify-content-center text-center">
+  <div class="col-sm">
+  {{< figure src="/images/LBT_zeitshift_facebook_cover_photo_820x360.png" size="x175" >}}
 
+  Zeit.shift ist ein Citizen Humanities Projekt, das die Bewahrung,
+  Erschließung und Vermittlung des kulturellen Texterbes Tirols
+  und Südtirols zum Ziel hat.
+
+  </div>
+  <div class="col-sm">
+  {{< youtube "Yv_vSB1Qogs" "Zeit.shift @ Historypin" >}}
+  </div>
+</div>
+
+<br />
+
+#### 📍 Hilf uns, historische Werbeanzeigen zu lokalisieren und zu taggen!
+
+<div class="row justify-content-center text-center">
+  <div class="col-sm">
+    <a href="https://www.historypin.org/de/zeit-shift/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
+  </div>
+  <div class="col-sm">
+    <a href="https://all4ling.eurac.edu/de/zeitshift/historypin/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">📃&nbsp;ANLEITUNG/button></a>
+  </div>
+</div>
+
+
+<br /> <br />
+# Ein Projekt von
+<div class="container px-0">
+  <div class="d-flex flex-wrap align-self-center justify-content-center">
+    <div class="px-2">
+      {{< figure src="images/interreg_logo.png" size="230x" link="https://www.interreg.net/" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/innsbruck_logo.png" size="200x" link="https://www.uibk.ac.at/ulb/" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/eurac_logo.png" size="170x" link="https://www.eurac.edu/" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/LBT_transparent.png" size="250x" link="https://www.tessmann.it/" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/bozen_provinz.png" size="200x" link="https://www.provincia.bz.it/" linktarget="_blank" >}}
+    </div>
+  </div>
+</div>
+
+<br />
+
+<div class="row justify-content-center text-center">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <div class="col-sm">
+    <div class="card-block">
+      <h4><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Anfangsdatum</span></h4>
+      <h2>11.10.2021</h2>
+    </div>
+  </div>
+  <div class="col-sm">
+    <div class="card-block">
+      <h4><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Annotierte Werbeanzeigen</span></h4>
+      <h2>257</h2>
+    </div>
+  </div>
+</div>
+
+
+<br /> <br />
+# Neuigkeiten
+
+
+<div class="row justify-content-center text-center">
+  <div class="col-sm">
+    {{< all4ling-latestblogposts >}}
+  </div>
+  <div class="col-sm">
+    <p><a class="twitter-timeline" data-tweet-limit="2" href="https://twitter.com/all4ling?ref_src=twsrc%5Etfw">Tweets by all4ling</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+  </div>
+</div>
+
+
+<br /> <br />
+# Berichtet in
+
+<div class="container px-0">
+  <div class="d-flex flex-wrap align-self-center justify-content-center">
+    <div class="px-2">
+      {{< figure src="images/eu-citizen-science_transparent.png" size="150x" link="https://eu-citizen.science/project/318" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/BsW_Logo-WEB_transparent.png" size="150x" link="https://www.buergerschaffenwissen.de/projekt/zeitshift-digital-gesterns-zukunft" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/MV_logo.png" size="150x" link="https://museumsverband.it/de/digital-in-gesterns-zukunft/" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/suedtiroler-kulturinstitut.png" size="150x" link="https://kulturinstitut.org/alle-veranstaltungen/detail/events/Interreg-Projekt%20%E2%80%9EZeit.shift%E2%80%9C.html" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/BVS-Logo-Deutsch.png" size="150x" link="https://www.bvs.bz.it/news/zeitshift-digital-gesterns-zukunft" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/tiroler_landesmuseen.png" size="150x" link="https://www.tiroler-landesmuseen.at/blog_bib_zeit-shift-digital-in-gesterns-zukunft/" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/Logo_Die_Neue_Suedtiroler_Tageszeitung.png" size="150x" link="https://www.tageszeitung.it/2021/11/06/zeit-shift/" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/Titelblatt_Tiroler_Chronist.png" size="150x" link="https://www.chronisten.tirol/" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/stol-logo.jpg" size="150x" link="https://www.stol.it/artikel/kultur/zeitshift-digital-in-gesterns-zukunft" linktarget="_blank" >}}
+    </div>
+    <div class="px-2">
+      {{< figure src="images/clio-online.png" size="150x" link="http://www.clio-online.de/webresource/id/webresource-75624?title=zeit-shift-digital-in-gesterns-zukunft&recno=2&q=&sort=&fq=&total=10584" linktarget="_blank" >}}
+    </div>
+  </div>
+</div>
+
+
+<br /> <br />
+
+<div class="card">
+<div class="card-bar"></div>
+  <div class="card-body">
+    <!--https://follow.it/all4ling?action=followPub1-->
+    <form data-v-4c58e686="" action="https://api.follow.it/subscription-form/a2NKOEJGNnB6bWtodG9WWEI3MlpDZHl5eFBWWTJQTXB2bXdDQnJ5ZHZYK2tLcWtMQXBrbWNRVlhBYmpGMmd2Q0Jwak9pTk1ER0laaDhZR1JQdW9kaG9PZlhLWHh6TTl0YmpxZTJ0RWJjL01iVWRTeEpGYnBZRUExLzVGZDF6cSt8SE9HcUZ4Tm03aFk3bHVNU0s2dDNVSjV3Nld3TGNiYUhHcGlvRWpuZDc4ND0=/8" method="post">
+      <h2 class="h2 card-title">Bleib auf dem Laufenden</h2>
+      <p class="card-text">Abonnieren Sie den All4Ling-Newsletter und erhalten Sie gelegentliche Updates.</p>
+      <input type="hidden" name="form-name" value="newsletter">
+      <div class="row d-flex justify-content-center">
+        <div class="col-md-10">
+          <input name="name" type="text" class="form-control visually-hidden" placeholder="your name" aria-label="Name">
+          <input name="email" type="email" class="form-control" placeholder="your@email.com" spellcheck="false" aria-label="Email address" required="">
+          <input name="page" type="hidden" value="https://getdoks.org/">
+        </div>
+        <div class="col-md-6">
+          <button type="submit" class="btn btn-primary w-100" aria-label="Subscribe">Subscribe</button>
+        </div>
+      </div>
+    </form>
+  </div>
+  </div>
+</div>
+</center>

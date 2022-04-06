@@ -12,7 +12,7 @@ images: []
 weight: 4
 ---
 
-[Institute for Applied Linguistics](https://www.eurac.edu/en/research/autonomies/commul/Pages/default.aspx)<br />
+[Institute for Applied Linguistics](https://www.eurac.edu/en/institutes-centers/institute-for-applied-linguistics)<br />
 Eurac Research<br />
 Viale Druso 1<br />
 39100 Bolzano<br />

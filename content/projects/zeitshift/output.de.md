@@ -16,9 +16,6 @@ weight: 130
 toc: true
 ---
 
-<!--{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." >}}-->
-
-
 ## Publikationen
 
 - Franzini, G., Stemle, E.W., Lyding, V., Abel, A., Andresen, J., Pircher, K., Gstrein, S., Laner, B., Walcher, J., Horwath, M., Kössler, C. (2022) 'Citizen Humanities in Tyrol: A case study on historical newspapers', In Ciracì, F., Miglietta, G., Gatto, C. (eds.), _Proceedings of the Eleventh AIUCD Annual Conference (AIUCD 2022)_. Lecce, 1-3 June. ISBN: 978-88-9425-356-6. DOI: [http://doi.org/10.6092/unibo/amsacta/6848](http://doi.org/10.6092/unibo/amsacta/6848)

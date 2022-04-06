@@ -1,5 +1,5 @@
 ---
-title: "Acknowledgements"
+title: "Danksagungen"
 aliases:
   - /zeitshift/acknowledgements/
 description: ""
@@ -17,9 +17,10 @@ toc: true
 
 ### Naturmuseum Südtirol
 
-We thank Vice-Director [Benno
-Baumgarten](https://www.natura.museum/de/ueber-uns/) for providing us with the
-South Tyrolean topographical data needed to train Named Entity Recognition on
-Tyrolean newspapers.
+Wir danken dem stellvertretenden Direktor [Benno
+Baumgarten](https://www.natura.museum/de/ueber-uns/) vom Naturmuseum Südtirol
+für die  Bereitstellung von topographischen Daten, die zum Trainieren der
+Namenserkennung (Named Entity Recognition) auf Tiroler Zeitungen benötigt
+werden.
 
 <a href="https://www.natura.museum/de/" target="_blank" title="Opens in new tab"><img src="/images/logo_naturmuseum.png" width="100%" alt="Naturmuseum Südtirol logo"></a>

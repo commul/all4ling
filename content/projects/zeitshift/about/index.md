@@ -2,6 +2,7 @@
 title: "About"
 aliases:
   - /zeitshift/about/
+
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -11,7 +12,7 @@ images: []
 menu:
   projects:
     parent: "zeitshift"
-weight: 10
+weight: 9
 toc: true
 ---
 

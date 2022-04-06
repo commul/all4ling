@@ -24,4 +24,3 @@ toc: true
 - 06.11.2021, <a href="https://www.tageszeitung.it/2021/11/06/zeit-shift/" target="_blank" title="Opens in new tab">Die Neue Südtiroler Tageszeitung</a>
 
 - 15.10.2021, <a href="https://www.youtube.com/watch?v=2rXqXfubdJs" target="_blank" title="Opens in new tab">'L’informazione non può essere delegata agli algoritmi dell’intelligenza artificiale'</a>, <em>Economia and Giornalismo</em> Conference, University of Bolzano (NOI Techpark)
-

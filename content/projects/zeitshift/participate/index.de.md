@@ -16,7 +16,6 @@ weight: 10
 toc: true
 ---
 
-
 ## Wie kann ich mitwirken?
 
 Wir entwickeln **interaktive Webanwendungen**, die dir die Möglichkeit geben die wundervolle Sammlung kutureller Daten zu erkunden, während du sie bearbeitest!
@@ -32,9 +31,11 @@ Wir entwickeln **interaktive Webanwendungen**, die dir die Möglichkeit geben di
 
 ### 📍 Historypin
 
-<img src="/images/historypin.png" alt="Historypin" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" >Zeit.shift Werbeanzeige in Historypin. Dieses Bild ist lizensiert unter <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+{{< figure src="historypin.webp" alt="Historypin" caption="Zeit.shift advertisement in Historypin." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
 
-Bei dieser Aktivität, lokalisieren und taggen BürgerInnen Werbeanzeigen, die in den historischen Zeitungen veröffentlicht wurden, mit dem Ziel die kommerzielle Landschaft des frühen 20. Jahrhunderts  zu rekonstruieren. Viele Geschäfte von damals bestehen bis heute!
+Bei dieser Aktivität suchen und beschriften die Bürgerinnen und Bürger
+historische Zeitungsannoncen und rekonstruieren so die Handelslandschaft im
+Tirol des frühen 20. Jahrhunderts.  Viele Geschäfte aus dieser Zeit gibt es heute noch!
 
 Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.historypin.org/de/) durchgeführt.
 
@@ -44,7 +45,6 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 - Ein kostenfreies <a href="https://www.historypin.org" target="_blank">Historypin</a>-Konto
 - Ein Desktopcomputer (die Anwendung is nicht für Mobilgeräte optimiert)
 - [Spezifische Tags]({{< relref "historypin#32-tags">}}) und/oder Standortinformationen hinzufügen (die Wahl ist frei!)
-
 
 
 <div class="row justify-content-center text-center">
@@ -64,9 +64,10 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 </div>
 
 
-### 🎮 Ötzi game
 
-<img src="/images/oetzi_game.png" alt="Game preview" width="100%"/><p style="font-size: 10pt" xmlns:cc="http://creativecommons.org/ns#" ><em>Wer hat Ötzi umgebracht?</em>-Spiel. Dieses Bild ist lizensiert unter <a href="http://creativecommons.org/licenses/by/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0<img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:15px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
+### 🎮 Ötzi-Spiel
+
+{{< figure src="oetzi_game.webp" alt="Game preview" caption="**Wer hat Ötzi umgebracht?**-Spiel." attr="Dieses Bild ist lizensiert unter CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
 
 In diesem individuellen durch [Typespeed](http://typespeed.sourceforge.net/) inspirierten Online-Game siehst du Wörter vom Himmel fallen, die automatisch aus digitalisierten Tiroler Zeitungen extrahiert wurden. Das Ziel des Spiels ist einfach: tippe so schnell wie möglich die herabfallenden Wörter ein und zwar bevor die herannahenden Tiere [Ötzi, den Mann aus dem Eis](https://www.iceman.it/en/the-iceman/), überwältigen! Richtig eingetippte Wörter helfen Ötzi die wilden Tiere wegzujagen und verlängern so sein Leben.
 
@@ -76,7 +77,8 @@ In diesem individuellen durch [Typespeed](http://typespeed.sourceforge.net/) ins
 
 Es ist keine Registrierung erforderlich!
 
-<p style="text-align: center"><button type="button" class="btn btn-danger">⏳ IN VORBEREITUNG!</button></p>
+<p style="text-align: center"><button type="button" class="btn btn-danger">⏳ COMING SOON!</button></p>
+
 
 
 ## Warum sollte ich mitmachen?

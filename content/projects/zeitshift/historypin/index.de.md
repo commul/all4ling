@@ -1,175 +1,151 @@
 ---
-title: "Historypin-Anleitung"
+title: "Historypin Anleitung"
+
+
 description: ""
-lead: "Hilf uns das historische Gedächtnis Tirols zu erhalten!"
+lead: "Help us preserve the historical memory of Tyrol!"
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
 images: []
 menu:
-  docs:
+  projects:
     parent: "zeitshift"
 weight: 110
 toc: true
 ---
 
 
-Danke, dass Du entschieden hast bei Zeit.shift mitzuhelfen! Diese Anleitung wird Dich durch die Historypin-Aktivitäten führen. Die Aktivitäten betreffen das Taggen von Werbeanzeigen, die vor etwa 100 Jahren in Tiroler Zeitungen veröffentlicht wurden.
+Vielen Dank, dass du dich entschlossen hast, zu Zeit.shift beizutragen! Diese Anleitung führt dich durch die Historypin-Aktivität. Die Aktivität besteht darin, Werbeanzeigen zu taggen, die vor 100 Jahren in Tiroler Zeitungen veröffentlicht wurden.
+
+<!--🗝️**Your contribution is key to making this collection of Tyrolean textual heritage more searchable, usable and discoverable for everyone!**-->
+
+**Diese Aktivität ist für Desktop-Computer konzipiert.**
+
+For questions about the activity or comments about these guidelines, please contact the Zeit.shift team at: <strong>zeitshift@eurac.edu</strong>.
 
 
-<strong>Die Aktivitäten sind für die Arbeit auf Desktop-Computern optimiert.</strong>
+## 1. Accessing the collection
 
-Bei Fragen zu den Aktivitäten oder für Kommentare zu dieser Anleitung kontaktiere bitte das Zeit.shift-Team unter: <strong>zeitshift@eurac.edu</strong>.
+Open an internet browser (we recommend you use [Chrome](https://www.google.com/chrome/) or [Safari](https://www.apple.com/safari/)) and navigate to: <a href="https://www.historypin.org/en/zeit-shift" target="_blank">https://www.historypin.org/en/zeit-shift</a>
+![Landing page of the Zeit.shift collection in Historypin.](home.webp)
 
+Click on the white arrow or scroll down the landing page to view the contents of the collection. This gallery page lists all adverts and subcollections within Zeit.shift. Each subcollection corresponds to a different newspaper.
 
-## 1. In die Sammlung einsteigen
-
-Öffne einen Internetbrowser (wir empfehlen [Chrome](https://www.google.com/chrome/) oder [Safari](https://www.apple.com/safari/)) und navigiere zu: <a href="https://www.historypin.org/de/zeit-shift" target="_blank">https://www.historypin.org/de/zeit-shift</a>
-
-
-{{<img src="/images/home.png" alt="Historypin" >}}<p style="font-size: 10pt"><em>Landingpage der Zeit.shift-Sammlung in Historypin</em>.</p>
+NB: In Historypin, collection items are known as "pins". In the case of Zeit.shift, pins are adverts. In these guidelines, we will refer to collection items as "adverts" or "pins".
+![Gallery page of the Zeit.shift collection listing an information card, subcollections and individual adverts.](gallery.webp)
 
 
-Klicke auf den weißen Pfeil oder scrolle durch die Landingpage, um die Inhalte der Sammlung zu sehen. Diese Galerieansicht listet alle Anzeigen und Unterkollektionen von Zeit.shift. Jede Unterkollektion steht für eine andere Zeitung.
+<!--
+## 2. Picking the correct pins in the Collection
 
-Beachte: In Historypin werden die Einträge einer Sammlung als „Pins“ bezeichnet. Im Fall von Zeit.shift stehen die Pins für Werbeanzeigen. In dieser Anleitung werden wir Einträge der Sammlung sowohl als „Anzeigen“ als auch als „Pins“ bezeichnen.
+The search bar below the project banner allows you to search contents by tags and keywords, or to filter them by the presence of comments.
 
-<img src="/images/gallery.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Galerieansicht der Zeit.shift-Sammlung, die eine Informationskarte, Untersammlungen und einzelne Anzeigen auflistet</em>.</p>
+![If clicked, the "zu lokalisieren" and "zu taggen" tags allow you to display only those adverts that still need to be worked on. If clicked, these tags will automatically appear in the search bar.](search2.webp)
 
+![If clicked, the "zu lokalisieren" tag on the left will automatically appear in the search bar on the right of the screen.](search3.webp)
 
-<!--## 2. Die richtigen Pins in der Sammlung auswählen
+To deselect the "zu lokalisieren" and "zu taggen" tags, click on the corresponding 🗙 icon in the search bar.
 
-Die Suchzeile unter dem Projektbanner erlaubt dir mithilfe von Tags and Schlüsselwörtern nach Inhalten zu suchen oder die Sammlung nach Inhalten mit Kommentaren zu filtern.
+![To deselect a tag, click on the corresponding 🗙 icon in the search bar.](search4.png)
 
+![To search for adverts that have comments, type "has" in the search box and click on the option provided.](search.png)
 
-<img src="/images/search2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Durch Anklicken kannst du mithilfe der „zu lokalisieren" und „zu taggen" Tags nach den Anzeigen filtern, die noch bearbeitet werden müssen. Die Tags lassen sich durch einen Klick automatisch in die Suchzeile einfügen</em>.</p>
+Additionally, you can use the drop-down menu next to the search bar to sort contents chronologically or alphabetically.
 
-
-<img src="/images/search3.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Durch einen Klick wird das „zu lokalisieren“ Tag links oben automatisch in die Suchzeile rechts oben im Bildschirm eingefügt</em>.</p>
-
-
-
-Um die Tags „zu lokalisieren“ und „zu taggen“ aus der Suche zu entfernen, klicke auf das jeweils zugehörige 🗙-Icon in der Suchzeile.
-
-
-<img src="/images/search4.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Um die Suche nach einem Tag zu deaktivieren, klicke auf das zugehörige 🗙-Icon in der Suchzeile</em>.</p>
+![You can sort adverts alphabetically or chronologically with the help of the drop-down menu provided.](sort.png)
+-->
 
 
-<img src="/images/search.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Um nach Anzeigen zu suchen, die Kommentare enthalten, tippe „hat“ in die Suchbox und klicke auf die angebotene Option</em>.</p>
+## 2. Contributing to the collection
 
-Zusätzlich kannst du das Drop-Down-Menü neben der Suchzeile benutzen, um die Inhalte chronologisch oder alphabetisch zu sortieren.
-
-<img src="/images/sort.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Mithilfe des Drop-Down-Menüs kannst du Anzeigen alphabetisch oder chronologisch sortieren</em>.</p>-->
-
+To begin the activity, click on the subcollection or newspaper you wish to work on. The landing page of the subcollection looks exactly like that of the main Zeit.shift collection.
+![Landing page of the **Tiroler Grenzbote** subcollection within Zeit.shift.](tigbo.webp)
 
 
+Next, click on the "zu lokalisieren" and "zu taggen" tags to display adverts that need to be worked on.
+![If clicked, the "zu lokalisieren" and "zu taggen" tags allow you to display only those adverts that still need to be worked on. If clicked, these tags will automatically appear in the search bar.](search2.webp)
+
+With the "zu lokalisieren" and/or "zu taggen" tags selected, click on an advert of your choice to start working on it.
 
 
-## 2. Zu der Sammlung beitragen
-Um die Aktivität zu starten, klicke auf die Untersammlung oder Zeitung an der du arbeiten möchtest. Die Landingpage der Untersammlung ist genauso aufgebaut wie die Hauptsammlung von Zeit.shift.
+### 2.1. Suggest a better location
 
-<img src="/images/tigbo.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Landingpage der Untersammlung</em> Tiroler Grenzbote <em>in Zeit.shift</em>.</p>
+To suggest a better location for the advert, click on the _Suggest a better location_ link provided in the _Location_ box. Doing so will open up a window in which you will be asked to add the suggested location. You can provide rough or precise locations using the search bar and/or the map view. For added precision, you can drag-and-drop the large pink pin to your desired location. Should you wish to enlarge the map, click on the white enlarge icon in the top right corner. Click it again to return to the original size. To save your suggestion, add a comment (e.g. "Location added"), click on the _Save_ button and close the window using the pink 🗙 icon in the top right corner.
+![Suggest a better location window. **The Comment field is mandatory!**](location.webp)
 
-
-Klicke anschließend auf die „zu lokaliserien“ und „zu taggen“ Tags, um nach Anzeigen zu filtern, die noch bearbeitet werden müssen.
-
-
-
-<img src="/images/search2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Durch Anklicken kannst du mithilfe der „zu lokalisieren“ und „zu taggen“ Tags nach den Anzeigen filtern, die noch bearbeitet werden müssen. Die Tags lassen sich durch einen Klick automatisch in die Suchzeile einfügen</em>.</p>
-
-
-Nachdem du die Anzeigen mithilfe der „zu lokalisieren“ und/oder „zu taggen“ Tags gefiltert hast, klicke auf eine Anzeige deiner Wahl, um daran zu arbeiten.
-
-
-### 2.1. Schlage einen besseren Ort vor
-Um einen besseren Ort für die Anzeige vorzuschlagen, klicke auf den _Schlage einen besseren Ort vor_-Link in der Ortsbox. Ein neues Fenster wird sich öffnen und dich zur Eingabe eines neuen Ortes auffordern. Du kannst grobe oder präzise Ortsangaben machen, indem du das Suchfeld und/oder die Kartenansicht verwendest. Zur Präzisierung kannst du den großen pinken Pin zu dem gewünschten Ort ziehen. Falls du die Karte vergrößern möchtest, klicke auf das weiße Symbol in der oberen rechten Ecke des Fensters. Um die Karte wieder auf ihre ursprüngliche Größe zurückzusetzen, klicke nochmals auf das weiße Symbol. Um deinen Vorschlag zu speichern, füge einen Kommentar ein (z.B. "Ort hinzugefügt"), klicke auf den _Speichern_-Button und schließe das Fenster durch Klicken auf das pinke 🗙 Symbol in der oberen rechten Ecke des Fensters.
-
-
-
-<img src="/images/location.png" alt="Suggest location" width="100%"/><p style="font-size: 10pt">Schlage einen besseren Ort vor-<em>Fenster. Das Kommentarfeld ist obligatorisch!</em></p>
-
-
-Falls die Anzeige keinerlei Adressangabe enthält, füge mithilfe der _Füge ein Tag hinzu_-Option ein „ohne ort“-Tag hinzu. Die Option befindet sich im rechten Seitenbalken (siehe nächster Abschnitt).
-
+If the advert does not contain an address, add a "ohne ort" tag using the _Add a tag_ option provided in the right sidebar (see next section).
 
 
 ### 2.2. Tags
-Der _Tags_-Abschnitt ermöglicht es Dir, eine Anzeige zu klassifizieren. Tags in Zeit.shift sollten in Kleinschreibung eingegeben werden und können auf Englisch, Deutsch oder Italienisch sein. Die Tags sind sehr nützlich, da sie Zeit.shift- und Historypin-Nutzern helfen bestimmte Einträge leichter zu finden. Wir bitten Dich folgende Arten von Tags einzufügen:
 
-- „ohne ort“, falls die Anzeige keine Adressangabe enthält;
-- „unleserlich“, falls die Anzeige nicht gut zu lesen ist (z.B. bei ausgeblichener Tinte oder verschwommenen Bildern);
-- „duplikat“, falls die Anzeige ein Duplikat einer anderen Anzeige ist;
-- „review“, falls Du weitere Probleme bei der Anzeige feststellst, die Du gerne mitteilen möchtest (z.B. die Anzeige ist teilweise abgeschnitten);
-- inhaltliche Tags (mindestens drei), die eine gute Beschreibung der Anzeige liefern, inklusive Personennamen, Objekten, Feierlichkeiten, etc. (e.g. „Adolf Titze“, „Schuhe“, „Weihnachten“).
+The _Tags_ section allows you to categorise an advert. Tags in Zeit.shift should be lowercase, can be in English, German or Italian and are very useful as they help Zeit.shift and Historypin users find specific items more easily. We ask that you add the following tags:
 
-Um ein inhaltliches Tag hinzuzufügen, tippe den Namen in das _Tagname_-Feld. Während Du tippst, wird sich ein Drop-Down-Menü mit Vorschlägen öffnen, die anzeigen, welche Tag bereits von Historypin-Benutzern eingefügt wurden. Falls Dein Tag bereits in der Liste mit Vorschlägen vorhanden ist, wähle es aus und klicke auf den _Tag hinzufügen_-Button. Falls Dein Tag nicht in der Liste mit Vorschlägen ist, klicke auf den ersten Eintrag in der Liste und klicke anschließend nochmals auf den _Tag hinzufügen_-Button. Neue Tags sollten neben den bestehenden Tags unter der Karte zu sehen sein.
-
-Beachte: Umlaute können von Historypin nicht korrekt angezeigt werden, deshalb achte darauf sie auszuschreiben (z.B. schreibe nicht „mühle“ sondern „muehle“).
+- "ohne ort", if the advert does not contain an address;
+- "unleserlich", if the advert is not clearly legible (e.g. the ink is faded or the image is grainy);
+- "duplikat", if the advert is a duplicate of another advert;
+- "review", if there are other problems with the advert you wish to report (e.g. a part of it is missing);
+- at least three semantic tags that best describe the advert, including person names, objects, festivities, etc. (e.g. "adolf titze", "shoes", "christmas").
 
 
+To add a semantic tag, type the name in the _Tag name_ field. As you type the name, a drop-down list will appear with suggestions based on what other Historypin users have added. If your tag already exists in the list of suggestions, select it and click on the _Add a tag_ button. If your tag does not appear in the list of suggestions, click on the first entry in the list and click on the _Add a tag_ button again. New tags should appear alongside the advert's existing tags below the location map.
 
-<img src="/images/tags.png" alt="Suggest location" width="100%"/><p style="font-size: 10pt"><em>Tag eintippen und aus der Liste von Tagvorschlägen auswählen</em>.</p>
-
-### 2.3. Fakultativ
-
-Im rechten Seitenbalken findest du einen _Teilen_-Button, der es dir ermöglicht eine Anzeige über Social Media zu teilen oder sie in eine Webseite einzubetten.
+NB: umlauts are not rendered in Historypin, so make sure to spell out the word (e.g. NOT "mühle" BUT "muehle").
+![Typing and selecting a tag from the suggestions provided.](tags.webp)
 
 
-<img src="/images/share.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Klicke auf den Teilen-Button im rechten Seitenmenü, um eine Anzeige über Social Media oder über eine Webseite zu teilen</em>.</p>
+### 2.3. Optional
+
+Additionally, in the sidebar to the right of the screen, the _Share_ button provides you with options to share the advert via social media or to embed it in a website.
+
+![Click on the **Share** button in the right sidebar to share the advert on social media or a website.](share.webp)
+
+Below the _Share_ button, you will see the _Favourite_ ♡ button. This button allows you to mark the advert as a favourite item. When you favourite an item, the ♡ button turns orange; to unfavourite it, simply reclick on the ♡ button until this becomes pink again. All favourited items can be viewed in your profile under the _Favourites_ section.
+
+![Click on the ♡ button in the right sidebar to save an advert to your list of favourites.](favourite.webp)
+
+![Click on the profile button in the top right corner of the screen to access your Historypin profile and list of favourited pins.](profile.webp)
+
+![You can view your list of favourites under your Historypin profile, in the **Favourites** section.](favourite2.webp)
 
 
-Unter dem _Teilen_-Button findest Du einen _Favorit_-Button ♡. Dieser Button erlaubt es Dir eine Anzeige als Favorit zu markieren. Wenn Du ein Objekt als Favorit kennzeichnest, färbt sich das Herzsymbol ♡ rot; um die Favorit-Markierung rückgängig zu machen, klicke einfach nochmals auf den Herz-Button ♡ und er wird sich wieder pink färben. Du kannst alle deine Favoriten in deinem Historypin-Profil unter dem Abschnitt _Favoriten_ aufrufen.
+Below the _Favourite_ button you will see the _Repin_ button. This button allows you to make a copy of the pin in another Historypin collection. When you click on _Repin_, you will be asked whether you want to save a copy of the pin in an existing collection to which you have contribution access or in a new collection of your own creation.
+
+![The **Repin** button in the right sidebar allows you to add the advert to another collection to which you have access, including your own.](repin.webp)
 
 
-<img src="/images/favourite.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Klicke auf den Herz-Button ♡ im rechten Seitenbalken, um eine Anzeige in deiner Favoritenliste zu speichern</em>.</p>
+<!--
+## 3. Historypin tutorials
 
-<img src="/images/profile.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Klicke auf den _Mein Profil_ Button in der oberen rechten Ecke des Bildschirms, um in dein Historypin-Profil einzusteigen und deine Favoriten zu sehen</em>.</p>
-
-<img src="/images/favourite2.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Du kannst deine Favoritenliste in deinem Historypin-Profil in dem Abschnitt Favoriten aufrufen</em>.</p>
-
-
-
-Unter dem _Favorit_-Button findest du einen _Repin_-Button. Dieser Button ermöglicht es dir eine Kopie des Pins für eine andere Historypin-Sammlung zu machen. Wenn du auf _Repin_ klickst, wirst du gefragt, ob du die Kopie des Pins in einer bestehenden Sammlung, auf die du Zugriff hast, speichern willst, oder ob Du ihn in einer neuen, selbsterstellten Sammlung speichern willst.
+Historypin "How-to-guides" can be accessed at: <a href="https://about.historypin.org/how-to-guides/" target="_blank" title="Opens in new tab">https://about.historypin.org/how-to-guides/</a>
+-->
 
 
-<img src="/images/repin.png" alt="Historypin" width="100%"/><p style="font-size: 10pt"><em>Der Repin-Button im rechten Seitenbalken erlaubt es Dir, die Anzeige zu einer anderen Sammlung hinzuzufügen, auf die Du Zugriff hast, inklusive Deiner eigenen</em>.</p>
-
-
-
-<!--## 3. Historypin Tutorials
-
-Historypin „How to“-Anleitungen können hier aufgerufen werden: [https://about.historypin.org/how-to-guides/](https://about.historypin.org/how-to-guides/)-->
-
-
-
-## 3. Kontakt
+## 3. Contact
 
 ### 3.1. Eurac Research
-Um das Team von Eurac Research zu erreichen, bitte schreibe an: <strong>zeitshift@eurac.edu</strong>
+To contact the Eurac Research team, please write to: <strong>zeitshift@eurac.edu</strong>
 
 ### 3.2. Historypin
-Um das Team von Historypin zu erreichen, klicke auf das Chat-Icon in der unteren rechten Ecke des Bildschirms.
+To contact Historypin staff, click on the chat icon in the bottom right corner of the screen.
 
-<img src="/images/chat_closed.png" alt="Historypin chat" width="100%"/><p style="font-size: 10pt"><em>Um das Chat-Fenster zu öffnen, klicke auf den pinken Button in der unteren rechten Ecke deines Bildschirms</em>.</p>
+![To open the chat window, click on the pink button in the bottom right corner of your screen.](chat_closed.webp)
 
-<img src="/images/chat_open.png" alt="Historypin chat" width="100%"/><p style="font-size: 10pt"><em>Offenes Chat-Fenster. Um das Fenster zu schließen, klicke auf das pinke Pfeilsymbol unten rechts</em>.</p>
-
-
+![Chat window open. To close it, click on the pink arrow icon in the bottom right corner.](chat_open.webp)
 
 
-## 4. FAQ (Häufige Fragen)
+## 4. FAQ
 
-**Warum verändert sich manchmal die Anzahl der Pins auf der Karte?**<br />
-Dies ist ein bekannter Bug von Historypin. Indem du die Seite neu lädst, kannst du die korrekte Anzahl an Pins wiederherstellen.
+**Why does the number of pins on the map keep changing?**<br />
+This is a known Historypin bug. Refreshing the page will restore the correct number of pins.
 
-**Meine Tags und Kommentare werden nicht gespeichert. Was ist hier los?**<br />
-Lade deine Browserseite neu und/oder entleere deinen Browsercache um deine Änderungen zu sehen.
+**My tags and comments are not being saved. What's happening?**<br />
+Refresh your browser page and/or empty your browser cache to see your changes.
 
-**Umlaute in tags**<br />
-Tags in Historypin dürfen kein Umlaute enthalten. Gib daher bitte die entsprechende Umschreibung für Umlaute ein, z. B. _mühle --> muehle_.
-
+**Umlaut in tags**<br />
+Tags in Historypin don't take the umlaut. For this reason, please type the equivalent non-diacritic character combination, e.g. _mühle_ --> _muehle_.
 
 
 <br/><br/>
 
-<p style="text-align: center"><a href="https://www.historypin.org/de/zeit-shift/geo/46.494565,11.347343,17/bounds/46.490037,11.345184,46.499092,11.349502/paging/1" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success">🚀 AKTIVITÄT STARTEN!</button></a></p>
+<p style="text-align: center"><a href="https://www.historypin.org/en/zeit-shift/geo/46.494565,11.347343,17/bounds/46.490037,11.345184,46.499092,11.349502/paging/1" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success">🚀 TAKE ME TO THE ACTIVITY!</button></a></p>
