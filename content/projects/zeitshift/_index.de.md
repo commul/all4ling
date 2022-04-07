@@ -36,7 +36,7 @@ nolead: true
 
 <br />
 
-#### 📍 Hilf uns, historische Werbeanzeigen zu lokalisieren und zu taggen!
+#### 📍 Hilf uns, historische Werbeanzeigen zu verorten und zu taggen!
 
 <div class="row justify-content-center text-center">
   <div class="col-sm">
@@ -156,16 +156,16 @@ nolead: true
     <!--https://follow.it/all4ling?action=followPub1-->
     <form data-v-4c58e686="" action="https://api.follow.it/subscription-form/a2NKOEJGNnB6bWtodG9WWEI3MlpDZHl5eFBWWTJQTXB2bXdDQnJ5ZHZYK2tLcWtMQXBrbWNRVlhBYmpGMmd2Q0Jwak9pTk1ER0laaDhZR1JQdW9kaG9PZlhLWHh6TTl0YmpxZTJ0RWJjL01iVWRTeEpGYnBZRUExLzVGZDF6cSt8SE9HcUZ4Tm03aFk3bHVNU0s2dDNVSjV3Nld3TGNiYUhHcGlvRWpuZDc4ND0=/8" method="post">
       <h2 class="h2 card-title">Bleib auf dem Laufenden</h2>
-      <p class="card-text">Abonnieren Sie den All4Ling-Newsletter und erhalten Sie gelegentliche Updates.</p>
+      <p class="card-text">Registriere dich bei dem All4Ling-Newsletter und erhalte gelegentliche Updates.</p>
       <input type="hidden" name="form-name" value="newsletter">
       <div class="row d-flex justify-content-center">
         <div class="col-md-10">
           <input name="name" type="text" class="form-control visually-hidden" placeholder="your name" aria-label="Name">
-          <input name="email" type="email" class="form-control" placeholder="your@email.com" spellcheck="false" aria-label="Email address" required="">
+          <input name="email" type="email" class="form-control" placeholder="deine@email.de" spellcheck="false" aria-label="Email address" required="">
           <input name="page" type="hidden" value="https://getdoks.org/">
         </div>
         <div class="col-md-6">
-          <button type="submit" class="btn btn-primary w-100" aria-label="Subscribe">Subscribe</button>
+          <button type="submit" class="btn btn-primary w-100" aria-label="Subscribe">Registrieren</button>
         </div>
       </div>
     </form>
