@@ -41,9 +41,9 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 
 **Anforderungen**:
 
-- Grundkenntnisse des Deutschen und ein Grundverständnis von Frakturschrift
+- Grundkenntnisse des Deutschen und von Frakturschrift
 - Ein kostenfreies <a href="https://www.historypin.org" target="_blank">Historypin</a>-Konto
-- Ein Desktopcomputer (die Anwendung is nicht für Mobilgeräte optimiert)
+- Ein Desktopcomputer (die Anwendung ist nicht für Mobilgeräte optimiert)
 - [Spezifische Tags]({{< relref "historypin#32-tags">}}) und/oder Standortinformationen hinzufügen (die Wahl ist frei!)
 
 
@@ -67,7 +67,7 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 
 ### 🎮 Ötzi-Spiel
 
-{{< figure src="oetzi_game.webp" alt="Game preview" caption="**Wer hat Ötzi umgebracht?**-Spiel." attr="Dieses Bild ist lizensiert unter CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
+{{< figure src="oetzi_game.webp" alt="Game preview" caption="Ötzi-Spiel." attr="Dieses Bild ist lizensiert unter CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
 
 In diesem individuellen durch [Typespeed](http://typespeed.sourceforge.net/) inspirierten Online-Game siehst du Wörter vom Himmel fallen, die automatisch aus digitalisierten Tiroler Zeitungen extrahiert wurden. Das Ziel des Spiels ist einfach: tippe so schnell wie möglich die herabfallenden Wörter ein und zwar bevor die herannahenden Tiere [Ötzi, den Mann aus dem Eis](https://www.iceman.it/en/the-iceman/), überwältigen! Richtig eingetippte Wörter helfen Ötzi die wilden Tiere wegzujagen und verlängern so sein Leben.
 
