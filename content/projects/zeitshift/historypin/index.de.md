@@ -1,5 +1,5 @@
 ---
-title: "Historypin Instructions"
+title: "Historypin-Anleitung"
 aliases:
   - /de/zeitshift/historypin/
 description: ""
