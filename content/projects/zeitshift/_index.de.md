@@ -45,7 +45,7 @@ nolead: true
     <a href="https://www.historypin.org/de/zeit-shift/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
   </div>
   <div class="col-sm">
-    <a href="https://all4ling.eurac.edu/de/zeitshift/historypin/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">📃&nbsp;ANLEITUNG/button></a>
+    <a href="https://all4ling.eurac.edu/de/zeitshift/historypin/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">📃&nbsp;ANLEITUNG</button></a>
   </div>
   <div class="col-sm">
   </div>
