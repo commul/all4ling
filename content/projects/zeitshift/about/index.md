@@ -153,4 +153,4 @@ The citizen science component of the project focuses on newspaper issues publish
 
 ### Credits
 
-Zeit.shift sources icons from [Icongeek26](https://www.flaticon.com/authors/icongeek26) and [Freepik](https://www.flaticon.com/authors/freepik) at [Flaticon](www.flaticon.com), and audio files from [Freesound](https://freesound.org/people/Yap_Audio_Production/sounds/218463/).
+Zeit.shift sources icons from [Icongeek26](https://www.flaticon.com/authors/icongeek26) and [Freepik](https://www.flaticon.com/authors/freepik) at [Flaticon](https://www.flaticon.com), and audio files from [Freesound](https://freesound.org/people/Yap_Audio_Production/sounds/218463/).

@@ -153,4 +153,4 @@ Die Citizen Science Komponente des Projekts konzentriert sich auf Zeitungsausgab
 
 ### Danksagungen
 
-Zeit.shift nutzt Icons von [Icongeek26](https://www.flaticon.com/authors/icongeek26) und [Freepik](https://www.flaticon.com/authors/freepik) von [Flaticon](www.flaticon.com), sowie Audiodateien von [Freesound](https://freesound.org/people/Yap_Audio_Production/sounds/218463/).
+Zeit.shift nutzt Icons von [Icongeek26](https://www.flaticon.com/authors/icongeek26) und [Freepik](https://www.flaticon.com/authors/freepik) von [Flaticon](https://www.flaticon.com), sowie Audiodateien von [Freesound](https://freesound.org/people/Yap_Audio_Production/sounds/218463/).
