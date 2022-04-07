@@ -75,7 +75,7 @@ In this custom game, inspired by [Typespeed](http://typespeed.sourceforge.net/),
 
 - sufficient knowledge of German and Fraktur
 
-No sign-up or registration required!
+{{< alert icon="👉" context="info" text="No sign-up or registration required!" />}}
 
 <p style="text-align: center"><button type="button" class="btn btn-danger">⏳ COMING SOON!</button></p>
 
