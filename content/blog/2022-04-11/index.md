@@ -25,7 +25,7 @@ A new collection of 110 historical advertisements from the _Unterinntaler Bote_ 
 
 
 <center>
-  {{< img src="images/futterbereitungs_maschinen.png" alt="Futterbereitungs-Maschinen advert">}}
+  {{< img src="futterbereitungs_maschinen.png" alt="Futterbereitungs-Maschinen advert">}}
 </center>
  
 
