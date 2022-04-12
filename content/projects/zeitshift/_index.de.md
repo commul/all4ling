@@ -144,6 +144,9 @@ nolead: true
     <div class="px-2 align-self-center">
       {{< figure src="images/clio-online.png" size="150x" link="http://www.clio-online.de/webresource/id/webresource-75624?title=zeit-shift-digital-in-gesterns-zukunft&recno=2&q=&sort=&fq=&total=10584" linktarget="_blank" >}}
     </div>
+        <div class="px-2 align-self-center">
+      {{< figure src="images/ORF_logo.png" size="150x" link="" linktarget="_blank" >}}
+    </div>
   </div>
 </div>
 
