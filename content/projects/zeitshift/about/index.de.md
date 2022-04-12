@@ -97,8 +97,8 @@ Die Citizen Science Komponente des Projekts konzentriert sich auf Zeitungsausgab
 
 ### Team
 - Landesbibliothek Dr. Friedrich Teßmann (Projektleitung): Johannes Andresen
-- Universitäts- und Landesbibliothek Tirol: Silvia Gstrein, Christian Kössler, Barbara Laner, Johanna Walcher
-- Eurac Research: Andrea Abel, Greta Franzini, Verena Lyding, Egon Stemle
+- Universitäts- und Landesbibliothek Tirol: Silvia Gstrein, Maritta Horwath, Christian Kössler, Barbara Laner, Johanna Walcher
+- Eurac Research: Andrea Abel, Paolo Brasolin, Greta Franzini, Verena Lyding, Egon Stemle, Anna Tramarin (Praktikantin), Giovanni Moretti (externer Berater)
 
 
 <div class="row">

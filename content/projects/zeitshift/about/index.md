@@ -98,8 +98,8 @@ The citizen science component of the project focuses on newspaper issues publish
 
 ### Team
 - Landesbibliothek Dr. Friedrich Teßmann (Lead partner): Johannes Andresen
-- Universitäts- und Landesbibliothek Tirol: Silvia Gstrein, Christian Kössler, Barbara Laner, Johanna Walcher
-- Eurac Research: Andrea Abel, Greta Franzini, Verena Lyding, Egon Stemle
+- Universitäts- und Landesbibliothek Tirol: Silvia Gstrein, Maritta Horwath, Christian Kössler, Barbara Laner, Johanna Walcher
+- Eurac Research: Andrea Abel, Paolo Brasolin, Greta Franzini, Verena Lyding, Egon Stemle, Anna Tramarin (intern), Giovanni Moretti (external advisor)
 
 <div class="row">
   <div class="col-sm">
