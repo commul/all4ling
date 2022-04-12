@@ -7,7 +7,7 @@ lastmod: 2022-04-11T06:00:42+01:00
 draft: false
 weight: 50
 images: []
-article_img: 'futterbereitungs_maschinen.png'
+article_img: 'futterbereitungs_maschinen.jpg'
 contributors: ["Eurac Research"]
 ---
 
@@ -25,7 +25,7 @@ A new collection of 110 historical advertisements from the _Unterinntaler Bote_ 
 
 
 <center>
-  {{< img src="futterbereitungs_maschinen.png" alt="Futterbereitungs-Maschinen advert">}}
+  {{< img src="futterbereitungs_maschinen.jpg" alt="Futterbereitungs-Maschinen advert">}}
 </center>
  
 
