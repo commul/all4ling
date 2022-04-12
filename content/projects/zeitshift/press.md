@@ -15,6 +15,8 @@ weight: 111
 toc: true
 ---
 
+- 31.03.2022, <a href="https://www.meraner.eu/blaettern#seite/11" title="Opens in new tab" target="_blank">Meraner Stadtanzeiger</a>
+
 - 05.03.2022, <a href="https://tvthek.orf.at/profile/Tirol-heute/70023/Tirol-heute/14126830/Bibliotheksprojekt-zeit-shift/15119452" target="_blank" title="Opens in new tab">Tirol heute - Bibliotheksprojekt "zeit.shift"</a>
 
 - 03.03.2022, <a href="https://radiothek.orf.at/tir/20220303/TRTN/1646324291000" target="_blank" title="Opens in new tab">ORF.at - Radio Tirol am Nachmittag</a>
