@@ -75,7 +75,7 @@ In diesem individuellen durch [Typespeed](http://typespeed.sourceforge.net/) ins
 
 - Ausreichende Kenntnisse des Deutschen und von Frakturschrift
 
-{{< alert icon="👉" context="info" text="Es ist keine Registrierung erforderlich!" />}}
+<!--{{< alert icon="👉" context="info" text="Es ist keine Registrierung erforderlich!" />}}-->
 
 <p style="text-align: center"><button type="button" class="btn btn-danger">⏳ COMING SOON!</button></p>
 

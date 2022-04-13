@@ -69,13 +69,13 @@ This activity makes use of an existing third-party platform, [Historypin](https:
 
 {{< figure src="oetzi_game.webp" alt="Game preview" caption="Ötzi game." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
 
-In this custom game, inspired by [Typespeed](http://typespeed.sourceforge.net/), words automatically extracted from the digitised Tyrolean newspapers drop from the sky. The goal of the game is simple: you must type the words as fast as possible before the animals reach and kill [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/)! Words typed correctly will scare off the animals and prolong Ötzi's life. <!--When Ötzi dies, you are shown the original newspaper article from which the killing name (the killer!) was taken, allowing you to explore its context.-->
+In this custom web game, inspired by [Typespeed](http://typespeed.sourceforge.net/), words automatically extracted from the digitised Tyrolean newspapers drop from the sky. The goal of the game is simple: you must type the words as fast as possible before the animals reach and kill [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/)! Words typed correctly will scare off the animals and prolong Ötzi's life. <!--When Ötzi dies, you are shown the original newspaper article from which the killing name (the killer!) was taken, allowing you to explore its context.-->
 
 **Requirements**:
 
-- sufficient knowledge of German and Fraktur
+- some knowledge of German and Fraktur
 
-{{< alert icon="👉" context="info" text="No sign-up or registration required!" />}}
+<!--{{< alert icon="👉" context="info" text="No sign-up or registration required!" />}} <br /><br />-->
 
 <p style="text-align: center"><button type="button" class="btn btn-danger">⏳ COMING SOON!</button></p>
 
