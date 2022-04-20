@@ -21,30 +21,26 @@ toc: true
 We're developing **interactive applications** designed to help you explore this wonderful body of textual heritage as you contribute data!
 
 **We need your help with two tasks**:
-1. 📍 Locate and/or tag advertisements
-2. 🎮 Transcribe individual words by playing a game
+1. 📍 Locating and/or tag advertisements
+2. 🎮 Transcribing individual words
 
 **Your help will make the newspapers more usable for both humans and machines!**
-- The processed text will be made available on the websites of the Friedrich Teßmann and Innsbruck University libraries for users to search, browse and enjoy.
-- The processed text will be used by Eurac Research to train algorithms to better recognise Fraktur script and classify words (place names, person names, temporal expressions, etc.).
+- The processed text will be made available online for users to search, browse and enjoy.
+- The processed text will be used by Eurac Research to improve the searchability of the digitised newspapers.
 
 
 ### 📍 Historypin
 
 {{< figure src="historypin.webp" alt="Historypin" caption="Zeit.shift advertisement in Historypin." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" >}}
 
-In this activity, citizens locate and tag historical advertisements published
-in the newspapers in order to reconstruct the commercial landscape of early
-20th century Tyrol. Many shops from those times still exist today!
-
-This activity makes use of an existing third-party platform, [Historypin](https://www.historypin.org/en/).
+In this activity, citizens locate and tag historical advertisements published in the newspapers in order to reconstruct the commercial landscape of early 20th century Tyrol. Many shops from those times still exist today! This activity makes use of an existing third-party platform, [Historypin](https://www.historypin.org/en/).
 
 **You will need**:
 
 - Basic knowledge of German and Fraktur script
 - A free <a href="https://www.historypin.org" target="_blank">Historypin</a> account
 - A desktop computer (activity not designed for mobile devices)
-- To add [specific tags]({{< relref "historypin#32-tags">}}) and/or location information to the newspaper adverts (the choice is free!)
+- To add [specific tags]({{< relref "historypin#32-tags">}}) and/or location information to the newspaper adverts
 
 
 <div class="row justify-content-center text-center">
@@ -65,9 +61,9 @@ This activity makes use of an existing third-party platform, [Historypin](https:
 
 
 
-### 🎮 Ötzi game
+### 🎮 /oetzit
 
-{{< figure src="oetzi_game.webp" alt="Game preview" caption="Ötzi game." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
+{{< figure src="oetzi_game.webp" alt="Game preview" caption="Our /oetzit game." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
 
 In this custom web game, inspired by [Typespeed](http://typespeed.sourceforge.net/), words automatically extracted from the digitised Tyrolean newspapers drop from the sky. The goal of the game is simple: you must type the words as fast as possible before the animals reach and kill [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/)! Words typed correctly will scare off the animals and prolong Ötzi's life. <!--When Ötzi dies, you are shown the original newspaper article from which the killing name (the killer!) was taken, allowing you to explore its context.-->
 
@@ -77,7 +73,7 @@ In this custom web game, inspired by [Typespeed](http://typespeed.sourceforge.ne
 
 <!--{{< alert icon="👉" context="info" text="No sign-up or registration required!" />}} <br /><br />-->
 
-<p style="text-align: center"><button type="button" class="btn btn-danger">⏳ COMING SOON!</button></p>
+<p style="text-align: center"><button type="button" class="btn btn-danger" disabled>⏳ COMING SOON!</button></p>
 
 
 

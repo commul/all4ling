@@ -19,56 +19,15 @@ notitle: true
 nolead: true
 ---
 <center>
-<div class="row justify-content-center text-center">
-  <div class="col-sm">
-  {{< figure src="/images/LBT_zeitshift_facebook_cover_photo_820x360.png" size="x175" >}}
 
-  A citizen humanities project for the preservation, development and
-  communication of the cultural and textual heritage of the historical region
-  of Tyrol.
+{{< figure src="/images/LBT_zeitshift_facebook_cover_photo_820x360.png" size="x195" >}}
 
-  </div>
-  <div class="col-sm">
-  {{< youtube "Yv_vSB1Qogs" "Zeit.shift @ Historypin" >}}
-  </div>
-</div>
 
-<br />
-
-#### 📍 Help us locate and tag historical advertisements!
-
-<div class="row justify-content-center text-center">
-  <div class="col-sm">
-  </div>
-  <div class="col-sm">
-    <a href="https://www.historypin.org/en/zeit-shift/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
-  </div>
-  <div class="col-sm">
-    <a href="https://all4ling.eurac.edu/zeitshift/historypin/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">📃&nbsp;INSTRUCTIONS</button></a>
-  </div>
-  <div class="col-sm">
-  </div>
-</div>
-<br />
-
-<div class="row justify-content-center text-center">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <div class="col-sm">
-    <div class="card-block">
-      <h4><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Start date: 11.10.2021</span></h4>
-    </div>
-  </div>
-  <div class="col-sm">
-    <div class="card-block">
-      <h4><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Tagged adverts: 286</span></h4>
-    </div>
-  </div>
-</div>
+<p style="font-size: 16pt">Preservation, development and communication  of the cultural and textual heritage of the historical region of Tyrol</p>
 
 
 <br />
-
-# A project by
+<!--### A project by-->
 
 <div class="container px-0">
   <div class="d-flex flex-wrap align-self-center justify-content-center">
@@ -92,7 +51,70 @@ nolead: true
 
 
 
-<br /> <br /><br />
+# Participate!
+
+<div class="row justify-content-center text-center">
+  
+
+  <div class="col-sm">
+
+  ##### 🎮 Play a typing game
+  {{< figure src="images/oetzi_game.png" style="box-shadow: 10px 10px 10px lightgrey;" >}}
+
+  <button type="button" class="btn btn-danger" style="font-size: 14pt" disabled>⏳&nbsp;COMING SOON!</button>
+
+  </div>
+
+
+
+  <div class="col-sm">
+
+  ##### 📍 Help us locate and tag historical advertisements
+
+  {{< youtube "Yv_vSB1Qogs" "Zeit.shift @ Historypin" >}}
+
+
+  <div class="row justify-content-center text-center">
+    <div class="col-sm">
+    </div>
+    <div class="col-sm">
+      <a href="https://www.historypin.org/en/zeit-shift/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
+    </div>
+    <div class="col-sm">
+      <a href="https://all4ling.eurac.edu/zeitshift/historypin/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">📃&nbsp;INSTRUCTIONS</button></a>
+    </div>
+    <div class="col-sm">
+    </div>
+
+  <br /><br />
+
+  <div class="card-block">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <p><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Tagged adverts: <strong>286</strong></span></p>
+  </div>
+
+  </div>
+
+  <!--<div class="row justify-content-center text-center">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <div class="col-sm">
+      <div class="card-block">
+        <p><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Start date: 11.10.2021</span></p>
+      </div>
+    </div>
+    <div class="col-sm">
+      <div class="card-block">
+        <p><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Tagged adverts: 286</span></p>
+      </div>
+    </div>
+  </div>-->
+
+
+  </div>
+</div>
+
+
+<br /><br /><br />
 # Latest news
 
 
@@ -106,7 +128,7 @@ nolead: true
 </div>
 
 
-<br /> <br />
+<br /><br />
 # Featured in
 
 <div class="container px-0">
@@ -174,5 +196,6 @@ nolead: true
     </form>
   </div>
   </div>
+
 </div>
 </center>

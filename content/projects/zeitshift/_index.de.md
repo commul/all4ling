@@ -20,56 +20,16 @@ notitle: true
 nolead: true
 ---
 <center>
-<div class="row justify-content-center text-center">
-  <div class="col-sm">
-  {{< figure src="/images/LBT_zeitshift_facebook_cover_photo_820x360.png" size="x175" >}}
 
-  Zeit.shift ist ein Citizen Humanities Projekt, das die Bewahrung,
-  Erschließung und Vermittlung des kulturellen Texterbes Tirols
-  und Südtirols zum Ziel hat.
+{{< figure src="/images/LBT_zeitshift_facebook_cover_photo_820x360.png" size="x195" >}}
 
-  </div>
-  <div class="col-sm">
-  {{< youtube "Yv_vSB1Qogs" "Zeit.shift @ Historypin" >}}
-  </div>
-</div>
 
-<br />
-
-#### 📍 Hilf uns, historische Werbeanzeigen zu verorten und zu taggen!
-
-<div class="row justify-content-center text-center">
-  <div class="col-sm">
-  </div>
-  <div class="col-sm">
-    <a href="https://www.historypin.org/de/zeit-shift/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
-  </div>
-  <div class="col-sm">
-    <a href="https://all4ling.eurac.edu/de/zeitshift/historypin/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">📃&nbsp;ANLEITUNG</button></a>
-  </div>
-  <div class="col-sm">
-  </div>
-</div>
-<br />
-
-<div class="row justify-content-center text-center">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <div class="col-sm">
-    <div class="card-block">
-      <h4><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Anfangsdatum: 11.10.2021</span></h4>
-    </div>
-  </div>
-  <div class="col-sm">
-    <div class="card-block">
-      <h4><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Annotierte Werbeanzeigen: 286</span></h4>
-    </div>
-  </div>
-</div>
+<p style="font-size: 16pt">Zeit.shift ist ein Citizen Humanities Projekt, das die Bewahrung, Erschließung und Vermittlung des kulturellen Texterbes Tirols und Südtirols zum Ziel hat</p>
 
 
 <br />
+<!--# Ein Projekt von-->
 
-# Ein Projekt von
 <div class="container px-0">
   <div class="d-flex flex-wrap align-self-center justify-content-center">
     <div class="px-2">
@@ -91,8 +51,70 @@ nolead: true
 </div>
 
 
+# Mach mit!
 
-<br /> <br /><br />
+<div class="row justify-content-center text-center">
+  
+
+  <div class="col-sm">
+
+#### 🎮 Spiel ein Tippspiel
+
+  {{< figure src="images/oetzi_game.png" style="box-shadow: 10px 10px 10px lightgrey;" >}}
+
+  <button type="button" class="btn btn-danger" style="font-size: 14pt" disabled>⏳&nbsp;COMING SOON!</button>
+
+  </div>
+
+
+
+  <div class="col-sm">
+
+  #### 📍 Hilf uns, historische Werbeanzeigen zu verorten und zu taggen!
+
+  {{< youtube "Yv_vSB1Qogs" "Zeit.shift @ Historypin" >}}
+  
+
+<div class="row justify-content-center text-center">
+  <div class="col-sm">
+  </div>
+  <div class="col-sm">
+    <a href="https://www.historypin.org/de/zeit-shift/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
+  </div>
+  <div class="col-sm">
+    <a href="https://all4ling.eurac.edu/de/zeitshift/historypin/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">📃&nbsp;ANLEITUNG</button></a>
+  </div>
+  <div class="col-sm">
+  </div>
+
+
+<br /><br />
+
+<div class="card-block">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <p><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Annotierte Werbeanzeigen: <strong>286</strong></span></p>
+    </div>
+
+</div>
+
+<!--<div class="row justify-content-center text-center">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <div class="col-sm">
+    <div class="card-block">
+      <h4><i class="fa fa-calendar f-left" style="color: #00A984"></i>&nbsp;<span>Anfangsdatum: 11.10.2021</span></h4>
+    </div>
+  </div>
+  <div class="col-sm">
+    <div class="card-block">
+      <h4><i class="fa fa-tags f-left" style="color: #00A984"></i>&nbsp;<span>Annotierte Werbeanzeigen: 286</span></h4>
+    </div>
+  </div>
+</div>-->
+
+  </div>
+</div>
+
+<br /><br /><br />
 # Neuigkeiten
 
 
@@ -106,7 +128,7 @@ nolead: true
 </div>
 
 
-<br /> <br />
+<br /><br />
 # Berichtet in
 
 <div class="container px-0">
@@ -174,5 +196,6 @@ nolead: true
     </form>
   </div>
   </div>
+
 </div>
 </center>

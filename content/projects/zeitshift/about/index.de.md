@@ -63,7 +63,6 @@ Die Tiroler Zeitungen, die wir digitalisieren, befinden sich in den Beständen d
 
 ##### Demnächst
 
-- Unterinntaler Bote, 1900
 - Unterinntaler Bote, 1910
 - Reuttener Nachrichten, 1931
 - Der Oberlander, 1909
