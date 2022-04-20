@@ -70,7 +70,7 @@ nolead: true
 
   <div class="col-sm">
 
-  #### 📍 Hilf uns, historische Werbeanzeigen zu verorten und zu taggen!
+  #### 📍 Hilf uns, historische Werbeanzeigen zu verorten und zu taggen
 
   {{< youtube "Yv_vSB1Qogs" "Zeit.shift @ Historypin" >}}
   
