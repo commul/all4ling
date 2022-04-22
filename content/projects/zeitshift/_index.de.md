@@ -60,9 +60,9 @@ nolead: true
 
 #### 🎮 Spiel ein Tippspiel
 
-  {{< figure src="images/oetzi_game.png" style="box-shadow: 10px 10px 10px lightgrey;" >}}
+  {{< figure src="images/oetzi_game.png" size="600x" >}}
 
-  <button type="button" class="btn btn-danger" style="font-size: 14pt" disabled>⏳&nbsp;COMING SOON!</button>
+  <a href="httpshttps://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
 
   </div>
 
@@ -80,6 +80,9 @@ nolead: true
   </div>
   <div class="col-sm">
     <a href="https://www.historypin.org/de/zeit-shift/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
+  </div>
+  <div class="col-sm">
+    <br />
   </div>
   <div class="col-sm">
     <a href="https://all4ling.eurac.edu/de/zeitshift/historypin/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">📃&nbsp;ANLEITUNG</button></a>

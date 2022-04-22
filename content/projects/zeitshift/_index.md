@@ -59,7 +59,7 @@ nolead: true
   <div class="col-sm">
 
   ##### 🎮 Play a typing game
-  {{< figure src="images/oetzi_game.png" style="box-shadow: 10px 10px 10px lightgrey;" size="90X" >}}
+  {{< figure src="images/oetzi_game.png" size="600x">}}
 
   <a href="httpshttps://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
   <!--<button type="button" class="btn btn-danger" style="font-size: 14pt" disabled>⏳&nbsp;COMING SOON!</button>-->
@@ -80,6 +80,9 @@ nolead: true
     </div>
     <div class="col-sm">
       <a href="https://www.historypin.org/en/zeit-shift/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
+    </div>
+    <div class="col-sm">
+      <br />
     </div>
     <div class="col-sm">
       <a href="https://all4ling.eurac.edu/zeitshift/historypin/" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">📃&nbsp;INSTRUCTIONS</button></a>
