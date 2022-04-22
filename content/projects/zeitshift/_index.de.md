@@ -62,7 +62,7 @@ nolead: true
 
   {{< figure src="images/oetzi_game.png" size="600x" >}}
 
-  <a href="httpshttps://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
+  <a href="https://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
 
   </div>
 
