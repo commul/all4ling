@@ -61,7 +61,7 @@ nolead: true
   ##### 🎮 Play a typing game
   {{< figure src="images/oetzi_game.png" style="box-shadow: 10px 10px 10px lightgrey;" size="90X" >}}
 
-  <button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button>
+  <a href="httpshttps://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-success" style="background-color: #00A984; font-size: 14pt;">🚀&nbsp;START!</button></a>
   <!--<button type="button" class="btn btn-danger" style="font-size: 14pt" disabled>⏳&nbsp;COMING SOON!</button>-->
 
   </div>
