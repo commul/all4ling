@@ -65,19 +65,16 @@ Diese Aktivität wird auf der bestehenden [Historypin-Plattform](https://www.his
 
 
 
-### 🎮 /oetzit
+### 🎮 Ötzit!
 
-{{< figure src="oetzi_game.webp" alt="Game preview" caption="/oetzit Spiel." attr="Dieses Bild ist lizensiert unter CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
+{{< figure src="images/oetzi_game.png" alt="Game preview" caption="Ötzit! Spiel." attr="Dieses Bild ist lizensiert unter CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
 
 In diesem individuellen durch [Typespeed](http://typespeed.sourceforge.net/) inspirierten Online-Game siehst du Wörter vom Himmel fallen, die automatisch aus digitalisierten Tiroler Zeitungen extrahiert wurden. Das Ziel des Spiels ist einfach: tippe so schnell wie möglich die herabfallenden Wörter ein und zwar bevor die herannahenden Tiere [Ötzi, den Mann aus dem Eis](https://www.iceman.it/en/the-iceman/), überwältigen! Richtig eingetippte Wörter helfen Ötzi die wilden Tiere wegzujagen und verlängern so sein Leben.
 
-**Anforderungen**:
-
-- Ausreichende Kenntnisse des Deutschen und von Frakturschrift
 
 <!--{{< alert icon="👉" context="info" text="Es ist keine Registrierung erforderlich!" />}}-->
 
-<p style="text-align: center"><button type="button" class="btn btn-danger" disabled>⏳ COMING SOON!</button></p>
+<a href="https://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-danger" style="background-color: #DF1B12; font-size: 14pt;">🚀&nbsp;START!</button></a>
 
 
 

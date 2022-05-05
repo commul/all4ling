@@ -61,19 +61,16 @@ In this activity, citizens locate and tag historical advertisements published in
 
 
 
-### 🎮 /oetzit
+### 🎮 Ötzit!
 
-{{< figure src="oetzi_game.webp" alt="Game preview" caption="Our /oetzit game." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
+{{< figure src="images/oetzi_game.png" alt="Game preview" caption="Our Ötzit! game." attr="This image is licensed under CC BY 3.0" attrlink="https://creativecommons.org/licenses/by/3.0/" style="margin-top: 0;" >}}
 
 In this custom web game, inspired by [Typespeed](http://typespeed.sourceforge.net/), words automatically extracted from the digitised Tyrolean newspapers drop from the sky. The goal of the game is simple: you must type the words as fast as possible before the animals reach and kill [Ötzi the Iceman](https://www.iceman.it/en/the-iceman/)! Words typed correctly will scare off the animals and prolong Ötzi's life. <!--When Ötzi dies, you are shown the original newspaper article from which the killing name (the killer!) was taken, allowing you to explore its context.-->
 
-**Requirements**:
-
-- some knowledge of German and Fraktur
 
 <!--{{< alert icon="👉" context="info" text="No sign-up or registration required!" />}} <br /><br />-->
 
-<p style="text-align: center"><button type="button" class="btn btn-danger" disabled>⏳ COMING SOON!</button></p>
+<a href="https://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-danger" style="background-color: #DF1B12; font-size: 14pt;">🚀&nbsp;START!</button></a>
 
 
 

@@ -15,6 +15,14 @@ weight: 111
 toc: true
 ---
 
+- 04.05.2022, <a href="https://elearningblog.tugraz.at/archives/13599" title="Opens in new tab" target="_blank">'[mooc] Zeit.shift MOOC – Digital in gesterns Zukunft #imoox #innsbruck', <em>E-learning Blog TU Graz</em></a>
+
+- 02.05.2022, <a href="https://europe-cities.com/2022/05/02/zeit-shift-mooc-goes-online-university-of-innsbruck/" title="Opens in new tab" target="_blank">'Zeit.shift-MOOC goes online – University of Innsbruck', <em>europe-cities</em></a>
+
+- 02.05.2022, <a href="https://www.uibk.ac.at/de/newsroom/2022/zeitshift-mooc-geht-online/" title="Opens in new tab" target="_blank">'Zeit.shif-MOOC geht online', Universität Innsbruck</a>
+
+- 01.05.2022, <a href="https://innsbruck-erinnert.at/drum-pruefe-wer-sich-backenlos-bindet/" title="Opens in new tab" target="_blank">'Drum prüfe, wer sich backenlos bindet', <em>Innsbruck erinnert sich</em></a>
+
 - 31.03.2022, <a href="https://www.meraner.eu/blaettern#seite/11" title="Opens in new tab" target="_blank">Meraner Stadtanzeiger</a>
 
 - 05.03.2022, <a href="https://tvthek.orf.at/profile/Tirol-heute/70023/Tirol-heute/14126830/Bibliotheksprojekt-zeit-shift/15119452" target="_blank" title="Opens in new tab">Tirol heute - Bibliotheksprojekt "zeit.shift"</a>

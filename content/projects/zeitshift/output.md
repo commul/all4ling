@@ -26,3 +26,7 @@ toc: true
 - Landesbibliothek Dr. Friedrich Teßmann (25.10., 26.10., 29.10.2021, 30.11.2021, 25.01.2022, 16.02.2022, 18.03.2022)
 - Tiroler Bildungsforum (18.01.2022)
 - Universität Innsbruck for Museums and Libraries (24.11.2021)
+
+## E-learning course (MOOC)
+
+- [Zeit.shift MOOC - Digital in gesterns Zukunft](https://imoox.at/course/zeitshift)
