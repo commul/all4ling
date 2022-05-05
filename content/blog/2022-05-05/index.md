@@ -4,7 +4,7 @@ description: ""
 lead: "A new collection of 110 historical advertisements from the Unterinntaler Bote newspaper is now..."
 date: 2022-04-11T06:00:42+01:00
 lastmod: 2022-04-11T06:00:42+01:00
-draft: false
+draft: true
 weight: 50
 images: []
 article_img: 'futterbereitungs_maschinen.jpg'
