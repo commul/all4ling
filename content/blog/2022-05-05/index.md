@@ -1,5 +1,5 @@
 ---
-title: " Zeit.shift MOOC "Digital in gesterns Zukunft" goes online! 👩🏼‍🏫"
+title: "Zeit.shift MOOC -Digital in gesterns Zukunft- goes online! 👩🏼‍🏫"
 description: ""
 lead: "We're very happy to announce that the Zeit.shift e-learning course (MOOC) is now online!"
 date: 2022-05-05T06:00:42+01:00
