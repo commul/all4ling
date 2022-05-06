@@ -74,8 +74,9 @@ In diesem individuellen durch [Typespeed](http://typespeed.sourceforge.net/) ins
 
 <!--{{< alert icon="👉" context="info" text="Es ist keine Registrierung erforderlich!" />}}-->
 
-<a href="https://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-danger" style="background-color: #DF1B12; font-size: 14pt;">🚀&nbsp;START!</button></a>
-
+<div class="row justify-content-center text-center">
+  <a href="https://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-danger" style="background-color: #DF1B12; font-size: 14pt;">🚀&nbsp;START!</button></a>
+</div>
 
 
 ## Warum sollte ich mitmachen?

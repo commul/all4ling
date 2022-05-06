@@ -21,7 +21,7 @@ nolead: true
 ---
 <center>
 
-{{< figure src="/images/LBT_zeitshift_facebook_cover_photo_820x360.png" size="x195" >}}
+{{< figure src="/images/LBT_zeitshift_facebook_cover_photo_820x360.png" size="x195" alt="Zeit.shift logo" >}}
 
 
 <p style="font-size: 16pt">Zeit.shift ist ein Citizen Humanities Projekt, das die Bewahrung, Erschließung und Vermittlung des kulturellen Texterbes Tirols und Südtirols zum Ziel hat</p>
@@ -33,19 +33,19 @@ nolead: true
 <div class="container px-0">
   <div class="d-flex flex-wrap align-self-center justify-content-center">
     <div class="px-2">
-      {{< figure src="images/interreg_logo.png" size="230x" link="https://www.interreg.net/" linktarget="_blank" title="Interreg Italia-Österreich logo" >}}
+      {{< figure src="images/interreg_logo.png" size="230x" link="https://www.interreg.net/" linktarget="_blank" alt="Interreg Italia-Österreich logo" >}}
     </div>
     <div class="px-2">
-      {{< figure src="images/innsbruck_logo.png" size="200x" link="https://www.uibk.ac.at/ulb/" linktarget="_blank" title="UniInnsbruck logo" >}}
+      {{< figure src="images/innsbruck_logo.png" size="200x" link="https://www.uibk.ac.at/ulb/" linktarget="_blank" alt="UniInnsbruck logo" >}}
     </div>
     <div class="px-2">
-      {{< figure src="images/eurac_logo.png" size="170x" link="https://www.eurac.edu/" linktarget="_blank" title="Eurac Research logo" >}}
+      {{< figure src="images/eurac_logo.png" size="170x" link="https://www.eurac.edu/" linktarget="_blank" alt="Eurac Research logo" >}}
     </div>
     <div class="px-2">
-      {{< figure src="images/LBT_transparent.png" size="250x" link="https://www.tessmann.it/" linktarget="_blank" title="Landesbibliothek Dr. Friedrich Teßmann logo" >}}
+      {{< figure src="images/LBT_transparent.png" size="250x" link="https://www.tessmann.it/" linktarget="_blank" alt="Landesbibliothek Dr. Friedrich Teßmann logo" >}}
     </div>
     <div class="px-2">
-      {{< figure src="images/bozen_provinz.png" size="200x" link="https://www.provincia.bz.it/" linktarget="_blank" title="Province of Bolzano logo" >}}
+      {{< figure src="images/bozen_provinz.png" size="200x" link="https://www.provincia.bz.it/" linktarget="_blank" alt="Province of Bolzano logo" >}}
     </div>
   </div>
 </div>
@@ -137,43 +137,43 @@ nolead: true
 <div class="container px-0">
   <div class="d-flex flex-wrap justify-content-center">
  <div class="px-2 align-self-center">
-      {{< figure src="images/eu-citizen-science_transparent.png" size="150x" link="https://eu-citizen.science/project/318" linktarget="_blank" title="EUCS logo" >}}
+      {{< figure src="images/eu-citizen-science_transparent.png" size="150x" link="https://eu-citizen.science/project/318" linktarget="_blank" alt="EUCS logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/OEF_CitizenScience_Logo_600px.png" size="180x" link="https://www.citizen-science.at/en/" linktarget="_blank" title="OEF logo" >}}
+      {{< figure src="images/OEF_CitizenScience_Logo_600px.png" size="180x" link="https://www.citizen-science.at/en/" linktarget="_blank" alt="OEF logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/BsW_Logo-WEB_transparent.png" size="150x" link="https://www.buergerschaffenwissen.de/projekt/zeitshift-digital-gesterns-zukunft" linktarget="_blank" title="BSW logo" >}}
+      {{< figure src="images/BsW_Logo-WEB_transparent.png" size="150x" link="https://www.buergerschaffenwissen.de/projekt/zeitshift-digital-gesterns-zukunft" linktarget="_blank" alt="BSW logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/MV_logo.png" size="150x" link="https://museumsverband.it/de/digital-in-gesterns-zukunft/" linktarget="_blank" title="MV logo" >}}
+      {{< figure src="images/MV_logo.png" size="150x" link="https://museumsverband.it/de/digital-in-gesterns-zukunft/" linktarget="_blank" alt="MV logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/suedtiroler-kulturinstitut.png" size="150x" link="https://kulturinstitut.org/alle-veranstaltungen/detail/events/Interreg-Projekt%20%E2%80%9EZeit.shift%E2%80%9C.html" linktarget="_blank" title="Suedtiroler Kulturinstitut logo" >}}
+      {{< figure src="images/suedtiroler-kulturinstitut.png" size="150x" link="https://kulturinstitut.org/alle-veranstaltungen/detail/events/Interreg-Projekt%20%E2%80%9EZeit.shift%E2%80%9C.html" linktarget="_blank" alt="Suedtiroler Kulturinstitut logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/BVS-Logo-Deutsch.png" size="150x" link="https://www.bvs.bz.it/news/zeitshift-digital-gesterns-zukunft" linktarget="_blank" title="BVS logo" >}}
+      {{< figure src="images/BVS-Logo-Deutsch.png" size="150x" link="https://www.bvs.bz.it/news/zeitshift-digital-gesterns-zukunft" linktarget="_blank" alt="BVS logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/tiroler_landesmuseen.png" size="150x" link="https://www.tiroler-landesmuseen.at/blog_bib_zeit-shift-digital-in-gesterns-zukunft/" linktarget="_blank" title="Tiroler Landesmuseen logo" >}}
+      {{< figure src="images/tiroler_landesmuseen.png" size="150x" link="https://www.tiroler-landesmuseen.at/blog_bib_zeit-shift-digital-in-gesterns-zukunft/" linktarget="_blank" alt="Tiroler Landesmuseen logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/Logo_Die_Neue_Suedtiroler_Tageszeitung.png" size="150x" link="https://www.tageszeitung.it/2021/11/06/zeit-shift/" linktarget="_blank" title="Die Neue Suedtiroler Tageszeitung logo" >}}
+      {{< figure src="images/Logo_Die_Neue_Suedtiroler_Tageszeitung.png" size="150x" link="https://www.tageszeitung.it/2021/11/06/zeit-shift/" linktarget="_blank" alt="Die Neue Suedtiroler Tageszeitung logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/Titelblatt_Tiroler_Chronist.png" size="150x" link="https://www.chronisten.tirol/" linktarget="_blank" title="Tiroler Chronist logo" >}}
+      {{< figure src="images/Titelblatt_Tiroler_Chronist.png" size="150x" link="https://www.chronisten.tirol/" linktarget="_blank" alt="Tiroler Chronist logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/stol-logo.jpg" size="150x" link="https://www.stol.it/artikel/kultur/zeitshift-digital-in-gesterns-zukunft" linktarget="_blank" title="STOL logo" >}}
+      {{< figure src="images/stol-logo.jpg" size="150x" link="https://www.stol.it/artikel/kultur/zeitshift-digital-in-gesterns-zukunft" linktarget="_blank" alt="STOL logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/clio-online.png" size="150x" link="http://www.clio-online.de/webresource/id/webresource-75624?title=zeit-shift-digital-in-gesterns-zukunft&recno=2&q=&sort=&fq=&total=10584" linktarget="_blank" title="Clio-online logo" >}}
+      {{< figure src="images/clio-online.png" size="150x" link="http://www.clio-online.de/webresource/id/webresource-75624?title=zeit-shift-digital-in-gesterns-zukunft&recno=2&q=&sort=&fq=&total=10584" linktarget="_blank" alt="Clio-online logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/ORF_logo.png" size="150x" title="ORF logo" >}}
+      {{< figure src="images/ORF_logo.png" size="150x" alt="ORF logo" >}}
     </div>
     <div class="px-2 align-self-center">
-      {{< figure src="images/Innsbruck-logo.jpg" size="150x" title="Innsbruck logo" link="https://innsbruck-erinnert.at/drum-pruefe-wer-sich-backenlos-bindet/" linktarget="_blank" >}}
+      {{< figure src="images/Innsbruck-logo.webp" size="150x" alt="Innsbruck logo" link="https://innsbruck-erinnert.at/drum-pruefe-wer-sich-backenlos-bindet/" linktarget="_blank" >}}
     </div>
   </div>
 </div>

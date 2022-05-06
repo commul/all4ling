@@ -70,7 +70,9 @@ In this custom web game, inspired by [Typespeed](http://typespeed.sourceforge.ne
 
 <!--{{< alert icon="👉" context="info" text="No sign-up or registration required!" />}} <br /><br />-->
 
-<a href="https://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-danger" style="background-color: #DF1B12; font-size: 14pt;">🚀&nbsp;START!</button></a>
+<div class="row justify-content-center text-center">
+  <a href="https://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab"><button type="button" class="btn btn-danger" style="background-color: #DF1B12; font-size: 14pt;">🚀&nbsp;START!</button></a>
+</div>
 
 
 
