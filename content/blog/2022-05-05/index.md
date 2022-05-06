@@ -1,31 +1,34 @@
 ---
-title: "Unterinntaler Bote adverts added to Historypin📍"
+title: " Zeit.shift MOOC "Digital in gesterns Zukunft" goes online! 👩🏼‍🏫"
 description: ""
-lead: "A new collection of 110 historical advertisements from the Unterinntaler Bote newspaper is now..."
-date: 2022-04-11T06:00:42+01:00
-lastmod: 2022-04-11T06:00:42+01:00
-draft: true
+lead: "We're very happy to announce that the Zeit.shift e-learning course (MOOC) is now online!"
+date: 2022-05-06T06:00:42+01:00
+lastmod: 2022-05-06T06:00:42+01:00
+draft: false
 weight: 50
 images: []
-article_img: 'futterbereitungs_maschinen.jpg'
+article_img: 'zs_mooc.jpg'
 contributors: ["Eurac Research"]
 ---
 
-A new collection of 110 historical advertisements from the _Unterinntaler Bote_ newspaper is now available in Historypin! This newspaper was published in Hall in Tirol, North Tyrol, between 1892 and 1916 and the adverts you'll find online were extracted from the 1900 issue.
+We're very happy to announce that the Zeit.shift e-learning course (MOOC) is now online! 
 
+What do newspapers tell us about life 100 years ago? How can I research historical newspapers available online to formulate a scholarly question? How are newspapers digitized and made accessible via web platforms?
 
+In the Zeit.shift MOOC "Digital in yesterday's future" you will work with digitised historical newspapers from North, East and South Tyrol made available online for scholarly research. We will prepare selected topics from the newspapers as examples to give you a better understanding of the range of historical texts and we will make it easier for you to find an exciting topic for a scientific paper.
 
-<br />
+The MOOC is primarily aimed at students and anyone who wishes to work with newspapers available online. We will guide you through these historical sources, helping you investigate them in new ways.
 
+<strong>Registration is free</strong>! 
 
-<p style="text-align: center"><a href="https://www.historypin.org/en/zeit-shift/unterinntaler-bote-1900/geo/47.280403,11.505848,15/bounds/47.280403,11.492781,47.280403,11.518916/paging/1" target="_blank"><button type="button" class="btn btn-success" style="background-color: #00A984;">Start tagging!</button></a></p>
+Course link: [https://imoox.at/course/zeitshift](https://imoox.at/course/zeitshift)
 
 
 <br /><br />
 
 
 <center>
-  {{< img src="futterbereitungs_maschinen.jpg" alt="Futterbereitungs-Maschinen advert">}}
+  {{< img src="zs_mooc.jpg" alt="Zeit.shift MOOC homepage">}}
 </center>
  
 
