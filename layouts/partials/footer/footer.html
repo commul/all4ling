@@ -9,7 +9,7 @@
       <div class="col-lg-8 order-first order-lg-last text-lg-end">
         <ul class="list-inline">
           {{ range .Site.Menus.footer -}}
-            <li class="list-inline-item"><a target="_blank" href="{{ .URL }}">{{ .Name }}</a></li>
+            <li class="list-inline-item"><a target="_blank" href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
           {{ end -}}
         </ul>
       </div>
@@ -23,7 +23,7 @@
   {{ T "CookieNotice" }}
 
   {{ range .Site.Menus.cookie -}}
-    <a target="_blank" href="{{ .URL }}">{{ .Name }}</a>
+    <a target="_blank" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
   {{ end -}}
 
   <button type="button" class="btn btn-primary btn-sm ms-3" onclick="window.nk_hideCookieBanner()">
