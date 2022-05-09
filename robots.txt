@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://commul.github.io/all4ling/sitemap.xml
