@@ -1,0 +1,23 @@
+
+/de/zeitshift/ /all4ling/de/projekte/zeitshift/
+/zeitshift/ueber/ /all4ling/de/projekte/zeitshift/%C3%BCber/
+/zeitshift/über/ /all4ling/de/projekte/zeitshift/%C3%BCber/
+/blog/zeit.shift-makes-the-austrian-news/ /all4ling/de/blog/2022-03-08/zeit.shift-makes-the-austrian-news/
+/blog/citsci-2022-proposal-accepted/ /all4ling/de/blog/2022-02-07/citsci-2022-proposal-accepted/
+/blog/öcs-2022-proposal-accepted/ /all4ling/de/blog/2022-01-20/%C3%B6cs-2022-proposal-accepted/
+/blog/open-research-award-2021/ /all4ling/de/blog/2021-12-15/open-research-award-2021/
+/blog/aiucd-2022-proposal-accepted/ /all4ling/de/blog/2021-11-08/aiucd-2022-proposal-accepted/
+/blog/erster-workshop-online/ /all4ling/de/blog/2021-10-14/erster-workshop-online/
+/blog/zeit.shift-digital-in-gesterns-zukunft-mach-mit-%EF%B8%8F/ /all4ling/de/blog/2021-10-12/zeit.shift-digital-in-gesterns-zukunft-mach-mit-%EF%B8%8F/
+/blog/zeit.shift-digital-in-gesterns-zukunft-mach-mit-/ /all4ling/de/blog/2021-10-12/zeit.shift-digital-in-gesterns-zukunft-mach-mit-%EF%B8%8F/
+/blog/say-hello-to-zeit.shift/ /all4ling/de/blog/2021-10-11/say-hello-to-zeit.shift/
+/de/zeitshift/historypin/ /all4ling/de/projekte/zeitshift/historypin-anleitung/
+/de/zeitshift/presse/ /all4ling/de/projekte/zeitshift/presse/
+/de/zeitshift/output/ /all4ling/de/projekte/zeitshift/output/
+/de/zeitshift/resourcen/ /all4ling/de/projekte/zeitshift/resourcen/# /docs/1.0/prologue/   /docs/1.0/prologue/introduction/
+# /docs/1.0/help/       /docs/1.0/help/how-to-update/
+# /docs/1.0/            /docs/1.0/prologue/introduction/
+# /docs/                /docs/1.0/prologue/introduction/
+#
+# /docs/0.1/*           https://v0-1-0--doks-versioning-poc.netlify.app/docs/0.1/:splat  200
+# /docs/0.2/*           https://v0-2-0--doks-versioning-poc.netlify.app/docs/0.2/:splat  200

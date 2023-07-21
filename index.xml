@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All4Ling</title><link>https://commul.github.io/all4ling/</link><description>Recent content on All4Ling</description><generator>Hugo -- gohugo.io</generator><language>en-EN</language><lastBuildDate>Tue, 06 Oct 2020 08:47:36 +0000</lastBuildDate><atom:link href="https://commul.github.io/all4ling/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://commul.github.io/all4ling/contact/</link><pubDate>Thu, 27 Aug 2020 19:25:12 +0200</pubDate><guid>https://commul.github.io/all4ling/contact/</guid><description>&lt;p>&lt;a href="https://www.eurac.edu/en/institutes-centers/institute-for-applied-linguistics">Institute for Applied Linguistics&lt;/a>&lt;br />
+Eurac Research&lt;br />
+Viale Druso 1&lt;br />
+39100 Bolzano&lt;br />
+Italy&lt;/p>
+&lt;br />
+For questions about the project and help with the tasks, or should you have any
+suggestions as to additional participatory activities we could run with these
+historical materials, please drop us an email at:
+&lt;p>&lt;br /> &lt;br />
+&lt;strong>&lt;script type="text/javascript" nonce="dXNlcj0iaGVsbG8iLGRvbWFpbj0iaGVua3ZlcmxpbmRlLmNvbSIsZG9jdW1lbnQud3JpdGUodXNlcisiQCIrZG9tYWluKTs=">user="zeitshift",domain="eurac.edu",document.write(user+"@"+domain);&lt;/script>&lt;noscript>zeitshift at eurac.edu&lt;/noscript>&lt;/strong>&lt;/p>
+&lt;br />
+We'd love to hear from you!
+&lt;h2 id="team">Team &lt;a href="#team" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h2>
+&lt;p>&lt;strong>Andrea Abel&lt;/strong>, Head of the Institute for Applied Linguistics at Eurac Research&lt;br />
+&lt;strong>Paolo Brasolin&lt;/strong>, Researcher&lt;br />
+&lt;strong>Greta H. Franzini&lt;/strong>, Postdoctoral Researcher&lt;br />
+&lt;strong>Verena Lyding&lt;/strong>, Researcher&lt;br />
+&lt;strong>Egon W. Stemle&lt;/strong>, Researcher&lt;/p></description></item><item><title>About</title><link>https://commul.github.io/all4ling/projects/zeitshift/about/</link><pubDate>Tue, 13 Oct 2020 15:21:01 +0200</pubDate><guid>https://commul.github.io/all4ling/projects/zeitshift/about/</guid><description>&lt;h2 id="zeitshift">Zeit.shift &lt;a href="#zeitshift" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h2>
+&lt;p>&lt;strong>Zeit.shift&lt;/strong> is a cooperation between the &lt;a href="https://www.tessmann.it/en/home.html">Dr. Friedrich Teßmann Library&lt;/a> (Bolzano, Italy), the &lt;a href="https://www.uibk.ac.at/ulb/">Universitäts- und Landesbibliothek Tirol&lt;/a> (Innsbruck, Austria) and &lt;a href="https://www.eurac.edu/">Eurac Research&lt;/a> (Bolzano, Italy) funded by the &lt;a href="https://www.interreg.net/en/default.asp">European Regional Development Fund and Interreg V-A Italia - Austria 2014-2020&lt;/a>, which seeks to preserve, develop and communicate the cultural and textual heritage of the historical region of Tyrol.&lt;/p>
+&lt;p>The project focuses on &lt;strong>historical newspapers written in German&lt;/strong> and mostly &lt;a href="https://web.library.yale.edu/cataloging/music/fraktur">Fraktur script&lt;/a>, which are currently scattered across Tyrol and are only partially digitised. &lt;strong>The goal of the project is twofold&lt;/strong>:&lt;/p>
+&lt;ol>
+&lt;li>digitise some 500,000 pages of Tyrolean papers published between 1850 and 1950 and gather them in a single, freely accessible web platform;&lt;/li>
+&lt;li>promote participatory culture research by inviting citizens to actively curate, explore and engage with the data to accelerate research and create new knowledge.&lt;/li>
+&lt;/ol>
+&lt;!--The involvement of citizens responds to the principles of the [European Citizen Science Association](https://ecsa.citizen-science.net/), which identify high-quality citizen science projects ([Robinson et al. 2018, p. 29](https://discovery.dundee.ac.uk/ws/files/29458369/Citizen_Science_min.pdf)).-->
+&lt;p>Given the large number of newspapers (approx. 500,000 pages), &lt;strong>the more people help curate the data&lt;/strong> and spread the word about Zeit.shift, &lt;strong>the more searchable the newspaper corpus becomes and the longer the historical memory of Tyrol will be preserved&lt;/strong>.&lt;/p>
+&lt;h2 id="digitisation">Digitisation &lt;a href="#digitisation" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h2>
+&lt;p>Zeit.shift is digitally scanning the newspapers and running the scans through Optical Character Recognition (OCR). OCR is the automatic conversion of printed text (e.g. an image of a newspaper page) into digital format (e.g. a Word document). This process often introduces errors in the digital text, especially when dealing with historical sources: issues such as faded ink, complex fonts or poor quality scans affect the recognition capabilities of the OCR machine. A digital text containing OCR mistakes is known as “noisy” text. The noisier the text, the harder it is to use and search.&lt;/p>
+&lt;div style="width: 100%; max-width: 550px; box-shadow: 6px 6px 10px hsl(206.5, 0%, 75%); margin: 2rem;">
+&lt;div style="position: relative; padding-bottom: 56.15%; height: 0; overflow: hidden;">
+&lt;iframe
+style="position: absolute; top: 0; left:0; width: 100%; height: 100%; border: 0;"
+loading="lazy";
+srcdoc="&lt;style>
+* {
+padding: 0;
+margin: 0;
+overflow: hidden;
+}
+body, html {
+height: 100%;
+}
+img, svg {
+position: absolute;
+width: 100%;
+top: 0;
+bottom: 0;
+margin: auto;
+}
+svg {
+filter: drop-shadow(1px 1px 10px hsl(206.5, 70.7%, 8%));
+transition: all 250ms ease-in-out;
+}
+body:hover svg {
+filter: drop-shadow(1px 1px 10px hsl(206.5, 0%, 10%));
+transform: scale(1.2);
+}
+&lt;/style>
+&lt;a href='https://www.youtube.com/embed/pd1gJoz2lYU?autoplay=1'>
+&lt;img src='https://img.youtube.com/vi/pd1gJoz2lYU/hqdefault.jpg' alt='A brief introduction to Optical Character Recognition.'>
+&lt;svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'>&lt;circle cx='12' cy='12' r='10'>&lt;/circle>&lt;polygon points='10 8 16 12 10 16 10 8'>&lt;/polygon>&lt;/svg>
+&lt;/a>
+"
+src="https://www.youtube.com/embed/pd1gJoz2lYU"
+title="A brief introduction to Optical Character Recognition."
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+&lt;/iframe>
+&lt;/div>
+&lt;/div>
+&lt;br />
+Here is an example of a "noisy" digital text in Zeit.shift:&lt;br />
+&lt;figure class="figure">
+&lt;img class="figure-img img-fluid lazyload blur-up" src="https://commul.github.io/all4ling/projects/zeitshift/about/exampleOCR_img_hue76a710598affd9b070a7732fcbfe88d_43206_640x0_resize_q75_h2_box_2.webp" width="640" height="283" alt="Example scan" />
+&lt;noscript>&lt;img class="figure-img img-fluid" src="https://commul.github.io/all4ling/projects/zeitshift/about/exampleOCR_img_hue76a710598affd9b070a7732fcbfe88d_43206_640x0_resize_q75_h2_box_2.webp" width="640" height="283" alt="Example scan" />&lt;/noscript>
+&lt;figcaption class="figure-caption">
+&lt;span>Tiroler Land-Zeitung, 21st December 1918, p. 8: &lt;strong>Digital scan&lt;/strong>.&lt;/span>
+&lt;div>&lt;small>&lt;a rel="license" href="https://creativecommons.org/licenses/by/3.0/">
+This image is licensed under CC BY 3.0
+&lt;/a>
+&lt;/small>&lt;/div>
+&lt;/figcaption>
+&lt;/figure>
+&lt;figure class="figure">
+&lt;img class="figure-img img-fluid lazyload blur-up" src="https://commul.github.io/all4ling/projects/zeitshift/about/exampleOCR_transcr_hu0b1192ea240fce1d5547f0cda1b04c43_65346_640x0_resize_q75_h2_box_2.webp" width="640" height="246" alt="Example dirty OCR" />
+&lt;noscript>&lt;img class="figure-img img-fluid" src="https://commul.github.io/all4ling/projects/zeitshift/about/exampleOCR_transcr_hu0b1192ea240fce1d5547f0cda1b04c43_65346_640x0_resize_q75_h2_box_2.webp" width="640" height="246" alt="Example dirty OCR" />&lt;/noscript>
+&lt;figcaption class="figure-caption">
+&lt;span>Tiroler Land-Zeitung, 21st December 1918, p. 8: &lt;strong>Noisy OCR&lt;/strong> (mistakes in red).&lt;/span>
+&lt;div>&lt;small>&lt;a rel="license" href="https://creativecommons.org/licenses/by/3.0/">
+This image is licensed under CC BY 3.0
+&lt;/a>
+&lt;/small>&lt;/div>
+&lt;/figcaption>
+&lt;/figure>
+&lt;h3 id="the-newspapers">The newspapers &lt;a href="#the-newspapers" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;h4 id="to-be-digitised">To be digitised &lt;a href="#to-be-digitised" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h4>
+&lt;p>The Tyrolean newspapers we are digitising are held at the Friedrich Teßmann and Innsbruck University libraries. Here is the complete list (titles shortened): Innsbrucker Zeitung, Alpenland, Alpenländer Bote, Der Arbeiter, Volksruf, Gardasee-Post, Neueste Zeitung, Neueste Morgenzeitung, Innsbrucker Neueste, Innsbrucker illustrierte neueste Nachrichten, Abendblatt, Innsbrucker Abendblatt, Der Oberländer, Der Südtiroler, Tiroler Bauernzeitung, Tiroler Landbote, Der Landbote, Tiroler Grenzbote, Tiroler Volksblatt, Tiroler Land-Zeitung, Tiroler Gemeindeblatt, Alpenrosen, Oberinntaler Wochenblatt, Neue Inn-Zeitung, Tiroler Post, Die Post, Tiroler Sonntagsbote, Der Tiroler Wastl, Der Widerhall, Tiroler-Vorarlberger Bienen-Zeitung, Tiroler Bienen-Zeitung, Alpenländische Bienenzeitung, Unterinntaler Bote, Haller Wochenblatt, Sterne und Blumen, Volkszeitung Innsbruck, Deutsche Volkszeitung.&lt;/p>
+&lt;h4 id="available-in-historypin">Available in Historypin &lt;a href="#available-in-historypin" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h4>
+&lt;h5 id="online">Online &lt;a href="#online" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h5>
+&lt;ul>
+&lt;li>Unterinntaler Bote, 1900 (110 adverts)&lt;/li>
+&lt;li>Schwazer Lokalanzeiger Kreisblatt, 1928 (203 adverts)&lt;/li>
+&lt;li>Meraner Zeitung, 1920 (1897 adverts)&lt;/li>
+&lt;li>Tiroler Grenzbote, 1923 (1602 adverts)&lt;/li>
+&lt;li>Tiroler-Vorarlberger Bienen-Zeitung, 1924-1925 (54 adverts)&lt;/li>
+&lt;li>Lienzer Zeitung, 1919 (104 adverts)&lt;/li>
+&lt;li>Pustertaler Bote, 1924 (409 adverts)&lt;/li>
+&lt;li>Bozner Nachrichten, January-April 1921 (2109 adverts)&lt;/li>
+&lt;/ul>
+&lt;h5 id="upcoming">Upcoming &lt;a href="#upcoming" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h5>
+&lt;ul>
+&lt;li>Unterinntaler Bote, 1910&lt;/li>
+&lt;li>Reuttener Nachrichten, 1931&lt;/li>
+&lt;li>Der Oberländer, 1909&lt;/li>
+&lt;li>Haller Lokalanzeiger, 1934&lt;/li>
+&lt;li>Brixner Chronik, 1918&lt;/li>
+&lt;/ul>
+&lt;h3 id="technical-overview">Technical overview &lt;a href="#technical-overview" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;p>OCR was performed using Abbyy FineReader Engine v.11. The digitised material (TIFF image scans and ALTO XML files) amounts to some 15TB of data.&lt;/p>
+&lt;h2 id="citizen-science">Citizen science &lt;a href="#citizen-science" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h2>
+&lt;p>Zeit.shift falls under the &lt;a href="https://www.youtube.com/watch?v=FLEON7AFgOk">crowdsourcing and distributed intelligence&lt;/a> typology of citizen science projects (&lt;a href="https://link.springer.com/chapter/10.1007%2F978-94-007-4587-2_7">Haklay, 2013&lt;/a>). As such, it relies on the cognitive and observation abilities of the participants to crowdsource research data.&lt;/p>
+&lt;p>&lt;strong>Historypin&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Task type: macrotask&lt;/li>
+&lt;li>Purpose: geo- and semantic tagging of adverts, collect additional expert knowledge from the public, foster &lt;a href="https://en.wikipedia.org/wiki/Remix_culture">remix culture&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Ötzi game&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Task type: microtask&lt;/li>
+&lt;li>Purpose: correct the OCR of individual words&lt;/li>
+&lt;/ul>
+&lt;h3 id="dataset">Dataset &lt;a href="#dataset" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;p>The citizen science component of the project focuses on newspaper issues published approximately 100 years ago (1918-1924).&lt;/p>
+&lt;!--## Natural Language Processing-->
+&lt;h2 id="project-details">Project details &lt;a href="#project-details" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h2>
+&lt;h3 id="team">Team &lt;a href="#team" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>Landesbibliothek Dr. Friedrich Teßmann (Lead partner): Johannes Andresen&lt;/li>
+&lt;li>Universitäts- und Landesbibliothek Tirol: Silvia Gstrein, Maritta Horwath, Christian Kössler, Barbara Laner, Johanna Walcher&lt;/li>
+&lt;li>Eurac Research: Andrea Abel, Paolo Brasolin, Greta Franzini, Verena Lyding, Egon Stemle, Anna Tramarin (intern), Giovanni Moretti (external advisor)&lt;/li>
+&lt;/ul>
+&lt;div class="row">
+&lt;div class="col-sm">
+&lt;figure class="figure">
+&lt;img class="figure-img img-fluid lazyload blur-up" src="https://commul.github.io/all4ling/images/LBT_transparent_hu5ad659f35668c7d5741b961e5df9f744_76683_0x80_resize_box_3.png" width="319" height="80" alt="Teßmann logo" />
+&lt;noscript>&lt;img class="figure-img img-fluid" src="https://commul.github.io/all4ling/images/LBT_transparent_hu5ad659f35668c7d5741b961e5df9f744_76683_0x80_resize_box_3.png" width="319" height="80" alt="Teßmann logo" />&lt;/noscript>
+&lt;/figure>
+&lt;/div>
+&lt;div class="col-sm">
+&lt;figure class="figure">
+&lt;img class="figure-img img-fluid lazyload blur-up" src="https://commul.github.io/all4ling/images/innsbruck_logo_hu5e7b6149e0d0a46b107f03af24c22c40_8084_0x70_resize_box_3.png" width="247" height="70" alt="Uni Innsbruck logo" />
+&lt;noscript>&lt;img class="figure-img img-fluid" src="https://commul.github.io/all4ling/images/innsbruck_logo_hu5e7b6149e0d0a46b107f03af24c22c40_8084_0x70_resize_box_3.png" width="247" height="70" alt="Uni Innsbruck logo" />&lt;/noscript>
+&lt;/figure>
+&lt;/div>
+&lt;div class="col-sm">
+&lt;figure class="figure">
+&lt;img class="figure-img img-fluid lazyload blur-up" src="https://commul.github.io/all4ling/images/eurac_logo_hu6dcd3bbca4a6ba4f63e68b948fafa980_79737_0x55_resize_box_3.png" width="148" height="55" alt="Eurac Research logo" />
+&lt;noscript>&lt;img class="figure-img img-fluid" src="https://commul.github.io/all4ling/images/eurac_logo_hu6dcd3bbca4a6ba4f63e68b948fafa980_79737_0x55_resize_box_3.png" width="148" height="55" alt="Eurac Research logo" />&lt;/noscript>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="associated-partners">Associated partners &lt;a href="#associated-partners" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>Euregio Tirol-Südtirol-Trentino&lt;/li>
+&lt;li>Abteilung Tiroler Landesarchiv der Tiroler Landesregierung&lt;/li>
+&lt;li>Tiroler Landesmuseen&lt;/li>
+&lt;li>Südtiroler Kulturinstitut&lt;/li>
+&lt;li>Tiroler Bildungsforum&lt;/li>
+&lt;li>Südtiroler Landesarchiv der Autonomen Provinz Bozen-Südtirol&lt;/li>
+&lt;li>Bibliotheksverband Südtirol&lt;/li>
+&lt;/ul>
+&lt;!--**Collaborators**
+- Naturmuseum Südtirol-->
+&lt;h3 id="duration">Duration &lt;a href="#duration" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>October 2020 - October 2022&lt;/li>
+&lt;/ul>
+&lt;h3 id="budget">Budget &lt;a href="#budget" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>658,000 Euros&lt;br />
+&lt;figure class="figure" style="margin-top: 0;">
+&lt;a href="https://interreg.eu/programme/interreg-italy-austria/">
+&lt;img class="figure-img img-fluid lazyload blur-up" src="https://commul.github.io/all4ling/images/interreg_logo_hu7a6464b6976cfb42daa5bc86033d5f1a_632632_0x55_resize_box_3.png" width="176" height="55" alt="Inerreg logo" />
+&lt;noscript>&lt;img class="figure-img img-fluid" src="https://commul.github.io/all4ling/images/interreg_logo_hu7a6464b6976cfb42daa5bc86033d5f1a_632632_0x55_resize_box_3.png" width="176" height="55" alt="Inerreg logo" />&lt;/noscript>
+&lt;/a>
+&lt;/figure>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="objectives">Objectives &lt;a href="#objectives" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;ol>
+&lt;li>Digitisation of Tyrolean historical newspapers&lt;/li>
+&lt;li>Development and implementation of a citizen science initiative to curate and enrich the digitised newspapers&lt;/li>
+&lt;li>Computational linguistic processing of the digitised newspapers to improve data search and visualisation options&lt;/li>
+&lt;li>Digital access to the complete collection of newspapers via a web platform to support research and education&lt;/li>
+&lt;/ol>
+&lt;h3 id="keywords">Keywords &lt;a href="#keywords" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Citizen_science">citizen science&lt;/a>, &lt;a href="https://en.wikipedia.org/wiki/Human-based_computation_game">games with a purpose&lt;/a>, digitisation, historical newspapers, tyrol, &lt;a href="https://en.wikipedia.org/wiki/Natural_language_processing">natural language processing&lt;/a>, &lt;a href="https://en.wikipedia.org/wiki/Heritage_science">heritage science&lt;/a>, &lt;a href="https://en.wikipedia.org/wiki/Digital_heritage">digital cultural heritage&lt;/a>, cultural heritage volunteering, cultural heritage crowdsourcing, &lt;a href="https://en.wikipedia.org/wiki/Digital_humanities">digital humanities&lt;/a>, &lt;a href="https://en.wikipedia.org/wiki/Public_history">public history&lt;/a>, public digital humanities&lt;/p>
+&lt;h3 id="licensing">Licensing &lt;a href="#licensing" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;div xmlns:cc="http://creativecommons.org/ns#" >Full newspaper scans from the Teßmann Digital Library are licensed under &lt;a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0&lt;img style="height:1.125rem;margin-left:3px;vertical-align:baseline;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">&lt;img style="height:1.125rem;margin-left:3px;vertical-align:baseline;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">&lt;img style="height:1.125rem;margin-left:3px;vertical-align:baseline;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1">&lt;/a>&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;div xmlns:cc="http://creativecommons.org/ns#" >Full newspaper scans from the UniInnsbruck Digital Library are licensed under &lt;a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0&lt;img style="height:1.125rem;margin-left:3px;vertical-align:baseline;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">&lt;img style="height:1.125rem;margin-left:3px;vertical-align:baseline;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">&lt;/a>&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;div xmlns:cc="http://creativecommons.org/ns#" >Website and activity images are licensed under &lt;a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 3.0&lt;img style="height:1.125rem;margin-left:3px;vertical-align:baseline;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">&lt;img style="height:1.125rem;margin-left:3px;vertical-align:baseline;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1">&lt;/a>&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;div xmlns:cc="http://creativecommons.org/ns#" >Data and annotations contributed by citizens are licensed under &lt;a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0&lt;img style="height:1.125rem;margin-left:3px;vertical-align:baseline;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1">&lt;img style="height:1.125rem;margin-left:3px;vertical-align:baseline;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1">&lt;/a>&lt;/div>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="credits">Credits &lt;a href="#credits" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;p>Zeit.shift sources icons from &lt;a href="https://www.flaticon.com/authors/icongeek26">Icongeek26&lt;/a> and &lt;a href="https://www.flaticon.com/authors/freepik">Freepik&lt;/a> at &lt;a href="https://www.flaticon.com">Flaticon&lt;/a>, and audio files from &lt;a href="https://freesound.org/people/Yap_Audio_Production/sounds/218463/">Freesound&lt;/a>.&lt;/p></description></item><item><title>Participate</title><link>https://commul.github.io/all4ling/projects/zeitshift/participate/</link><pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate><guid>https://commul.github.io/all4ling/projects/zeitshift/participate/</guid><description>&lt;h2 id="how-can-i-contribute">How can I contribute? &lt;a href="#how-can-i-contribute" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h2>
+&lt;p>We&amp;rsquo;re developing &lt;strong>interactive applications&lt;/strong> designed to help you explore this wonderful body of textual heritage as you contribute data!&lt;/p>
+&lt;p>&lt;strong>We need your help with two tasks&lt;/strong>:&lt;/p>
+&lt;ol>
+&lt;li>📍 Locating and/or tag advertisements&lt;/li>
+&lt;li>🎮 Transcribing individual words&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Your help will make the newspapers more usable for both humans and machines!&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The processed text will be made available online for users to search, browse and enjoy.&lt;/li>
+&lt;li>The processed text will be used by Eurac Research to improve the searchability of the digitised newspapers.&lt;/li>
+&lt;/ul>
+&lt;h3 id="-historypin">📍 Historypin &lt;a href="#-historypin" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;figure class="figure">
+&lt;img class="figure-img img-fluid lazyload blur-up" data-sizes="auto" src="https://commul.github.io/all4ling/projects/zeitshift/participate/historypin_huff24b38e657daca552460abe32f4d8fa_150346_20x0_resize_q75_h2_box_2.webp" data-srcset="https://commul.github.io/all4ling/projects/zeitshift/participate/historypin_huff24b38e657daca552460abe32f4d8fa_150346_900x0_resize_q75_h2_box_2.webp 900w,https://commul.github.io/all4ling/projects/zeitshift/participate/historypin_huff24b38e657daca552460abe32f4d8fa_150346_800x0_resize_q75_h2_box_2.webp 800w,https://commul.github.io/all4ling/projects/zeitshift/participate/historypin_huff24b38e657daca552460abe32f4d8fa_150346_700x0_resize_q75_h2_box_2.webp 700w,https://commul.github.io/all4ling/projects/zeitshift/participate/historypin_huff24b38e657daca552460abe32f4d8fa_150346_600x0_resize_q75_h2_box_2.webp 600w,https://commul.github.io/all4ling/projects/zeitshift/participate/historypin_huff24b38e657daca552460abe32f4d8fa_150346_500x0_resize_q75_h2_box_2.webp 500w" width="1917" height="965" alt="Historypin" />
+&lt;noscript>&lt;img class="figure-img img-fluid" sizes="100vw" srcset="https://commul.github.io/all4ling/projects/zeitshift/participate/historypin_huff24b38e657daca552460abe32f4d8fa_150346_900x0_resize_q75_h2_box_2.webp 900w,https://commul.github.io/all4ling/projects/zeitshift/participate/historypin_huff24b38e657daca552460abe32f4d8fa_150346_800x0_resize_q75_h2_box_2.webp 800w,https://commul.github.io/all4ling/projects/zeitshift/participate/historypin_huff24b38e657daca552460abe32f4d8fa_150346_700x0_resize_q75_h2_box_2.webp 700w,https://commul.github.io/all4ling/projects/zeitshift/participate/historypin_huff24b38e657daca552460abe32f4d8fa_150346_600x0_resize_q75_h2_box_2.webp 600w,https://commul.github.io/all4ling/projects/zeitshift/participate/historypin_huff24b38e657daca552460abe32f4d8fa_150346_500x0_resize_q75_h2_box_2.webp 500w" src="https://commul.github.io/all4ling/projects/zeitshift/participate/historypin.webp" width="1917" height="965" alt="Historypin" />&lt;/noscript>
+&lt;figcaption class="figure-caption">
+&lt;span>Zeit.shift advertisement in Historypin.&lt;/span>
+&lt;div>&lt;small>&lt;a rel="license" href="https://creativecommons.org/licenses/by/3.0/">
+This image is licensed under CC BY 3.0
+&lt;/a>
+&lt;/small>&lt;/div>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>In this activity, citizens locate and tag historical advertisements published in the newspapers in order to reconstruct the commercial landscape of early 20th century Tyrol. Many shops from those times still exist today! This activity makes use of an existing third-party platform, &lt;a href="https://www.historypin.org/en/">Historypin&lt;/a>.&lt;/p>
+&lt;p>&lt;strong>You will need&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>Basic knowledge of German and Fraktur script&lt;/li>
+&lt;li>A free &lt;a href="https://www.historypin.org" target="_blank">Historypin&lt;/a> account&lt;/li>
+&lt;li>A desktop computer (activity not designed for mobile devices)&lt;/li>
+&lt;li>To add &lt;a href="https://commul.github.io/all4ling/all4ling/projects/zeitshift/historypin/#32-tags">specific tags&lt;/a> and/or location information to the newspaper adverts&lt;/li>
+&lt;/ul>
+&lt;div class="row justify-content-center text-center">
+&lt;div class="col-lg-4" style="padding-left:0; padding-right:0;">
+&lt;a href="https://all4ling.eurac.edu/zeitshift/historypin/tutorial">&lt;button type="button" class="btn btn-success" style="background-color: #00A984;">📺 VIDEO&lt;/button>&lt;/a>
+&lt;br />&lt;br />
+&lt;/div>
+&lt;div class="col-lg-4" style="padding-left:0; padding-right:0;">
+&lt;a href="https://commul.github.io/all4ling/all4ling/projects/zeitshift/historypin/">&lt;button type="button" class="btn btn-success" style="background-color: #00A984;">📃 INSTRUCTIONS&lt;/button>&lt;/a>
+&lt;br />&lt;br />
+&lt;/div>
+&lt;div class="col-lg-4" style="padding-left: 0; padding-right: 0;">
+&lt;a href="https://www.historypin.org/en/zeit-shift/geo/46.494565,11.347343,17/bounds/46.492353,11.345021,46.496777,11.349665/search/tag:zu lokalizieren,tag:zu taggen/sort/-date_taken/paging/1" target="_blank" title="Opens in new tab">&lt;button type="button" class="btn btn-success" style="background-color: #00A984;">🚀 START!&lt;/button>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="-ötzit">🎮 Ötzit! &lt;a href="#-%c3%b6tzit" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h3>
+&lt;figure class="figure" style="margin-top: 0;">
+&lt;img class="figure-img img-fluid lazyload blur-up" data-sizes="auto" src="https://commul.github.io/all4ling/images/oetzi_game_hu807f47aeb4d5c0d1f2802b76a8894a1f_972497_20x0_resize_box_3.png" data-srcset="https://commul.github.io/all4ling/images/oetzi_game_hu807f47aeb4d5c0d1f2802b76a8894a1f_972497_900x0_resize_box_3.png 900w,https://commul.github.io/all4ling/images/oetzi_game_hu807f47aeb4d5c0d1f2802b76a8894a1f_972497_800x0_resize_box_3.png 800w,https://commul.github.io/all4ling/images/oetzi_game_hu807f47aeb4d5c0d1f2802b76a8894a1f_972497_700x0_resize_box_3.png 700w,https://commul.github.io/all4ling/images/oetzi_game_hu807f47aeb4d5c0d1f2802b76a8894a1f_972497_600x0_resize_box_3.png 600w,https://commul.github.io/all4ling/images/oetzi_game_hu807f47aeb4d5c0d1f2802b76a8894a1f_972497_500x0_resize_box_3.png 500w" width="1829" height="922" alt="Game preview" />
+&lt;noscript>&lt;img class="figure-img img-fluid" sizes="100vw" srcset="https://commul.github.io/all4ling/images/oetzi_game_hu807f47aeb4d5c0d1f2802b76a8894a1f_972497_900x0_resize_box_3.png 900w,https://commul.github.io/all4ling/images/oetzi_game_hu807f47aeb4d5c0d1f2802b76a8894a1f_972497_800x0_resize_box_3.png 800w,https://commul.github.io/all4ling/images/oetzi_game_hu807f47aeb4d5c0d1f2802b76a8894a1f_972497_700x0_resize_box_3.png 700w,https://commul.github.io/all4ling/images/oetzi_game_hu807f47aeb4d5c0d1f2802b76a8894a1f_972497_600x0_resize_box_3.png 600w,https://commul.github.io/all4ling/images/oetzi_game_hu807f47aeb4d5c0d1f2802b76a8894a1f_972497_500x0_resize_box_3.png 500w" src="https://commul.github.io/all4ling/images/oetzi_game.png" width="1829" height="922" alt="Game preview" />&lt;/noscript>
+&lt;figcaption class="figure-caption">
+&lt;span>Our Ötzit! game.&lt;/span>
+&lt;div>&lt;small>&lt;a rel="license" href="https://creativecommons.org/licenses/by/3.0/">
+This image is licensed under CC BY 3.0
+&lt;/a>
+&lt;/small>&lt;/div>
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>In this custom web game, inspired by &lt;a href="http://typespeed.sourceforge.net/">Typespeed&lt;/a>, words automatically extracted from the digitised Tyrolean newspapers drop from the sky. The goal of the game is simple: you must type the words as fast as possible before the animals reach and kill &lt;a href="https://www.iceman.it/en/the-iceman/">Ötzi the Iceman&lt;/a>! Words typed correctly will scare off the animals and prolong Ötzi&amp;rsquo;s life. &lt;!--When Ötzi dies, you are shown the original newspaper article from which the killing name (the killer!) was taken, allowing you to explore its context.-->&lt;/p>
+&lt;!--&lt;div class="alert alert-info d-flex" role="alert">
+&lt;div class="flex-shrink-1 alert-icon">👉 &lt;/div>
+&lt;div class="w-100">No sign-up or registration required! &lt;/div>
+&lt;/div>
+&lt;br />&lt;br />-->
+&lt;div class="row justify-content-center text-center">
+&lt;a href="https://eurac.itch.io/oetzit" target="_blank" title="Opens in new tab">&lt;button type="button" class="btn btn-danger" style="background-color: #DF1B12; font-size: 14pt;">🚀&amp;nbsp;START!&lt;/button>&lt;/a>
+&lt;/div>
+&lt;h2 id="why-should-i-contribute">Why should I contribute? &lt;a href="#why-should-i-contribute" class="anchor" aria-hidden="true">#&lt;/a>&lt;/h2>
+&lt;p>&lt;strong>Your contributions to Zeit.shift will help&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>accelerate research progress&lt;/li>
+&lt;li>make text more searchable and usable&lt;/li>
+&lt;li>create new knowledge for education and research alike&lt;/li>
+&lt;li>make the newspaper collection more discoverable&lt;/li>
+&lt;li>preserve the historical memory of Tyrol&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Personal benefits you can expect from your involvement are&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>increased awareness of Tyrolean history and culture&lt;/li>
+&lt;li>increased understanding of research procedures (e.g. digitisation and data quality)&lt;/li>
+&lt;li>possibility of influencing changes in project methodology, objectives, development, results or dissemination&lt;/li>
+&lt;li>increased familiarity with data that you might use in your own projects&lt;/li>
+&lt;li>acknowledgement of your contribution in academic publications and on our website &lt;!-- LINK TO COMMUNITY PAGE, WHEN AVAILABLE -->&lt;/li>
+&lt;li>self-contained, casual tasks you can do whenever suits you best&lt;/li>
+&lt;li>discover new interests, likeminded people and communities&lt;/li>
+&lt;/ul></description></item><item><title>Zeit.shift MOOC -Digital in gesterns Zukunft- goes online! 👩🏼‍🏫</title><link>https://commul.github.io/all4ling/blog/2022-05-05/zeit.shift-mooc-digital-in-gesterns-zukunft-goes-online/</link><pubDate>Thu, 05 May 2022 06:00:42 +0100</pubDate><guid>https://commul.github.io/all4ling/blog/2022-05-05/zeit.shift-mooc-digital-in-gesterns-zukunft-goes-online/</guid><description>&lt;p>We&amp;rsquo;re very happy to announce that the Zeit.shift e-learning course (MOOC) is now online!&lt;/p>
+&lt;p>What do newspapers tell us about life 100 years ago? How can I research historical newspapers available online to formulate a scholarly question? How are newspapers digitized and made accessible via web platforms?&lt;/p>
+&lt;p>In the Zeit.shift MOOC &amp;ldquo;Digital in yesterday&amp;rsquo;s future&amp;rdquo; you will work with digitised historical newspapers from North, East and South Tyrol made available online for scholarly research. We will prepare selected topics from the newspapers as examples to give you a better understanding of the range of historical texts and we will make it easier for you to find an exciting topic for a scientific paper.&lt;/p>
+&lt;p>The MOOC is primarily aimed at students and anyone who wishes to work with newspapers available online. We will guide you through these historical sources, helping you investigate them in new ways.&lt;/p>
+&lt;p>&lt;strong>Registration is free&lt;/strong>!&lt;/p>
+&lt;p>Course link: &lt;a href="https://imoox.at/course/zeitshift">https://imoox.at/course/zeitshift&lt;/a>&lt;/p>
+&lt;p>&lt;br />&lt;br />&lt;/p>
+&lt;center>
+&lt;figure>
+&lt;img class="img-fluid" sizes="100vw" srcset="https://commul.github.io/all4ling/blog/2022-05-05/zeit.shift-mooc-digital-in-gesterns-zukunft-goes-online/zs_mooc_hu86175c90b3de8956b277f367a85a1d9a_98742_900x0_resize_q75_box.jpg 900w,https://commul.github.io/all4ling/blog/2022-05-05/zeit.shift-mooc-digital-in-gesterns-zukunft-goes-online/zs_mooc_hu86175c90b3de8956b277f367a85a1d9a_98742_800x0_resize_q75_box.jpg 800w,https://commul.github.io/all4ling/blog/2022-05-05/zeit.shift-mooc-digital-in-gesterns-zukunft-goes-online/zs_mooc_hu86175c90b3de8956b277f367a85a1d9a_98742_700x0_resize_q75_box.jpg 700w,https://commul.github.io/all4ling/blog/2022-05-05/zeit.shift-mooc-digital-in-gesterns-zukunft-goes-online/zs_mooc_hu86175c90b3de8956b277f367a85a1d9a_98742_600x0_resize_q75_box.jpg 600w,https://commul.github.io/all4ling/blog/2022-05-05/zeit.shift-mooc-digital-in-gesterns-zukunft-goes-online/zs_mooc_hu86175c90b3de8956b277f367a85a1d9a_98742_500x0_resize_q75_box.jpg 500w" src="https://commul.github.io/all4ling/blog/2022-05-05/zeit.shift-mooc-digital-in-gesterns-zukunft-goes-online/zs_mooc.jpg" width="975" height="716" alt="Zeit.shift MOOC homepage">
+&lt;/figure>
+&lt;/center></description></item><item><title>Unterinntaler Bote adverts added to Historypin📍</title><link>https://commul.github.io/all4ling/blog/2022-04-11/unterinntaler-bote-adverts-added-to-historypin/</link><pubDate>Mon, 11 Apr 2022 06:00:42 +0100</pubDate><guid>https://commul.github.io/all4ling/blog/2022-04-11/unterinntaler-bote-adverts-added-to-historypin/</guid><description>&lt;p>A new collection of 110 historical advertisements from the &lt;em>Unterinntaler Bote&lt;/em> newspaper is now available in Historypin! This newspaper was published in Hall in Tirol, North Tyrol, between 1892 and 1916 and the adverts you&amp;rsquo;ll find online were extracted from the 1900 issue.&lt;/p>
+&lt;br />
+&lt;p style="text-align: center">&lt;a href="https://www.historypin.org/en/zeit-shift/unterinntaler-bote-1900/geo/47.280403,11.505848,15/bounds/47.280403,11.492781,47.280403,11.518916/paging/1" target="_blank">&lt;button type="button" class="btn btn-success" style="background-color: #00A984;">Start tagging!&lt;/button>&lt;/a>&lt;/p>
+&lt;p>&lt;br />&lt;br />&lt;/p>
+&lt;center>
+&lt;figure>
+&lt;img class="img-fluid" sizes="100vw" srcset="https://commul.github.io/all4ling/blog/2022-04-11/unterinntaler-bote-adverts-added-to-historypin/futterbereitungs_maschinen_hu2f63580a3257886f695f5aadc555a960_126710_900x0_resize_q75_box.jpg 900w,https://commul.github.io/all4ling/blog/2022-04-11/unterinntaler-bote-adverts-added-to-historypin/futterbereitungs_maschinen_hu2f63580a3257886f695f5aadc555a960_126710_800x0_resize_q75_box.jpg 800w,https://commul.github.io/all4ling/blog/2022-04-11/unterinntaler-bote-adverts-added-to-historypin/futterbereitungs_maschinen_hu2f63580a3257886f695f5aadc555a960_126710_700x0_resize_q75_box.jpg 700w,https://commul.github.io/all4ling/blog/2022-04-11/unterinntaler-bote-adverts-added-to-historypin/futterbereitungs_maschinen_hu2f63580a3257886f695f5aadc555a960_126710_600x0_resize_q75_box.jpg 600w,https://commul.github.io/all4ling/blog/2022-04-11/unterinntaler-bote-adverts-added-to-historypin/futterbereitungs_maschinen_hu2f63580a3257886f695f5aadc555a960_126710_500x0_resize_q75_box.jpg 500w" src="https://commul.github.io/all4ling/blog/2022-04-11/unterinntaler-bote-adverts-added-to-historypin/futterbereitungs_maschinen.jpg" width="1000" height="749" alt="Futterbereitungs-Maschinen advert">
+&lt;/figure>
+&lt;/center></description></item></channel></rss>
